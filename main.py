@@ -20,7 +20,7 @@ class Course:
 
             return False
         if float(self.time_start().replace(":", ".")) >= float(other.time_end().replace(":", ".")):
-            print(other.time_end())
+            # print(other.time_end())
             return False
         if float(self.time_end().replace(":", ".")) <= float(other.time_start().replace(":", ".")):
             return False
@@ -51,12 +51,21 @@ dec = {}
 def print_combinations(ArraySec, ArraySize, index=0, current_combination=[]):
     if index == len(ArraySize):
         # print(f" current_combination = {current_combination} == > index = {index}")
-        for sec in range(len(current_combination)):
-            print("sec = ", courses[sec][current_combination[sec]])
-        print()
-        combination_tuple = tuple(current_combination)
-        if sum(combination_tuple) == 5:
-            dec[combination_tuple] = sum(combination_tuple)
+
+        chosenSections = []
+
+        for sec in range(len(current_combination)): # making list of chosen sections
+            chosenSections.append(courses[sec][current_combination[sec]])
+            #sections =  [<__main__.Course object at 0x000002B2EF867FD0>, <__main__.Course object at 0x000002B2EF867D90>]
+
+        # check if there is a collision between chosen sections
+        for i in range(len(chosenSections)):
+            for j in range(i+1, len(chosenSections)):
+                if chosenSections[i].collision(chosenSections[j]):
+                    return
+        chosenSectionsTuple = tuple(chosenSections)
+
+        dec[chosenSectionsTuple] = False
         return
 
     max_number = ArraySize[index]
@@ -69,3 +78,9 @@ ArraySec = [[arab1, arab2, arab3], [eng1, eng2, eng3]]
 ArraySize = [2, 2]
 print_combinations(ArraySec, ArraySize)
 # print(dec)
+# ------------------ 2 ------------------
+for key in dec.keys():
+    for k in key:
+        print(k)
+    
+    print("*************")
