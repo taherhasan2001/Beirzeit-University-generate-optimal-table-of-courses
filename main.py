@@ -9,7 +9,6 @@ class Course:
         return self.time_display.split("-")[0]
     def time_end(self): # return string
         return self.time_display.split("-")[1]
-
     def collision(self, other): # other is another Course object
         # return True if self and other have collision
         flag_days = True # keep True if no days in common
@@ -33,10 +32,17 @@ class Course:
 
 
 # course_label, section, instructor, days, time_display
-sec1 = Course("CS 101", 0, "Dr. John", "M,W,F", "8:00-9:15")
-sec2 = Course("CS 101", 1, "Dr. John", "M,W,F", "7:30-10:45")
-sec3 = Course("CS 101", 2, "Dr. John", "M,W,F", "9:30-10:45")
-print(sec1.collision(sec3))
+arab1 = Course("CS 101", 0, "Dr. John", "M,W,F", "8:00-9:15")
+arab2 = Course("CS 101", 1, "Dr. John", "M,W,F", "7:30-10:45")
+arab3 = Course("CS 101", 2, "Dr. John", "M,W,F", "9:30-10:45")
+# print(arab1.collision(arab3))
+
+eng1 = Course("CS 101", 0, "Dr. Abbas", "M,W,F", "8:00-9:15")
+eng2 = Course("CS 101", 1, "Dr. Abbas", "M,W,F", "7:30-10:45")
+eng3 = Course("CS 101", 2, "Dr. Abbas", "M,W,F", "9:30-10:45")
+# print(eng1.collision(eng3))
+
+courses = [[arab1, arab2, arab3], [eng1, eng2, eng3]]
 
 # ------------------ 1 ------------------
 
@@ -44,6 +50,10 @@ dec = {}
 
 def print_combinations(ArraySec, ArraySize, index=0, current_combination=[]):
     if index == len(ArraySize):
+        # print(f" current_combination = {current_combination} == > index = {index}")
+        for sec in range(len(current_combination)):
+            print("sec = ", courses[sec][current_combination[sec]])
+        print()
         combination_tuple = tuple(current_combination)
         if sum(combination_tuple) == 5:
             dec[combination_tuple] = sum(combination_tuple)
@@ -55,7 +65,7 @@ def print_combinations(ArraySec, ArraySize, index=0, current_combination=[]):
         print_combinations(ArraySec, ArraySize, index + 1, current_combination)
         current_combination.pop()
 
-ArraySec = [0, 0, 0, 0, 0]
-ArraySize = [1, 2, 3, 4, 5]
+ArraySec = [[arab1, arab2, arab3], [eng1, eng2, eng3]]
+ArraySize = [2, 2]
 print_combinations(ArraySec, ArraySize)
-print(dec)
+# print(dec)
