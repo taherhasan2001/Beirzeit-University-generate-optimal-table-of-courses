@@ -36,16 +36,6 @@ class Course:
         return f"{self.course_label}-{self.section}-{self.instructor}-{self.days}-{self.time_start()} -> {self.time_end()}"
     def __repr__(self):
         return f"{self.course_label}-{self.section}-{self.instructor}-{self.days}-{self.time_start()} -> {self.time_end()}"
-# course_label, section, instructor, days, time_display
-arab1 = Course("CS101", 0, "Dr. John", "M,W", "8:00-9:15")
-arab2 = Course("CS101", 1, "Dr. John", "T,F", "7:30-10:45")
-arab3 = Course("CS101", 2, "Dr. John", "F", "9:30-10:45")
-# print(arab1.collision(arab3))
-
-eng1 = Course("CS102", 0, "Dr. Abbas", "T,F", "8:00-9:15")
-eng2 = Course("CS102", 1, "Dr. Abbas", "T,W", "7:30-10:45")
-eng3 = Course("CS102", 2, "Dr. Abbas", "T,W", "9:30-10:45")
-# print(eng1.collision(eng3))
 
 
 
@@ -72,20 +62,23 @@ def search_courses(course_name, preName): # ex : preName = 'ACCT'
                 found_courses.append(course)
             elif flagWeGotOne:
                 break
-
     return found_courses
 
 # ------------------ 0 ------------------
+arab1 = Course("CS101", 0, "Dr. John", "M,W", "8:00-9:15")
+arab2 = Course("CS101", 1, "Dr. John", "T,F", "7:30-10:45")
+arab3 = Course("CS101", 2, "Dr. John", "F", "9:30-10:45")
 
+eng1 = Course("CS102", 0, "Dr. Abbas", "T,F", "8:00-9:15")
+eng2 = Course("CS102", 1, "Dr. Abbas", "T,W", "7:30-10:45")
+eng3 = Course("CS102", 2, "Dr. Abbas", "T,W", "9:30-10:45")
 
+listACCT = search_courses("ACCT230", "ACCT")
+listCOMP = search_courses("COMP233", "COMP")
+listCOMP2 = search_courses("COMP122", "COMP")
+listENCS = search_courses("ENCS4300", "ENCS")
 
-
-list = search_courses("ACCT230", "ACCT")
-
-
-
-
-courses = [[arab1,arab2,arab3], [eng1,eng2,eng3],list]
+courses = [[arab1,arab2,arab3],[eng1,eng2,eng3],listACCT , listCOMP, listCOMP2]
 
 # ------------------ 1 ------------------
 minDays = None
@@ -120,6 +113,9 @@ def print_combinations(ArraySec, index=0, current_combination=[]):
 
         minDays = len(numberOfDays)
         # print("minDays: ", minDays)
+
+
+
         chosenSectionsTuple = tuple(chosenSections)
 
         dec[chosenSectionsTuple] = numberOfDays
@@ -131,21 +127,29 @@ def print_combinations(ArraySec, index=0, current_combination=[]):
         print_combinations(ArraySec, index + 1, current_combination)
         current_combination.pop()
 
-
-
-
-
-
-
-
-
-
 print_combinations(courses)
-# print(dec)
-# ------------------ 2 ------------------
-for key in dec:
-    for k in key:
-        print(k)
-    print("key: ", dec[key])
 
+
+
+
+
+# ------------------ reduce the days ------------------
+# to reduce the days of each combination to the minimum
+deleted = []
+for key in dec:
+    # if s[0] != min:
+    if len(dec[key]) != minDays:
+        deleted.append(key)
+    # print("*************")
+for key in deleted:
+    dec.pop(key)
+# ------------------ reduce the days ------------------
+
+
+
+
+for key in dec:
+    for k in key :
+        print(k)
+    print(dec[key])
     print("*************")
