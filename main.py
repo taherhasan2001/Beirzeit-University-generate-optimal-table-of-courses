@@ -32,9 +32,9 @@ class Course:
 
 
 # course_label, section, instructor, days, time_display
-arab1 = Course("CS101", 0, "Dr. John", "Tue,Wen", "8:00-9:15")
-arab2 = Course("CS101", 1, "Dr. John", "Tue,Wen", "7:30-10:45")
-arab3 = Course("CS101", 2, "Dr. John", "Tue,Wen", "9:30-10:45")
+arab1 = Course("CS101", 0, "Dr. John", "Mon,Wen", "8:00-9:15")
+arab2 = Course("CS101", 1, "Dr. John", "Tue,Fri", "7:30-10:45")
+arab3 = Course("CS101", 2, "Dr. John", "Fri", "9:30-10:45")
 # print(arab1.collision(arab3))
 
 eng1 = Course("CS102", 0, "Dr. Abbas", "Tue,Wen", "8:00-9:15")
@@ -54,15 +54,19 @@ def print_combinations(ArraySec, index=0, current_combination=[]):
         for sec in range(len(current_combination)): # making list of chosen sections
             chosenSections.append(courses[sec][current_combination[sec]])
             #example : chosenSections =  [<__main__.Course object at 0x000002B2EF867FD0>, <__main__.Course object at 0x000002B2EF867D90>]
-
+        numberOfDays = []
         # check if there is a collision between chosen sections
         for i in range(len(chosenSections)):
+            for day in  chosenSections[i].days.split(',') : # check the days of each section
+                if day not in numberOfDays:
+                    numberOfDays.append(day)
             for j in range(i+1, len(chosenSections)):
                 if chosenSections[i].collision(chosenSections[j]):
                     return
-        chosenSectionsTuple = tuple(chosenSections)
 
-        dec[chosenSectionsTuple] = False
+        chosenSectionsTuple = tuple(chosenSections)
+        
+        dec[chosenSectionsTuple] = len(numberOfDays)
         return
 
     max_number = len(ArraySec[index]) - 1
@@ -76,8 +80,9 @@ ArraySec = [[arab1, arab2, arab3], [eng1, eng2, eng3]]
 print_combinations(ArraySec)
 # print(dec)
 # ------------------ 2 ------------------
-for key in dec.keys():
+for key in dec:
     for k in key:
         print(k)
+    print("Days: ", dec[key])
 
     print("*************")
