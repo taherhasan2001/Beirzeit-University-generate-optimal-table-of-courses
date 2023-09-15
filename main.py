@@ -1,10 +1,14 @@
+
+import json
 class Course:
-    def __init__(self, course_label, section, instructor, days, time_display):
+    def __init__(self, course_label, section, instructor, days, time_display,place=None,numOfStudents=None):
         self.course_label = course_label
         self.time_display = time_display # 8:00-9:15
         self.section = section  # 0,1,2,3,...
         self.instructor = instructor  # name
         self.days = days  # "S,M,T,W,R" capital letters with comma
+        self.place = place # "O.Abdulhadi052"
+        self.numOfStudents = numOfStudents # 54 / 120
     def time_start(self): # return string
         return self.time_display.split("-")[0]
     def time_end(self): # return string
@@ -33,17 +37,55 @@ class Course:
     def __repr__(self):
         return f"{self.course_label}-{self.section}-{self.instructor}-{self.days}-{self.time_start()} -> {self.time_end()}"
 # course_label, section, instructor, days, time_display
-arab1 = Course("CS101", 0, "Dr. John", "Mon,Wen", "8:00-9:15")
-arab2 = Course("CS101", 1, "Dr. John", "Tue,Fri", "7:30-10:45")
-arab3 = Course("CS101", 2, "Dr. John", "Fri", "9:30-10:45")
+arab1 = Course("CS101", 0, "Dr. John", "M,W", "8:00-9:15")
+arab2 = Course("CS101", 1, "Dr. John", "T,F", "7:30-10:45")
+arab3 = Course("CS101", 2, "Dr. John", "F", "9:30-10:45")
 # print(arab1.collision(arab3))
 
-eng1 = Course("CS102", 0, "Dr. Abbas", "Tue,Fri", "8:00-9:15")
-eng2 = Course("CS102", 1, "Dr. Abbas", "Tue,Wen", "7:30-10:45")
-eng3 = Course("CS102", 2, "Dr. Abbas", "Tue,Wen", "9:30-10:45")
+eng1 = Course("CS102", 0, "Dr. Abbas", "T,F", "8:00-9:15")
+eng2 = Course("CS102", 1, "Dr. Abbas", "T,W", "7:30-10:45")
+eng3 = Course("CS102", 2, "Dr. Abbas", "T,W", "9:30-10:45")
 # print(eng1.collision(eng3))
 
-courses = [[arab1,arab2,arab3], [eng1,eng2,eng3]]
+
+
+# ------------------ 0 ------------------
+
+def search_courses(course_name, preName): # ex : preName = 'ACCT'
+    found_courses = []
+    flagWeGotOne = False
+    with open(f'{preName}.json', 'r', encoding='utf-8') as file:
+        data = json.load(file)
+
+        for course_data in data:
+            if course_data["name of course"] == course_name:
+                flagWeGotOne = True
+                course = Course(
+                    course_data["name of course"],
+                    course_data["sec"],
+                    course_data["name of instructor"],
+                    course_data["days"].replace(" ", ""),
+                    course_data["time"],
+                    course_data["place"],
+                    course_data["number of students"]
+                )
+                found_courses.append(course)
+            elif flagWeGotOne:
+                break
+
+    return found_courses
+
+# ------------------ 0 ------------------
+
+
+
+
+list = search_courses("ACCT230", "ACCT")
+
+
+
+
+courses = [[arab1,arab2,arab3], [eng1,eng2,eng3],list]
 
 # ------------------ 1 ------------------
 minDays = None
@@ -70,17 +112,17 @@ def print_combinations(ArraySec, index=0, current_combination=[]):
                     numberOfDays.append(day)
             for j in range(i+1, len(chosenSections)):
                 if chosenSections[i].collision(chosenSections[j]):
-                    print(f"Collision between: {chosenSections[i]} and {chosenSections[j]}")
+                    # print(f"Collision between: {chosenSections[i]} and {chosenSections[j]}")
                     return
         if minDays != None and len(numberOfDays) > minDays:
-            print('yes')
+            # print('yes')
             return
 
         minDays = len(numberOfDays)
-        print("minDays: ", minDays)
+        # print("minDays: ", minDays)
         chosenSectionsTuple = tuple(chosenSections)
 
-        dec[chosenSectionsTuple] = minDays
+        dec[chosenSectionsTuple] = numberOfDays
         return
 
     max_number = len(ArraySec[index]) - 1
@@ -88,6 +130,14 @@ def print_combinations(ArraySec, index=0, current_combination=[]):
         current_combination.append(i)
         print_combinations(ArraySec, index + 1, current_combination)
         current_combination.pop()
+
+
+
+
+
+
+
+
 
 
 print_combinations(courses)
