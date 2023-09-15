@@ -65,6 +65,10 @@ def search_courses(course_name, preName): # ex : preName = 'ACCT'
     return found_courses
 
 # ------------------ 0 ------------------
+
+
+
+
 arab1 = Course("CS101", 0, "Dr. John", "M,W", "8:00-9:15")
 arab2 = Course("CS101", 1, "Dr. John", "T,F", "7:30-10:45")
 arab3 = Course("CS101", 2, "Dr. John", "F", "9:30-10:45")
@@ -87,8 +91,6 @@ dec = {}
 def print_combinations(ArraySec, index=0, current_combination=[]):
     global minDays
 
-    if minDays != None and len(current_combination) > minDays:
-        return
     if index == len(ArraySec):
         chosenSections = []
         for sec in range(len(current_combination)): # making list of chosen sections
@@ -107,18 +109,23 @@ def print_combinations(ArraySec, index=0, current_combination=[]):
                 if chosenSections[i].collision(chosenSections[j]):
                     # print(f"Collision between: {chosenSections[i]} and {chosenSections[j]}")
                     return
-        if minDays != None and len(numberOfDays) > minDays:
-            # print('yes')
-            return
 
-        minDays = len(numberOfDays)
+        if minDays == None or len(numberOfDays) < minDays:
+            minDays = len(numberOfDays)
         # print("minDays: ", minDays)
+        startTime = None
+        endTime = None
+        for section in chosenSections:
+            if startTime == None or float(section.time_start().replace(":", ".")) < float(startTime.replace(":", ".")):
+                startTime = section.time_start()
+            if endTime == None or float(section.time_end().replace(":", ".")) > float(endTime.replace(":", ".")):
+                endTime = section.time_end()
 
 
 
         chosenSectionsTuple = tuple(chosenSections)
 
-        dec[chosenSectionsTuple] = numberOfDays
+        dec[chosenSectionsTuple] = {"numberOfDays" : numberOfDays , "startTime" : startTime , "endTime" : endTime}
         return
 
     max_number = len(ArraySec[index]) - 1
@@ -135,16 +142,17 @@ print_combinations(courses)
 
 # ------------------ reduce the days ------------------
 # to reduce the days of each combination to the minimum
-deleted = []
-for key in dec:
-    # if s[0] != min:
-    if len(dec[key]) != minDays:
-        deleted.append(key)
-    # print("*************")
-for key in deleted:
-    dec.pop(key)
+def reduce_the_days():
+    deleted = []
+    for key in dec:
+        # if s[0] != min:
+        if len(dec[key]['numberOfDays']) != minDays:
+            deleted.append(key)
+        # print("*************")
+    for key in deleted:
+        dec.pop(key)
 # ------------------ reduce the days ------------------
-
+reduce_the_days()
 
 
 
