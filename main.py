@@ -1,4 +1,3 @@
-
 import json
 class Course:
     def __init__(self, course_label, section, instructor, days, time_display,place=None,numOfStudents=None):
@@ -37,10 +36,7 @@ class Course:
     def __repr__(self):
         return f"{self.course_label}-{self.section}-{self.instructor}-{self.days}-{self.time_start()} -> {self.time_end()}"
 
-
-
 # ------------------ 0 ------------------
-
 def search_courses(course_name, preName): # ex : preName = 'ACCT'
     found_courses = []
     flagWeGotOne = False
@@ -66,31 +62,23 @@ def search_courses(course_name, preName): # ex : preName = 'ACCT'
 
 # ------------------ 0 ------------------
 
-
-
-
-arab1 = Course("CS101", 0, "Dr. John", "M,W", "8:00-9:15")
-arab2 = Course("CS101", 1, "Dr. John", "T,F", "7:30-10:45")
-arab3 = Course("CS101", 2, "Dr. John", "F", "9:30-10:45")
-
-eng1 = Course("CS102", 0, "Dr. Abbas", "T,F", "8:00-9:15")
-eng2 = Course("CS102", 1, "Dr. Abbas", "T,W", "7:30-10:45")
-eng3 = Course("CS102", 2, "Dr. Abbas", "T,W", "9:30-10:45")
-
 listACCT = search_courses("ACCT230", "ACCT")
 listCOMP = search_courses("COMP233", "COMP")
 listCOMP2 = search_courses("COMP122", "COMP")
 listENCS = search_courses("ENCS4300", "ENCS")
 
-courses = [[arab1,arab2,arab3],[eng1,eng2,eng3],listACCT , listCOMP, listCOMP2]
+courses = [listACCT , listCOMP, listCOMP2]
 
 # ------------------ 1 ------------------
 minDays = None
+minStartTime = None
+minEndTime = None
 dec = {}
 
-def print_combinations(ArraySec, index=0, current_combination=[]):
+def combinations(ArraySec, index=0, current_combination=[]):
     global minDays
-
+    global minStartTime
+    global minEndTime
     if index == len(ArraySec):
         chosenSections = []
         for sec in range(len(current_combination)): # making list of chosen sections
@@ -112,7 +100,8 @@ def print_combinations(ArraySec, index=0, current_combination=[]):
 
         if minDays == None or len(numberOfDays) < minDays:
             minDays = len(numberOfDays)
-        # print("minDays: ", minDays)
+        if minStartTime == None or float(chosenSections[0].time_start().replace(":", ".")) < float(minStartTime.replace(":", ".")):
+            minStartTime = chosenSections[0].time_start()
         startTime = None
         endTime = None
         for section in chosenSections:
@@ -120,7 +109,8 @@ def print_combinations(ArraySec, index=0, current_combination=[]):
                 startTime = section.time_start()
             if endTime == None or float(section.time_end().replace(":", ".")) > float(endTime.replace(":", ".")):
                 endTime = section.time_end()
-
+        if minEndTime == None or float(endTime.replace(":", ".")) < float(minEndTime.replace(":", ".")):
+            minEndTime = endTime
 
 
         chosenSectionsTuple = tuple(chosenSections)
@@ -131,17 +121,12 @@ def print_combinations(ArraySec, index=0, current_combination=[]):
     max_number = len(ArraySec[index]) - 1
     for i in range(max_number + 1):
         current_combination.append(i)
-        print_combinations(ArraySec, index + 1, current_combination)
+        combinations(ArraySec, index + 1, current_combination)
         current_combination.pop()
 
-print_combinations(courses)
+combinations(courses)
 
 
-
-
-
-# ------------------ reduce the days ------------------
-# to reduce the days of each combination to the minimum
 def reduce_the_days():
     deleted = []
     for key in dec:
@@ -151,13 +136,32 @@ def reduce_the_days():
         # print("*************")
     for key in deleted:
         dec.pop(key)
-# ------------------ reduce the days ------------------
-reduce_the_days()
+
+def reduce_the_startTime():
+    deleted = []
+    for key in dec:
+        if dec[key]['startTime'] != minStartTime:
+            deleted.append(key)
+    for key in deleted:
+        dec.pop(key)
+
+def reduce_the_endTime():
+    deleted = []
+    for key in dec:
+        if dec[key]['endTime'] != minEndTime:
+            deleted.append(key)
+    for key in deleted:
+        dec.pop(key)
+
+def print_dict():
+    for key in dec:
+        for k in key :
+            print(k)
+        print(dec[key])
+        print("*************")
+    print("minDays: ", minDays)
+    print("minStartTime: ", minStartTime)
+    print("minEndTime: ", minEndTime)
 
 
-
-for key in dec:
-    for k in key :
-        print(k)
-    print(dec[key])
-    print("*************")
+print_dict()
