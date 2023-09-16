@@ -1,0 +1,578 @@
+[
+    {
+        "name of course": "PHYS111",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "W",
+        "time": "11:00 - 13:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "R",
+        "time": "08:00 - 10:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 3,
+        "name of instructor": "Fatimah Hasan Ahmed Shamasneh",
+        "number of students": "24 / 24",
+        "days": "M",
+        "time": "08:00 - 10:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 4,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "W",
+        "time": "08:00 - 10:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 5,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "T",
+        "time": "08:00 - 10:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 6,
+        "name of instructor": "Fatimah Hasan Ahmed Shamasneh",
+        "number of students": "25 / 24",
+        "days": "R",
+        "time": "14:00 - 16:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 7,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "S",
+        "time": "11:00 - 13:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 8,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "W",
+        "time": "14:00 - 16:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 9,
+        "name of instructor": "Fatimah Hasan Ahmed Shamasneh",
+        "number of students": "25 / 24",
+        "days": "S",
+        "time": "14:00 - 16:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 10,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "M",
+        "time": "11:00 - 13:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 11,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "R",
+        "time": "11:00 - 13:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 12,
+        "name of instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+        "number of students": "24 / 24",
+        "days": "S",
+        "time": "08:00 - 10:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 13,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "M",
+        "time": "11:00 - 13:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 14,
+        "name of instructor": "Fatimah Hasan Ahmed Shamasneh",
+        "number of students": "24 / 24",
+        "days": "W",
+        "time": "11:00 - 13:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 15,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "M",
+        "time": "14:00 - 16:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 16,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "W",
+        "time": "08:00 - 10:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 17,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "R",
+        "time": "11:00 - 13:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 18,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "R",
+        "time": "08:00 - 10:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 19,
+        "name of instructor": "",
+        "number of students": "23 / 24",
+        "days": "S",
+        "time": "14:00 - 16:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 20,
+        "name of instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+        "number of students": "24 / 24",
+        "days": "T",
+        "time": "08:00 - 10:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 21,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "S",
+        "time": "11:00 - 13:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 22,
+        "name of instructor": "",
+        "number of students": "25 / 24",
+        "days": "S",
+        "time": "08:00 - 10:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 23,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "T",
+        "time": "11:00 - 13:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 24,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "M",
+        "time": "14:00 - 16:50",
+        "place": "SCI259"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 25,
+        "name of instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+        "number of students": "23 / 24",
+        "days": "M",
+        "time": "08:00 - 10:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 26,
+        "name of instructor": "",
+        "number of students": "25 / 24",
+        "days": "T",
+        "time": "11:00 - 13:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 27,
+        "name of instructor": "",
+        "number of students": "24 / 24",
+        "days": "W",
+        "time": "14:00 - 16:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS111",
+        "sec": 28,
+        "name of instructor": "",
+        "number of students": "25 / 24",
+        "days": "R",
+        "time": "14:00 - 16:50",
+        "place": "SCI263"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "19 / 18",
+        "days": "T",
+        "time": "11:00 - 13:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 2,
+        "name of instructor": "Zafer M. A. Hawash",
+        "number of students": "18 / 18",
+        "days": "M",
+        "time": "14:00 - 16:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 3,
+        "name of instructor": "Khalid Fathi Abdalrazzaq Eid",
+        "number of students": "18 / 18",
+        "days": "M",
+        "time": "08:00 - 10:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 4,
+        "name of instructor": "Shayma' Moustafa Ameen Salama",
+        "number of students": "16 / 18",
+        "days": "R",
+        "time": "08:00 - 10:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 5,
+        "name of instructor": "Shayma' Moustafa Ameen Salama",
+        "number of students": "18 / 18",
+        "days": "M",
+        "time": "11:00 - 13:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 6,
+        "name of instructor": "Shayma' Moustafa Ameen Salama",
+        "number of students": "17 / 18",
+        "days": "W",
+        "time": "08:00 - 10:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 7,
+        "name of instructor": "",
+        "number of students": "18 / 18",
+        "days": "R",
+        "time": "11:00 - 13:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 8,
+        "name of instructor": "Khalid Fathi Abdalrazzaq Eid",
+        "number of students": "9 / 18",
+        "days": "W",
+        "time": "11:00 - 13:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 9,
+        "name of instructor": "Isma'El Mohummad Daoud Badran",
+        "number of students": "18 / 18",
+        "days": "S",
+        "time": "14:00 - 16:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 10,
+        "name of instructor": "Khalid Fathi Abdalrazzaq Eid",
+        "number of students": "14 / 18",
+        "days": "R",
+        "time": "14:00 - 16:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 11,
+        "name of instructor": "Shayma' Moustafa Ameen Salama",
+        "number of students": "18 / 18",
+        "days": "S",
+        "time": "08:00 - 10:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 12,
+        "name of instructor": "Isma'El Mohummad Daoud Badran",
+        "number of students": "4 / 18",
+        "days": "S",
+        "time": "11:00 - 13:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 13,
+        "name of instructor": "Isma'El Mohummad Daoud Badran",
+        "number of students": "6 / 18",
+        "days": "W",
+        "time": "14:00 - 16:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS112",
+        "sec": 14,
+        "name of instructor": "Shayma' Moustafa Ameen Salama",
+        "number of students": "17 / 18",
+        "days": "T",
+        "time": "08:00 - 10:50",
+        "place": "SCI253"
+    },
+    {
+        "name of course": "PHYS132",
+        "sec": 1,
+        "name of instructor": "Khalid Fathi Abdalrazzaq Eid",
+        "number of students": "74 / 160",
+        "days": "T, R",
+        "time": "11:00 - 11:50",
+        "place": "Bamieh002"
+    },
+    {
+        "name of course": "PHYS1331",
+        "sec": 1,
+        "name of instructor": "Zafer M. A. Hawash",
+        "number of students": "19 / 45",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "PNH105"
+    },
+    {
+        "name of course": "PHYS141",
+        "sec": 1,
+        "name of instructor": "Shayma' Moustafa Ameen Salama",
+        "number of students": "123 / 120",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "A.Shaheen102"
+    },
+    {
+        "name of course": "PHYS141",
+        "sec": 2,
+        "name of instructor": "Isma'El Mohummad Daoud Badran",
+        "number of students": "119 / 120",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "Sh.Shaheen105"
+    },
+    {
+        "name of course": "PHYS141",
+        "sec": 3,
+        "name of instructor": "Fatimah Hasan Ahmed Shamasneh",
+        "number of students": "117 / 120",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "SCI240"
+    },
+    {
+        "name of course": "PHYS141",
+        "sec": 4,
+        "name of instructor": "",
+        "number of students": "93 / 120",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Sh.Shaheen205"
+    },
+    {
+        "name of course": "PHYS141",
+        "sec": 5,
+        "name of instructor": "",
+        "number of students": "92 / 120",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "Masri109"
+    },
+    {
+        "name of course": "PHYS141",
+        "sec": 6,
+        "name of instructor": "Zafer M. A. Hawash",
+        "number of students": "118 / 120",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Masri109"
+    },
+    {
+        "name of course": "PHYS141",
+        "sec": 7,
+        "name of instructor": "",
+        "number of students": "91 / 120",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "Aggad421"
+    },
+    {
+        "name of course": "PHYS211",
+        "sec": 1,
+        "name of instructor": "Fatimah Hasan Ahmed Shamasneh",
+        "number of students": "12 / 20",
+        "days": "W",
+        "time": "14:00 - 16:50",
+        "place": "SCI007"
+    },
+    {
+        "name of course": "PHYS2201",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "4 / 45",
+        "days": "M, W",
+        "time": "15:00 - 15:50",
+        "place": "SCI113"
+    },
+    {
+        "name of course": "PHYS2201",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "45 / 45",
+        "days": "M, W",
+        "time": "14:00 - 14:50",
+        "place": "SCI113"
+    },
+    {
+        "name of course": "PHYS231",
+        "sec": 1,
+        "name of instructor": "Shayma' Moustafa Ameen Salama",
+        "number of students": "15 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "SCI113"
+    },
+    {
+        "name of course": "PHYS233",
+        "sec": 1,
+        "name of instructor": "Wafaa Khaled Yehya Khater",
+        "number of students": "7 / 45",
+        "days": "S, M, W",
+        "time": "08:00 - 08:50",
+        "place": "SCI212"
+    },
+    {
+        "name of course": "PHYS330",
+        "sec": 1,
+        "name of instructor": "Zafer M. A. Hawash",
+        "number of students": "17 / 45",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "SCI112"
+    },
+    {
+        "name of course": "PHYS332",
+        "sec": 1,
+        "name of instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+        "number of students": "15 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "SCI213"
+    },
+    {
+        "name of course": "PHYS333",
+        "sec": 1,
+        "name of instructor": "Isma'El Mohummad Daoud Badran",
+        "number of students": "19 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "SCI112"
+    },
+    {
+        "name of course": "PHYS335",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "15 / 45",
+        "days": "S, M, W",
+        "time": "14:00 - 14:50",
+        "place": "SCI112"
+    },
+    {
+        "name of course": "PHYS336",
+        "sec": 1,
+        "name of instructor": "Khalid Fathi Abdalrazzaq Eid",
+        "number of students": "14 / 54",
+        "days": "R",
+        "time": "08:00 - 09:50",
+        "place": "SCI112"
+    },
+    {
+        "name of course": "PHYS411",
+        "sec": 1,
+        "name of instructor": "Abdallah Salahedin Saleh Sayyed Ahmad",
+        "number of students": "1 / 10",
+        "days": "M",
+        "time": "17:00 - 17:50",
+        "place": "S.Abdulhadi372"
+    },
+    {
+        "name of course": "PHYS431",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "12 / 45",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "SCI212"
+    },
+    {
+        "name of course": "PHYS433",
+        "sec": 1,
+        "name of instructor": "Wael Ishaq Hasan Karain",
+        "number of students": "15 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "SCI112"
+    }
+]

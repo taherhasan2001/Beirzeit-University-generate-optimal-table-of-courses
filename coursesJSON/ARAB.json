@@ -1,0 +1,776 @@
+[
+    {
+        "name of course": "ARAB135",
+        "sec": 1,
+        "name of instructor": "Ammar Abed Elqader Mohammad Shibli",
+        "number of students": "40 / 40",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "A.Shaheen112"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "28 / 40",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "O.Abdulhadi253"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 3,
+        "name of instructor": "",
+        "number of students": "40 / 40",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "A.Shaheen206"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 4,
+        "name of instructor": "",
+        "number of students": "40 / 40",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "O.Abdulhadi151"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 5,
+        "name of instructor": "Manal Salah Ibrahim Hassan",
+        "number of students": "40 / 40",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "Khoury010"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 6,
+        "name of instructor": "Jamal Abdeljaber Abdelmuti Assi",
+        "number of students": "38 / 40",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Al-Juraysi229"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 7,
+        "name of instructor": "",
+        "number of students": "33 / 40",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Aggad311"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 8,
+        "name of instructor": "",
+        "number of students": "26 / 40",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Aggad332"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 10,
+        "name of instructor": "Azzah Ismael Atallah Lahlooh",
+        "number of students": "34 / 40",
+        "days": "S, M",
+        "time": "14:00 - 15:20",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 11,
+        "name of instructor": "Thabit Muhammad Khalil Hamed",
+        "number of students": "42 / 40",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Bahrain221"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 12,
+        "name of instructor": "",
+        "number of students": "39 / 40",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Aggad311"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 13,
+        "name of instructor": "Abdalmajid A. A. Hamed",
+        "number of students": "38 / 40",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Khoury105"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 14,
+        "name of instructor": "Thabit Muhammad Khalil Hamed",
+        "number of students": "40 / 40",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "A.Shaheen202"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 15,
+        "name of instructor": "Jamal Abdeljaber Abdelmuti Assi",
+        "number of students": "42 / 40",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "Khoury010"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 17,
+        "name of instructor": "",
+        "number of students": "40 / 40",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "SCI212"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 18,
+        "name of instructor": "Mariam S. A. Karakrah",
+        "number of students": "38 / 40",
+        "days": "S, W",
+        "time": "14:00 - 15:20",
+        "place": "PNH401"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 19,
+        "name of instructor": "",
+        "number of students": "35 / 40",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "O.Abdulhadi154"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 20,
+        "name of instructor": "Gadeer Othman Taha Kharoubi",
+        "number of students": "40 / 40",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "A.Shaheen202"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 21,
+        "name of instructor": "",
+        "number of students": "31 / 40",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Aggad336"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 22,
+        "name of instructor": "",
+        "number of students": "28 / 40",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Al-Juraysi129"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 23,
+        "name of instructor": "Mohammad H. M. Samhan",
+        "number of students": "31 / 40",
+        "days": "M, W",
+        "time": "14:00 - 15:20",
+        "place": "Aggad303"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 24,
+        "name of instructor": "",
+        "number of students": "35 / 40",
+        "days": "M, W",
+        "time": "15:30 - 16:50",
+        "place": "Al-Juraysi229"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 25,
+        "name of instructor": "Safa H. A. Ali Ahmad",
+        "number of students": "43 / 40",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "Bamieh204"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 26,
+        "name of instructor": "",
+        "number of students": "23 / 40",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Khoury010"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 27,
+        "name of instructor": "",
+        "number of students": "30 / 40",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Al-Juraysi325"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 28,
+        "name of instructor": "",
+        "number of students": "35 / 40",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "Khoury112"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 29,
+        "name of instructor": "Abdalmajid A. A. Hamed",
+        "number of students": "34 / 40",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Khoury010"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 30,
+        "name of instructor": "Samir Mohammad Nimer Mouqada",
+        "number of students": "37 / 40",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "Al-Juraysi225"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 31,
+        "name of instructor": "",
+        "number of students": "40 / 40",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "Khoury005"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 32,
+        "name of instructor": "",
+        "number of students": "40 / 40",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Khoury005"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 33,
+        "name of instructor": "",
+        "number of students": "31 / 40",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Khoury105"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 34,
+        "name of instructor": "",
+        "number of students": "40 / 40",
+        "days": "S, M, W",
+        "time": "08:00 - 08:50",
+        "place": "A.Shaheen256"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 35,
+        "name of instructor": "Osama Wajeeh Saeed Abo Oun",
+        "number of students": "36 / 40",
+        "days": "S, M",
+        "time": "14:00 - 15:20",
+        "place": "O.Abdulhadi152"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 36,
+        "name of instructor": "Ammar Abed Elqader Mohammad Shibli",
+        "number of students": "26 / 40",
+        "days": "M, W",
+        "time": "14:00 - 15:20",
+        "place": "Aggad307"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 37,
+        "name of instructor": "Samir Mohammad Nimer Mouqada",
+        "number of students": "28 / 40",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Khoury105"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 38,
+        "name of instructor": "",
+        "number of students": "35 / 40",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "A.Shaheen112"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 39,
+        "name of instructor": "Manal Salah Ibrahim Hassan",
+        "number of students": "33 / 40",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "O.Abdulhadi151"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 40,
+        "name of instructor": "",
+        "number of students": "40 / 40",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "A.Shaheen256"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 41,
+        "name of instructor": "Samir Mohammad Nimer Mouqada",
+        "number of students": "39 / 40",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Aggad415"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 42,
+        "name of instructor": "Jamal Abdeljaber Abdelmuti Assi",
+        "number of students": "34 / 40",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "Al-Juraysi325"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 43,
+        "name of instructor": "Thabit Muhammad Khalil Hamed",
+        "number of students": "40 / 40",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "A.Shaheen266"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 44,
+        "name of instructor": "Hazem Hasan Ahmad Albarghouthi",
+        "number of students": "33 / 40",
+        "days": "M, W",
+        "time": "14:00 - 15:20",
+        "place": "Aggad332"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 45,
+        "name of instructor": "Ali Shaban Yousef Sharakah",
+        "number of students": "39 / 40",
+        "days": "S, W",
+        "time": "14:00 - 15:20",
+        "place": "Masri306"
+    },
+    {
+        "name of course": "ARAB135",
+        "sec": 46,
+        "name of instructor": "Mohammad H. M. Samhan",
+        "number of students": "40 / 40",
+        "days": "M, W",
+        "time": "15:30 - 16:50",
+        "place": "A.Shaheen112"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 1,
+        "name of instructor": "Manal Salah Ibrahim Hassan",
+        "number of students": "40 / 40",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "Khoury005"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "42 / 40",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "O.Abdulhadi151"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 3,
+        "name of instructor": "Mousa Mitry Ibraheem Khoury",
+        "number of students": "40 / 40",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "A.Shaheen206"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 4,
+        "name of instructor": "",
+        "number of students": "41 / 40",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "A.Shaheen116"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 5,
+        "name of instructor": "",
+        "number of students": "41 / 40",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "Masri406"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 6,
+        "name of instructor": "",
+        "number of students": "40 / 40",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Khoury010"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 8,
+        "name of instructor": "Gadeer Othman Taha Kharoubi",
+        "number of students": "33 / 40",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Khoury105"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 9,
+        "name of instructor": "",
+        "number of students": "33 / 40",
+        "days": "S, W",
+        "time": "14:00 - 15:20",
+        "place": "A.Shaheen252"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 10,
+        "name of instructor": "Hazem Hasan Ahmad Albarghouthi",
+        "number of students": "37 / 40",
+        "days": "M, W",
+        "time": "15:30 - 16:50",
+        "place": "A.Shaheen266"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 11,
+        "name of instructor": "Jamal Abdeljaber Abdelmuti Assi",
+        "number of students": "40 / 40",
+        "days": "M, W",
+        "time": "14:00 - 15:20",
+        "place": "A.Shaheen266"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 12,
+        "name of instructor": "",
+        "number of students": "40 / 40",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "Bamieh201"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 13,
+        "name of instructor": "Gadeer Othman Taha Kharoubi",
+        "number of students": "39 / 40",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "O.Abdulhadi151"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 14,
+        "name of instructor": "",
+        "number of students": "9 / 40",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "Aggad303"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 15,
+        "name of instructor": "",
+        "number of students": "29 / 40",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Al-Juraysi129"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 16,
+        "name of instructor": "",
+        "number of students": "27 / 40",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Aggad338"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 17,
+        "name of instructor": "Mousa Mitry Ibraheem Khoury",
+        "number of students": "16 / 40",
+        "days": "M, W",
+        "time": "14:00 - 15:20",
+        "place": "A.Shaheen202"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 18,
+        "name of instructor": "",
+        "number of students": "30 / 40",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "Aggad336"
+    },
+    {
+        "name of course": "ARAB136",
+        "sec": 19,
+        "name of instructor": "",
+        "number of students": "34 / 40",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "A.Shaheen102"
+    },
+    {
+        "name of course": "ARAB231",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "27 / 45",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Bamieh201"
+    },
+    {
+        "name of course": "ARAB2320",
+        "sec": 1,
+        "name of instructor": "Manal Salah Ibrahim Hassan",
+        "number of students": "12 / 45",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "A.Shaheen266"
+    },
+    {
+        "name of course": "ARAB2320",
+        "sec": 2,
+        "name of instructor": "Nasralla Mohammad Ahmad Alshaier",
+        "number of students": "48 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "O.Abdulhadi254"
+    },
+    {
+        "name of course": "ARAB233",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "28 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "A.Shaheen216"
+    },
+    {
+        "name of course": "ARAB233",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "43 / 45",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "Al-Juraysi223"
+    },
+    {
+        "name of course": "ARAB234",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "34 / 45",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "Bahrain221"
+    },
+    {
+        "name of course": "ARAB2361",
+        "sec": 1,
+        "name of instructor": "Thabit Muhammad Khalil Hamed",
+        "number of students": "34 / 35",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "A.Shaheen206"
+    },
+    {
+        "name of course": "ARAB2361",
+        "sec": 2,
+        "name of instructor": "Nasserel-Din Deeb Mustafa Abu Khdair",
+        "number of students": "22 / 35",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "A.Shaheen216"
+    },
+    {
+        "name of course": "ARAB2361",
+        "sec": 3,
+        "name of instructor": "Nasserel-Din Deeb Mustafa Abu Khdair",
+        "number of students": "35 / 35",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "A.Shaheen216"
+    },
+    {
+        "name of course": "ARAB2361",
+        "sec": 4,
+        "name of instructor": "Nasserel-Din Deeb Mustafa Abu Khdair",
+        "number of students": "29 / 35",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Aggad336"
+    },
+    {
+        "name of course": "ARAB2390",
+        "sec": 1,
+        "name of instructor": "Ammar Abed Elqader Mohammad Shibli",
+        "number of students": "14 / 45",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "A.Shaheen202"
+    },
+    {
+        "name of course": "ARAB2390",
+        "sec": 2,
+        "name of instructor": "Thabit Muhammad Khalil Hamed",
+        "number of students": "28 / 45",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "A.Shaheen262"
+    },
+    {
+        "name of course": "ARAB2391",
+        "sec": 1,
+        "name of instructor": "Mashhour Mousa Mashhour Mshahreh",
+        "number of students": "23 / 45",
+        "days": "M, W",
+        "time": "14:00 - 15:20",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ARAB331",
+        "sec": 1,
+        "name of instructor": "Mashhour Mousa Mashhour Mshahreh",
+        "number of students": "47 / 45",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "A.Shaheen262"
+    },
+    {
+        "name of course": "ARAB331",
+        "sec": 2,
+        "name of instructor": "Mashhour Mousa Mashhour Mshahreh",
+        "number of students": "51 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "A.Shaheen256"
+    },
+    {
+        "name of course": "ARAB331",
+        "sec": 3,
+        "name of instructor": "Mashhour Mousa Mashhour Mshahreh",
+        "number of students": "46 / 45",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Bamieh105"
+    },
+    {
+        "name of course": "ARAB333",
+        "sec": 1,
+        "name of instructor": "Thabit Muhammad Khalil Hamed",
+        "number of students": "36 / 45",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "A.Shaheen266"
+    },
+    {
+        "name of course": "ARAB334",
+        "sec": 1,
+        "name of instructor": "Nasserel-Din Deeb Mustafa Abu Khdair",
+        "number of students": "44 / 45",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "A.Shaheen262"
+    },
+    {
+        "name of course": "ARAB339",
+        "sec": 1,
+        "name of instructor": "Ibrahim Nimer Hassan Mousa",
+        "number of students": "30 / 45",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "A.Shaheen116"
+    },
+    {
+        "name of course": "ARAB4301",
+        "sec": 1,
+        "name of instructor": "Mousa Mitry Ibraheem Khoury",
+        "number of students": "23 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "A.Shaheen116"
+    },
+    {
+        "name of course": "ARAB431",
+        "sec": 1,
+        "name of instructor": "Nasralla Mohammad Ahmad Alshaier",
+        "number of students": "22 / 45",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "O.Abdulhadi254"
+    },
+    {
+        "name of course": "ARAB433",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "4 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "PNH303"
+    },
+    {
+        "name of course": "ARAB437",
+        "sec": 1,
+        "name of instructor": "Nasralla Mohammad Ahmad Alshaier",
+        "number of students": "32 / 45",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "Aggad307"
+    },
+    {
+        "name of course": "ARAB438",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "5 / 20",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "Al-Juraysi023"
+    }
+]

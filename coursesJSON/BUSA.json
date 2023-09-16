@@ -1,0 +1,551 @@
+[
+    {
+        "name of course": "BUSA130",
+        "sec": 1,
+        "name of instructor": "Rania Yaser Qostande Jaber",
+        "number of students": "45 / 120",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "O.Abdulhadi051"
+    },
+    {
+        "name of course": "BUSA130",
+        "sec": 2,
+        "name of instructor": "Rania Yaser Qostande Jaber",
+        "number of students": "60 / 120",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "A.Shaheen152"
+    },
+    {
+        "name of course": "BUSA130",
+        "sec": 3,
+        "name of instructor": "Suzan Jamal Mousa Shkukani",
+        "number of students": "119 / 120",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "A.Shaheen162"
+    },
+    {
+        "name of course": "BUSA130",
+        "sec": 4,
+        "name of instructor": "Suzan Jamal Mousa Shkukani",
+        "number of students": "102 / 120",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Sh.Shaheen205"
+    },
+    {
+        "name of course": "BUSA130",
+        "sec": 5,
+        "name of instructor": "Marian Zaki Basil Petro",
+        "number of students": "102 / 120",
+        "days": "S, W",
+        "time": "14:00 - 15:20",
+        "place": "N/A"
+    },
+    {
+        "name of course": "BUSA230",
+        "sec": 1,
+        "name of instructor": "Maisa Yacoub Naoum Burbar",
+        "number of students": "126 / 120",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Sh.Shaheen205"
+    },
+    {
+        "name of course": "BUSA230",
+        "sec": 2,
+        "name of instructor": "Maisa Yacoub Naoum Burbar",
+        "number of students": "124 / 120",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "Sh.Shaheen205"
+    },
+    {
+        "name of course": "BUSA230",
+        "sec": 3,
+        "name of instructor": "Anton Robert Anton Sabella",
+        "number of students": "112 / 120",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "Aggad421"
+    },
+    {
+        "name of course": "BUSA232",
+        "sec": 1,
+        "name of instructor": "Rania Yaser Qostande Jaber",
+        "number of students": "46 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "Al-Juraysi229"
+    },
+    {
+        "name of course": "BUSA232",
+        "sec": 2,
+        "name of instructor": "Nojoud Subhi Shukri Habash",
+        "number of students": "45 / 45",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "Al-Juraysi223"
+    },
+    {
+        "name of course": "BUSA232",
+        "sec": 3,
+        "name of instructor": "Rania Yaser Qostande Jaber",
+        "number of students": "45 / 45",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Al-Juraysi229"
+    },
+    {
+        "name of course": "BUSA232",
+        "sec": 4,
+        "name of instructor": "Nojoud Subhi Shukri Habash",
+        "number of students": "41 / 45",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "O.Abdulhadi254"
+    },
+    {
+        "name of course": "BUSA236",
+        "sec": 1,
+        "name of instructor": "Maisa Yacoub Naoum Burbar",
+        "number of students": "42 / 45",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "Al-Juraysi229"
+    },
+    {
+        "name of course": "BUSA236",
+        "sec": 2,
+        "name of instructor": "Mira Taysir Ibrahim El-Far",
+        "number of students": "45 / 45",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Al-Juraysi002"
+    },
+    {
+        "name of course": "BUSA236",
+        "sec": 4,
+        "name of instructor": "Arwa B. Y. Abed",
+        "number of students": "26 / 45",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "Al-Juraysi325"
+    },
+    {
+        "name of course": "BUSA236",
+        "sec": 5,
+        "name of instructor": "Maisa Yacoub Naoum Burbar",
+        "number of students": "45 / 45",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Al-Juraysi223"
+    },
+    {
+        "name of course": "BUSA238",
+        "sec": 1,
+        "name of instructor": "Asma'A Mahmoud Abdel-Kareem Qasqas",
+        "number of students": "27 / 30",
+        "days": "S",
+        "time": "11:00 - 13:50",
+        "place": "Al-Juraysi121"
+    },
+    {
+        "name of course": "BUSA238",
+        "sec": 2,
+        "name of instructor": "Abdelrahman Naser Ali Hamarsha",
+        "number of students": "31 / 30",
+        "days": "M, W",
+        "time": "14:00 - 15:20",
+        "place": "Al-Juraysi125"
+    },
+    {
+        "name of course": "BUSA238",
+        "sec": 3,
+        "name of instructor": "Rasem Izat Asaad Suwan",
+        "number of students": "14 / 30",
+        "days": "S",
+        "time": "08:00 - 10:50",
+        "place": "Al-Juraysi121"
+    },
+    {
+        "name of course": "BUSA238",
+        "sec": 4,
+        "name of instructor": "Samah Ahmad Hamed Abu Assab",
+        "number of students": "29 / 30",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Al-Juraysi122"
+    },
+    {
+        "name of course": "BUSA238",
+        "sec": 5,
+        "name of instructor": "Rasem Izat Asaad Suwan",
+        "number of students": "11 / 30",
+        "days": "S",
+        "time": "14:00 - 16:50",
+        "place": "Al-Juraysi121"
+    },
+    {
+        "name of course": "BUSA238",
+        "sec": 6,
+        "name of instructor": "Rashid Nidal Rashid Sabri",
+        "number of students": "30 / 30",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Al-Juraysi123"
+    },
+    {
+        "name of course": "BUSA330",
+        "sec": 1,
+        "name of instructor": "Niveen Labib Botrus Eid",
+        "number of students": "15 / 45",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "Al-Juraysi323"
+    },
+    {
+        "name of course": "BUSA330",
+        "sec": 2,
+        "name of instructor": "Niveen Labib Botrus Eid",
+        "number of students": "15 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "Al-Juraysi323"
+    },
+    {
+        "name of course": "BUSA330",
+        "sec": 3,
+        "name of instructor": "Muna Musa Tawfiq Khoury",
+        "number of students": "44 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Al-Juraysi329"
+    },
+    {
+        "name of course": "BUSA330",
+        "sec": 4,
+        "name of instructor": "Muna Musa Tawfiq Khoury",
+        "number of students": "45 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "Al-Juraysi227"
+    },
+    {
+        "name of course": "BUSA3301",
+        "sec": 1,
+        "name of instructor": "Majd Mohammad Mahmoud Quzmar",
+        "number of students": "130 / 120",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "A.Shaheen150"
+    },
+    {
+        "name of course": "BUSA3301",
+        "sec": 2,
+        "name of instructor": "Majd Mohammad Mahmoud Quzmar",
+        "number of students": "123 / 120",
+        "days": "M, W",
+        "time": "14:00 - 15:20",
+        "place": "A.Shaheen162"
+    },
+    {
+        "name of course": "BUSA331",
+        "sec": 1,
+        "name of instructor": "Hada Salem Issa Al-Eryan",
+        "number of students": "47 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Al-Juraysi227"
+    },
+    {
+        "name of course": "BUSA331",
+        "sec": 2,
+        "name of instructor": "Hada Salem Issa Al-Eryan",
+        "number of students": "37 / 45",
+        "days": "S, M",
+        "time": "14:00 - 15:20",
+        "place": "Al-Juraysi325"
+    },
+    {
+        "name of course": "BUSA332",
+        "sec": 1,
+        "name of instructor": "Nojoud Subhi Shukri Habash",
+        "number of students": "20 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Al-Juraysi223"
+    },
+    {
+        "name of course": "BUSA333",
+        "sec": 1,
+        "name of instructor": "Mira Taysir Ibrahim El-Far",
+        "number of students": "45 / 45",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "O.Abdulhadi253"
+    },
+    {
+        "name of course": "BUSA333",
+        "sec": 2,
+        "name of instructor": "Mira Taysir Ibrahim El-Far",
+        "number of students": "45 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Al-Juraysi221"
+    },
+    {
+        "name of course": "BUSA333",
+        "sec": 3,
+        "name of instructor": "Mira Kh. J. Abdallah",
+        "number of students": "35 / 45",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Al-Juraysi221"
+    },
+    {
+        "name of course": "BUSA333",
+        "sec": 4,
+        "name of instructor": "Mira Kh. J. Abdallah",
+        "number of students": "31 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "Al-Juraysi129"
+    },
+    {
+        "name of course": "BUSA334",
+        "sec": 1,
+        "name of instructor": "Asma'A Mahmoud Abdel-Kareem Qasqas",
+        "number of students": "25 / 45",
+        "days": "S",
+        "time": "08:00 - 10:50",
+        "place": "Al-Juraysi027"
+    },
+    {
+        "name of course": "BUSA3341",
+        "sec": 1,
+        "name of instructor": "Mira Kh. J. Abdallah",
+        "number of students": "31 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Al-Juraysi325"
+    },
+    {
+        "name of course": "BUSA336",
+        "sec": 1,
+        "name of instructor": "Mira Kh. J. Abdallah",
+        "number of students": "45 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Al-Juraysi227"
+    },
+    {
+        "name of course": "BUSA336",
+        "sec": 2,
+        "name of instructor": "Mohand M. B. Tuffaha",
+        "number of students": "43 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Al-Juraysi002"
+    },
+    {
+        "name of course": "BUSA336",
+        "sec": 3,
+        "name of instructor": "Mira Kh. J. Abdallah",
+        "number of students": "45 / 45",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Al-Juraysi221"
+    },
+    {
+        "name of course": "BUSA3361",
+        "sec": 1,
+        "name of instructor": "Muna Musa Tawfiq Khoury",
+        "number of students": "28 / 45",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "Al-Juraysi229"
+    },
+    {
+        "name of course": "BUSA3371",
+        "sec": 1,
+        "name of instructor": "Rami Basem Ibrahim Kashou'",
+        "number of students": "47 / 45",
+        "days": "S, M, W",
+        "time": "08:00 - 08:50",
+        "place": "Al-Juraysi229"
+    },
+    {
+        "name of course": "BUSA3371",
+        "sec": 2,
+        "name of instructor": "Rami Basem Ibrahim Kashou'",
+        "number of students": "48 / 45",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "Al-Juraysi129"
+    },
+    {
+        "name of course": "BUSA3371",
+        "sec": 3,
+        "name of instructor": "Hada Salem Issa Al-Eryan",
+        "number of students": "44 / 45",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "Al-Juraysi129"
+    },
+    {
+        "name of course": "BUSA3371",
+        "sec": 4,
+        "name of instructor": "Hada Salem Issa Al-Eryan",
+        "number of students": "47 / 45",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Al-Juraysi327"
+    },
+    {
+        "name of course": "BUSA432",
+        "sec": 1,
+        "name of instructor": "Omar Abdel Halim Omran",
+        "number of students": "47 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Al-Juraysi327"
+    },
+    {
+        "name of course": "BUSA4320",
+        "sec": 1,
+        "name of instructor": "Suhail Sami Sadeq Sultan",
+        "number of students": "8 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Al-Juraysi027"
+    },
+    {
+        "name of course": "BUSA4323",
+        "sec": 1,
+        "name of instructor": "Suhail Sami Sadeq Sultan",
+        "number of students": "11 / 45",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "O.Abdulhadi254"
+    },
+    {
+        "name of course": "BUSA433",
+        "sec": 1,
+        "name of instructor": "Nojoud Subhi Shukri Habash",
+        "number of students": "40 / 45",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Al-Juraysi223"
+    },
+    {
+        "name of course": "BUSA436",
+        "sec": 1,
+        "name of instructor": "Niveen Labib Botrus Eid",
+        "number of students": "24 / 30",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Al-Juraysi329"
+    },
+    {
+        "name of course": "BUSA436",
+        "sec": 2,
+        "name of instructor": "Rami Basem Ibrahim Kashou'",
+        "number of students": "29 / 30",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "Al-Juraysi327"
+    },
+    {
+        "name of course": "BUSA436",
+        "sec": 3,
+        "name of instructor": "Rami Basem Ibrahim Kashou'",
+        "number of students": "30 / 30",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "Al-Juraysi225"
+    },
+    {
+        "name of course": "BUSA436",
+        "sec": 4,
+        "name of instructor": "Niveen Labib Botrus Eid",
+        "number of students": "17 / 30",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "O.Abdulhadi253"
+    },
+    {
+        "name of course": "BUSA4373",
+        "sec": 1,
+        "name of instructor": "Mohand M. B. Tuffaha",
+        "number of students": "7 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Al-Juraysi323"
+    },
+    {
+        "name of course": "BUSA438",
+        "sec": 1,
+        "name of instructor": "Samir Daoud Khalil Baidoun",
+        "number of students": "20 / 20",
+        "days": "W",
+        "time": "14:00 - 16:50",
+        "place": "Al-Juraysi322"
+    },
+    {
+        "name of course": "BUSA438",
+        "sec": 2,
+        "name of instructor": "Samir Daoud Khalil Baidoun",
+        "number of students": "20 / 20",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "Al-Juraysi222"
+    },
+    {
+        "name of course": "BUSA438",
+        "sec": 4,
+        "name of instructor": "Rania Yaser Qostande Jaber",
+        "number of students": "20 / 20",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Al-Juraysi222"
+    },
+    {
+        "name of course": "BUSA438",
+        "sec": 5,
+        "name of instructor": "Mohand M. B. Tuffaha",
+        "number of students": "2 / 20",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Al-Juraysi222"
+    },
+    {
+        "name of course": "BUSA438",
+        "sec": 6,
+        "name of instructor": "Muna Musa Tawfiq Khoury",
+        "number of students": "5 / 5",
+        "days": "T",
+        "time": "08:00 - 10:50",
+        "place": "Al-Juraysi127"
+    },
+    {
+        "name of course": "BUSA4381",
+        "sec": 1,
+        "name of instructor": "Muna Musa Tawfiq Khoury",
+        "number of students": "4 / 15",
+        "days": "T",
+        "time": "08:00 - 10:50",
+        "place": "Al-Juraysi127"
+    },
+    {
+        "name of course": "BUSA4381",
+        "sec": 2,
+        "name of instructor": "Niveen Labib Botrus Eid",
+        "number of students": "4 / 20",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Al-Juraysi129"
+    }
+]

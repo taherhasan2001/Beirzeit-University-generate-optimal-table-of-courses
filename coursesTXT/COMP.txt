@@ -1,0 +1,451 @@
+ البوابة الأكاديمية والإدارية لجامعة بيرزيت
+اشعارات
+ 
+اعلانات
+ 
+رسائل
+ 
+حسابي
+ابدأ بالكتابة للبحث في القوائم
+عربي
+First Semester 2023/2024
+Bachelor Program of Computer Science - برنامج بكالوريوس علم الحاسوب
+Bachelor Level Courses of Computer Science
+Choose Semester: 
+First Semester 2023/2024
+Study Language: 
+--- All languages ---
+COMP111	مقدمة في تطبيقات الحاسوب	INTRODUCTION TO COMPUTER APPLICATIONS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		21 / 27	
+M	10:00 - 11:50	Aggad331
+Lecture	2		27 / 27	
+M	12:00 - 13:50	Aggad331
+Lecture	3		9 / 27	
+M	08:00 - 09:50	Aggad331
+Lecture	4		5 / 27	
+T	08:00 - 09:50	Aggad331
+Lecture	5		20 / 27	
+W	11:00 - 12:50	Aggad331
+COMP122	مقدمة في الحاسوب	INTRODUCTION TO COMPUTER	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ruba N. S. Awadallah	56 / 108	
+W	09:00 - 09:50	Masri109
+Lab	1		27 / 27	
+M	11:00 - 13:50	Masri305
+Lab	2		29 / 27	
+W	14:00 - 16:50	Masri403
+COMP1310	مقدمه في الحاسوب وأخلاقيات الحوسبة	INTRODUCTION TO COMPUTERS AND COMPUTING ETHICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		39 / 46	
+T, R	08:00 - 08:50	Masri306
+Lecture	2	Ruba N. S. Awadallah	46 / 46	
+M, W	08:00 - 08:50	Masri404
+Lecture	3	Bashar Mohammad Abdul Khaliq Tahayna	46 / 46	
+M, W	08:00 - 08:50	Masri106
+Lecture	4	Sobhi Ghassen Sobhi Ahmed	43 / 46	
+M, W	10:00 - 10:50	ALSADIK102
+Lecture	5		46 / 46	
+T, R	08:00 - 08:50	Masri106
+Lecture	6	Anas W. A. Arram	46 / 46	
+S, M	09:00 - 09:50	Masri406
+Lecture	7	Mohammed H. S. Helal	46 / 46	
+S, W	09:00 - 09:50	Masri504
+Lab	1		27 / 27	
+M	14:00 - 16:50	WKS209
+Lab	2		12 / 27	
+R	14:00 - 16:50	Masri305
+Lab	3	Ruba N. S. Awadallah	27 / 27	
+R	11:00 - 13:50	WKS209
+Lab	4	Ruba N. S. Awadallah	19 / 27	
+T	08:00 - 10:50	Masri402
+Lab	5	Ruba N. S. Awadallah	21 / 27	
+R	08:00 - 10:50	Masri402
+Lab	6	Bashar Mohammad Abdul Khaliq Tahayna	25 / 27	
+R	14:00 - 16:50	Masri307
+Lab	7	Sobhi Ghassen Sobhi Ahmed	18 / 27	
+W	11:00 - 13:50	Masri405
+Lab	8	Sobhi Ghassen Sobhi Ahmed	25 / 27	
+T	11:00 - 13:50	Masri307
+Lab	9		26 / 27	
+W	14:00 - 16:50	Masri402
+Lab	10		20 / 27	
+R	11:00 - 13:50	Masri402
+Lab	11	Anas W. A. Arram	21 / 27	
+R	08:00 - 10:50	Masri305
+Lab	12	Anas W. A. Arram	25 / 27	
+R	14:00 - 16:50	Masri402
+Lab	13	Mohammed H. S. Helal	24 / 27	
+S	14:00 - 16:50	Masri405
+Lab	14	Mohammed H. S. Helal	22 / 27	
+T	11:00 - 13:50	Masri402
+COMP132	مقدمة في الحاسوب والبرمجة	INTRODUCTION TO COMPUTER AND PROGRAMMING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Nael Ishaq Hasan Qaraeen	20 / 46	
+T, R	09:00 - 09:50	Bamieh103
+Lab	1	Nael Ishaq Hasan Qaraeen	20 / 27	
+R	14:00 - 16:50	Masri505
+COMP133	الحاسوب والبرمجة	COMPUTER AND PROGRAMMING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		20 / 46	
+M, W	14:00 - 14:50	Masri304
+Lecture	2	Mohammad Y. M. Alkhanafseh	28 / 46	
+M, W	09:00 - 09:50	Bamieh206
+Lab	1		10 / 27	
+T	11:00 - 13:50	Masri405
+Lab	2		10 / 27	
+R	08:00 - 10:50	Masri505
+Lab	3	Mohammad Y. M. Alkhanafseh	27 / 27	
+R	11:00 - 13:50	WKS207
+COMP1331	الحاسوب والبرمجة	COMPUTER AND PROGRAMMING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		39 / 46	
+M, W	11:00 - 11:50	Masri108
+Lecture	2	Bashar Mohammad Abdul Khaliq Tahayna	12 / 46	
+M, W	11:00 - 11:50	Bamieh203
+Lecture	3	Ruba N. S. Awadallah	10 / 46	
+M, W	14:00 - 14:50	Masri504
+Lab	1		25 / 27	
+T	11:00 - 13:50	Masri403
+Lab	2		14 / 27	
+R	08:00 - 10:50	WKS209
+Lab	3	Bashar Mohammad Abdul Khaliq Tahayna	11 / 27	
+M	14:00 - 16:50	Masri507
+Lab	4	Bashar Mohammad Abdul Khaliq Tahayna	1 / 27	
+W	14:00 - 16:50	Aggad311
+Lab	5	Ruba N. S. Awadallah	10 / 27	
+S	14:00 - 16:50	Masri403
+COMP230	الحاسوب والبرمجة	COMPUTER AND PROGRAMMING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		44 / 46	
+T, R	10:00 - 10:50	Masri302
+Lecture	2		41 / 46	
+T, R	08:00 - 08:50	Masri110
+Lab	1		24 / 27	
+R	14:00 - 16:50	Masri403
+Lab	2		18 / 27	
+M	14:00 - 16:50	Masri505
+Lab	3		23 / 27	
+W	14:00 - 16:50	WKS209
+Lab	4		20 / 27	
+R	11:00 - 13:50	Masri307
+COMP2310	البرمجة الشيئية	OBJECT-ORIENTED PROGRAMMING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mohammed H. S. Helal	26 / 46	
+T, R	08:00 - 08:50	Masri302
+Lecture	2	Yousef Asad Fares Hassouneh	43 / 46	
+M, W	10:00 - 10:50	Masri204
+Lecture	3	Nael Ishaq Hasan Qaraeen	47 / 46	
+T, R	10:00 - 10:50	ALSADIK408
+Lecture	4	Bassem Sami Ahmad Sayrafi	39 / 46	
+M, W	09:00 - 09:50	Masri106
+Lecture	5	Asem Abed Alfattah Mahmoud Kitana	45 / 46	
+T, R	09:00 - 09:50	Masri302
+Lecture	6	Mohammad Y. M. Alkhanafseh	45 / 46	
+S, M	10:00 - 10:50	Bamieh101
+Lab	1	Mohammed H. S. Helal	26 / 27	
+R	14:00 - 16:50	WKS209
+Lab	2	Yousef Asad Fares Hassouneh	23 / 27	
+T	11:00 - 13:50	Masri507
+Lab	3	Yousef Asad Fares Hassouneh	20 / 27	
+W	14:00 - 16:50	Masri305
+Lab	4	Nael Ishaq Hasan Qaraeen	26 / 27	
+W	08:00 - 10:50	Masri305
+Lab	5	Nael Ishaq Hasan Qaraeen	21 / 27	
+T	11:00 - 13:50	Masri305
+Lab	6	Bassem Sami Ahmad Sayrafi	15 / 27	
+T	08:00 - 10:50	Masri307
+Lab	7	Bassem Sami Ahmad Sayrafi	24 / 27	
+R	08:00 - 10:50	Masri307
+Lab	8	Asem Abed Alfattah Mahmoud Kitana	25 / 27	
+M	14:00 - 16:50	Masri307
+Lab	9	Asem Abed Alfattah Mahmoud Kitana	20 / 27	
+R	11:00 - 13:50	Masri403
+Lab	10	Mohammad Y. M. Alkhanafseh	21 / 27	
+R	14:00 - 16:50	WKS207
+Lab	11	Mohammad Y. M. Alkhanafseh	24 / 27	
+S	14:00 - 16:50	WKS207
+COMP2311	البرمجة الشيئية	OBJECT-ORIENTED PROGRAMMING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Murad Subhi Abdelkareem Njoum	46 / 46	
+M, W	11:00 - 11:50	Masri406
+Lecture	2	Mamoun I. A. Nawahdah	46 / 46	
+S
+W	11:00 - 11:50
+11:00 - 11:50	Masri406
+Bamieh204
+Lecture	3	Abdallah Haidar Mohammad Karakra	48 / 46	
+M, W	13:00 - 13:50	Masri504
+Lecture	4	Fadi Atta Aredi Khalil	45 / 46	
+S, M	10:00 - 10:50	Bamieh206
+Lab	1	Murad Subhi Abdelkareem Njoum	27 / 27	
+M	14:00 - 16:50	WKS207
+Lab	2	Murad Subhi Abdelkareem Njoum	19 / 27	
+T	11:00 - 13:50	WKS209
+Lab	3	Mamoun I. A. Nawahdah	27 / 27	
+S	08:00 - 10:50	Masri405
+Lab	4	Abdallah Haidar Mohammad Karakra	24 / 27	
+M	14:00 - 16:50	Masri403
+Lab	5	Abdallah Haidar Mohammad Karakra	26 / 27	
+T	08:00 - 10:50	Masri305
+Lab	6	Mamoun I. A. Nawahdah	17 / 27	
+R	11:00 - 13:50	Masri405
+Lab	7	Fadi Atta Aredi Khalil	20 / 27	
+S	11:00 - 13:50	Masri403
+Lab	8	Fadi Atta Aredi Khalil	25 / 27	
+S	14:00 - 16:50	Masri402
+COMP233	الرياضيات المنفصلة	DISCRETE MATHEMATICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ruba N. S. Awadallah	45 / 45	
+T, R	11:00 - 12:20	Masri110
+Lecture	2	Ruba N. S. Awadallah	45 / 45	
+S, M, W	12:00 - 12:50	Masri502
+Lecture	3		42 / 45	
+T, R	09:30 - 10:50	Masri106
+Lecture	4	Ahmed A. A. Abusnaina	46 / 45	
+T, R	11:00 - 12:20	Masri304
+Lecture	5	Radi A. R. Jarrar	45 / 45	
+M, W	14:00 - 15:20	Masri110
+Lecture	6		29 / 45	
+S, M, W	12:00 - 12:50	Masri202
+Lecture	7		9 / 45	
+S, M, W	12:00 - 12:50	Masri109
+Lecture	8	Ahmed A. A. Abusnaina	50 / 45	
+S, M, W	10:00 - 10:50	Masri504
+COMP2332	نمذجة العمليات في أنظمة تكنولوجيا الصحية الإلكترونية	ELECTRONIC HEALTH ENTERPRISE BUSINESS PROCESS MODELLING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Adel Abdul Mughani Abdul Ghani Taweel	47 / 45	
+S, M, W	11:00 - 11:50	Bamieh102
+COMP242	بنية المعلومات	DATA STRUCTURES	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mamoun I. A. Nawahdah	46 / 46	
+T, R	08:00 - 09:20	Masri504
+Lecture	2	Abdallah Haidar Mohammad Karakra	43 / 46	
+T, R	11:00 - 12:20	Masri204
+Lecture	3	Murad Subhi Abdelkareem Njoum	46 / 46	
+T, R	09:30 - 10:50	Masri110
+Lecture	4	Iyad Fawzi Sabri Jaber	27 / 46	
+T, R	08:00 - 09:20	Al-Juraysi027
+Lab	1	Mamoun I. A. Nawahdah	19 / 27	
+T	11:00 - 13:50	WKS207
+Lab	2	Mamoun I. A. Nawahdah	27 / 27	
+W	08:00 - 10:50	WKS209
+Lab	3	Abdallah Haidar Mohammad Karakra	17 / 27	
+W	14:00 - 16:50	WKS207
+Lab	4	Abdallah Haidar Mohammad Karakra	26 / 27	
+R	08:00 - 10:50	Masri403
+Lab	5	Murad Subhi Abdelkareem Njoum	19 / 27	
+R	14:00 - 16:50	Masri405
+Lab	6	Murad Subhi Abdelkareem Njoum	27 / 27	
+M	08:00 - 10:50	Masri305
+Lab	7	Iyad Fawzi Sabri Jaber	27 / 27	
+W	11:00 - 13:50	Masri505
+COMP2421	بنية المعلومات والخوارزميات	DATA STRUCTURES AND ALGORITHMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ahmed A. A. Abusnaina	46 / 45	
+M
+W	08:00 - 09:50
+08:00 - 09:50	Masri304
+ALSADIK406
+Lecture	2	Radi A. R. Jarrar	45 / 45	
+M, W	10:00 - 11:50	PNH303
+Lecture	3		25 / 45	
+M, W	08:00 - 09:50	Bamieh106
+COMP311	مختبر نظام تشغيل لينوكس	LINUX OPERATING SYSTEMS LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Nael Ishaq Hasan Qaraeen	20 / 20	
+M	14:00 - 16:50	Masri305
+Lecture	2	Murad Subhi Abdelkareem Njoum	20 / 20	
+W	08:00 - 10:50	Masri405
+Lecture	3	Nael Ishaq Hasan Qaraeen	20 / 20	
+W	11:00 - 13:50	Masri402
+Lecture	4	Hafez Ali Hafez Barghouthi	20 / 20	
+T	08:00 - 10:50	Masri405
+Lecture	5	Alaa Sh. A. Nairat	20 / 20	
+R	08:00 - 10:50	Masri405
+Lecture	6	Alaa Sh. A. Nairat	20 / 20	
+M	14:00 - 16:50	Masri402
+Lecture	7	Alaa Sh. A. Nairat	9 / 20	
+S	11:00 - 13:50	O.Abdulhadi152
+COMP3300	التدريب العملي	PRACTICAL TRAINING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Sobhi Ghassen Sobhi Ahmed	16 / 35	
+N/A	N/A	N/A
+COMP333	إدارة قواعد البيانات	DATA BASE SYSTEMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Bassem Sami Ahmad Sayrafi	45 / 45	
+T, R	11:00 - 12:20	Masri108
+Lecture	2	Bassem Sami Ahmad Sayrafi	46 / 45	
+S, M, W	10:00 - 10:50	Masri202
+Lecture	3	Bashar Mohammad Abdul Khaliq Tahayna	45 / 45	
+T, R	12:30 - 13:50	Masri306
+Lecture	4	Ahmed A. A. Abusnaina	47 / 45	
+S, M, W	12:00 - 12:50	Masri404
+Lecture	5		31 / 45	
+T, R	11:00 - 12:20	ALSADIK203
+Lecture	6	Majed Ibrahim Said Ayyad	37 / 45	
+T, R	12:30 - 13:50	Masri106
+COMP3332	مقدمة في تطوير الألعاب	INTRODUCTION TO GAME DEVELOPMENT	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Sobhi Ghassen Sobhi Ahmed	23 / 46	
+M
+W	09:00 - 09:50
+09:00 - 09:50	Masri109
+Masri406
+Lab	1	Sobhi Ghassen Sobhi Ahmed	23 / 27	
+R	11:00 - 13:50	Masri505
+COMP334	تطبيقات وتقنيات الويب	WEB APPLICATION AND TECHNOLOGY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Yousef Asad Fares Hassouneh	38 / 45	
+T, R	09:30 - 10:50	Masri306
+Lecture	2	Mohammad F. A. Kharmah	45 / 45	
+S, M, W	12:00 - 12:50	Masri204
+Lecture	3	Fadi Atta Aredi Khalil	34 / 45	
+S, M, W	08:00 - 08:50	Masri302
+COMP336	تحليل الخوارزميات	ANALYSIS OF ALGORITHMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Iyad Fawzi Sabri Jaber	45 / 45	
+T, R	12:30 - 13:50	Masri404
+Lecture	2	Iyad Fawzi Sabri Jaber	48 / 45	
+M, W	14:00 - 15:20	Masri108
+Lecture	3	Iyad Fawzi Sabri Jaber	45 / 45	
+T, R	09:30 - 10:50	Masri202
+COMP338	الذكاء الاصطناعي	ARTIFICIAL INTELLIGENCE	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Radi A. R. Jarrar	45 / 45	
+T, R	14:00 - 15:20	Masri109
+Lecture	2	Mohammed H. S. Helal	36 / 45	
+S, M, W	11:00 - 11:50	ALSADIK408
+COMP4200	مقدمة لمشروع التخرج	INTRODUCTION TO GRADUATION PROJECT	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		3 / 3	
+N/A	N/A	N/A
+Lecture	2		3 / 3	
+N/A	N/A	N/A
+Lecture	3		3 / 3	
+N/A	N/A	N/A
+Lecture	4		3 / 3	
+N/A	N/A	N/A
+Lecture	5		3 / 3	
+N/A	N/A	N/A
+Lecture	6		3 / 3	
+N/A	N/A	N/A
+Lecture	7		3 / 3	
+N/A	N/A	N/A
+Lecture	8		3 / 3	
+N/A	N/A	N/A
+Lecture	9		3 / 3	
+N/A	N/A	N/A
+Lecture	10		3 / 3	
+N/A	N/A	N/A
+Lecture	11		3 / 3	
+N/A	N/A	N/A
+Lecture	12		3 / 3	
+N/A	N/A	N/A
+Lecture	13		3 / 3	
+N/A	N/A	N/A
+Lecture	14		3 / 3	
+N/A	N/A	N/A
+Lecture	15		3 / 3	
+N/A	N/A	N/A
+Lecture	16		3 / 3	
+N/A	N/A	N/A
+Lecture	17		3 / 3	
+N/A	N/A	N/A
+Lecture	18		2 / 3	
+N/A	N/A	N/A
+Lecture	19		3 / 3	
+N/A	N/A	N/A
+Lecture	20		3 / 3	
+N/A	N/A	N/A
+Lecture	21		3 / 3	
+N/A	N/A	N/A
+Lecture	22		3 / 3	
+N/A	N/A	N/A
+Lecture	23		3 / 3	
+N/A	N/A	N/A
+Lecture	24		3 / 3	
+N/A	N/A	N/A
+COMP4300	مشروع التخرج	GRADUATION PROJECT	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mohammed H. S. Helal	1 / 3	
+N/A	N/A	N/A
+Lecture	2	Nael Ishaq Hasan Qaraeen	3 / 3	
+N/A	N/A	N/A
+Lecture	3	Mustafa Irsan Abdallah Jarrar	2 / 3	
+N/A	N/A	N/A
+Lecture	4	Mamoun I. A. Nawahdah	3 / 3	
+N/A	N/A	N/A
+Lecture	5	Anas W. A. Arram	3 / 3	
+N/A	N/A	N/A
+Lecture	6	Yousef Asad Fares Hassouneh	0 / 3	
+N/A	N/A	N/A
+Lecture	7	Iyad Fawzi Sabri Jaber	3 / 3	
+N/A	N/A	N/A
+Lecture	8	Ruba N. S. Awadallah	3 / 3	
+N/A	N/A	N/A
+Lecture	9	Mohammad Y. M. Alkhanafseh	3 / 3	
+N/A	N/A	N/A
+Lecture	10	Murad Subhi Abdelkareem Njoum	3 / 3	
+N/A	N/A	N/A
+Lecture	11	Yousef Asad Fares Hassouneh	0 / 3	
+N/A	N/A	N/A
+Lecture	12	Anas W. A. Arram	3 / 3	
+N/A	N/A	N/A
+Lecture	13	Bassem Sami Ahmad Sayrafi	3 / 3	
+N/A	N/A	N/A
+Lecture	14	Ahmed A. A. Abusnaina	3 / 3	
+N/A	N/A	N/A
+COMP431	نظم التشغيل	OPERATING SYSTEMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		46 / 45	
+S, M, W	10:00 - 10:50	Masri302
+Lecture	2		46 / 45	
+S, M, W	12:00 - 12:50	Masri302
+COMP432	أمن وحماية الحاسوب	COMPUTER SECURITY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Hafez Ali Hafez Barghouthi	45 / 45	
+S, W	14:00 - 15:20	Masri404
+COMP433	الهندسة البرمجية	SOFTWARE ENGINEERING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Samer Mas'Oud Ahmad Zein	49 / 45	
+T, R	11:00 - 12:20	Masri306
+Lecture	2	Adel Abdul Mughani Abdul Ghani Taweel	45 / 45	
+T, R	12:30 - 13:50	Masri406
+Lecture	3	Ahmad F. Y. Sabbah	46 / 45	
+S, M, W	10:00 - 10:50	Masri306
+Lecture	4	Adel Abdul Mughani Abdul Ghani Taweel	45 / 45	
+S, M, W	10:00 - 10:50	ALSADIK408
+COMP438	موضوع خاص: تطوير برامج الجوال	SP. TOP: MOBILE APPLICATION DEVELOPMENT	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Samer Mas'Oud Ahmad Zein	37 / 45	
+S, W	14:00 - 15:20	Masri109
+Lecture	2	Samer Mas'Oud Ahmad Zein	46 / 45	
+T, R	09:30 - 10:50	Bamieh101
+COMP438	موضوع خاص: نظرية التشفير	SP.TOP: ENCRYPTION THEORY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mohammad Y. M. Alkhanafseh	35 / 45	
+S
+M, W	12:00 - 12:50
+12:00 - 12:50	Bamieh106
+Bamieh101
+COMP438	موضوع خاص: الأمان والخصوصية سهلة الاستخدام	SP.TOP: USABLE SECURITY AND PRIVACY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Abdallah Haidar Mohammad Karakra	47 / 45	
+T, R	14:00 - 15:20	ALSADIK302
+COMP438	موضوع خاص: فحص وجودة البرمجيات	SP.TOP: SOFTWARE TESTING AND QUALITY ASSURANCE	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Majed Ibrahim Said Ayyad	11 / 45	
+T, R	14:00 - 15:20	Bamieh101
+COMP4388	موضوع خاص : التعلم الآلي للحاسوب	SP.TOP: MACHINE LEARNING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Radi A. R. Jarrar	44 / 45	
+T, R	08:00 - 09:20	Al-Juraysi229
+COMP439	المترجمات ولغات البرمجة	TRANSLATORS AND PROGRAMMING LANGUAGES	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		45 / 45	
+T, R	12:30 - 13:50	Masri302
+Lecture	2		42 / 45	
+T, R	08:00 - 09:20	Masri204
+© 2002 - 2023 جامعة بيرزيت . جميع الحقوق محفوظة
+بريد إلكتروني عناوين البريد الإلكتروني للتواصل مع الجامعة هاتف +970-2-2982000    عيادة الجامعة العيادة: الأرضي 022982151   الخلوي 0592982001    حرس الجامعة الحرس: الأرضي 022982919   الخلوي 0599281200

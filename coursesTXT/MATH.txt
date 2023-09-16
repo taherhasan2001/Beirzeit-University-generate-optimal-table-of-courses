@@ -1,0 +1,235 @@
+ البوابة الأكاديمية والإدارية لجامعة بيرزيت
+اشعارات
+ 
+اعلانات
+ 
+رسائل
+ 
+حسابي
+ابدأ بالكتابة للبحث في القوائم
+عربي
+First Semester 2023/2024
+Bachelor Program of Mathematics - برنامج بكالوريوس الرياضيات
+Bachelor Level Courses of Mathematics
+Choose Semester: 
+First Semester 2023/2024
+Study Language: 
+--- All languages ---
+MATH1321	التفاضل والتكامل 2	CALCULUS 2	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		155 / 160	
+S, W	12:00 - 12:50	SCI120
+Discussion	1		45 / 45	
+T	10:00 - 10:50	SCI021
+Discussion	2		22 / 45	
+T	09:00 - 09:50	SCI214
+Discussion	3		45 / 45	
+R	10:00 - 10:50	SCI021
+Discussion	4		43 / 45	
+W	08:00 - 08:50	SCI115
+MATH1351	رياضيات ما قبل التفاضل والتكامل	PRECALCULUS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Abdelrahim S. A. Mousa	168 / 160	
+T, R	09:00 - 09:50	SCI240
+Lecture	2		138 / 160	
+T, R	11:00 - 11:50	SCI120
+Lecture	3		160 / 160	
+T, R	12:00 - 12:50	SCI120
+Lecture	4		143 / 160	
+T, R	10:00 - 10:50	SCI120
+Lecture	5		147 / 160	
+T, R	14:00 - 14:50	SCI120
+Discussion	1		41 / 45	
+M	08:00 - 08:50	S.Abdulhadi380
+Discussion	2		42 / 45	
+S	14:00 - 14:50	SCI216
+Discussion	3		29 / 45	
+W	13:00 - 13:50	SCI115
+Discussion	4		31 / 45	
+M	12:00 - 12:50	S.Abdulhadi380
+Discussion	5		44 / 45	
+W	09:00 - 09:50	SCI115
+Discussion	6		45 / 45	
+W	13:00 - 13:50	SCI114
+Discussion	7		45 / 45	
+M	09:00 - 09:50	SCI115
+Discussion	8		40 / 45	
+S	12:00 - 12:50	SCI214
+Discussion	9		34 / 45	
+M	11:00 - 11:50	SCI113
+Discussion	10		38 / 45	
+S	08:00 - 08:50	SCI213
+Discussion	11		45 / 45	
+M	09:00 - 09:50	SCI216
+Discussion	12		41 / 45	
+W	13:00 - 13:50	SCI216
+Discussion	13		41 / 45	
+W	14:00 - 14:50	SCI115
+Discussion	14		37 / 45	
+W	11:00 - 11:50	SCI213
+Discussion	15		58 / 45	
+S	09:00 - 09:50	SCI114
+Discussion	16		27 / 45	
+W	14:00 - 14:50	SCI215
+Discussion	17		42 / 45	
+M	13:00 - 13:50	SCI115
+Discussion	18		33 / 45	
+S	12:00 - 12:50	S.Abdulhadi380
+Discussion	19		43 / 45	
+R	13:00 - 13:50	SCI021
+MATH1411	التفاضل والتكامل 1	CALCULUS 1	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Khaled Radwan Ali Altakhman	137 / 120	
+S, M, W	09:00 - 09:50	SCI120
+Lecture	2	Alaeddin Elayyan Alaeddin Elayyan	131 / 120	
+S, M, W	11:00 - 11:50	Sh.Shaheen105
+Lecture	3		125 / 120	
+S, M, W	13:00 - 13:50	Sh.Shaheen105
+Lecture	4	Muna Khaled Khaleel Abu Alhalawa	134 / 120	
+M, W	14:00 - 15:20	SCI120
+Lecture	5	Abdelrahim S. A. Mousa	137 / 120	
+S, M, W	11:00 - 11:50	A.Shaheen150
+Lecture	6	Marwan M. S. Aloqeili	130 / 120	
+S, M, W	10:00 - 10:50	SCI120
+Lecture	7		124 / 120	
+S, M, W	12:00 - 12:50	SCI240
+Discussion	1		42 / 45	
+T	14:00 - 14:50	SCI215
+Discussion	2	Amer Rida Hasan Ja'Far	40 / 45	
+S	10:00 - 10:50	SCI114
+Discussion	3	Amer Rida Hasan Ja'Far	43 / 45	
+R	09:00 - 09:50	SCI113
+Discussion	4		44 / 45	
+R	13:00 - 13:50	SCI115
+Discussion	5		42 / 45	
+M	12:00 - 12:50	SCI120
+Discussion	6		43 / 45	
+T	09:00 - 09:50	SCI213
+Discussion	7		41 / 45	
+T	14:00 - 14:50	SCI114
+Discussion	8		45 / 45	
+S	08:00 - 08:50	SCI215
+Discussion	9		39 / 45	
+R	13:00 - 13:50	SCI114
+Discussion	10		37 / 45	
+S	13:00 - 13:50	SCI115
+Discussion	11	Muna Khaled Khaleel Abu Alhalawa	50 / 45	
+T	08:00 - 08:50	SCI214
+Discussion	12		48 / 45	
+S	09:00 - 09:50	SCI213
+Discussion	13		37 / 45	
+R	10:00 - 10:50	SCI213
+Discussion	14		55 / 45	
+S	08:00 - 08:50	S.Abdulhadi380
+Discussion	15		44 / 45	
+T	09:00 - 09:50	SCI113
+Discussion	16		45 / 45	
+R	14:00 - 14:50	SCI114
+Discussion	17		50 / 45	
+T	10:00 - 10:50	SCI213
+Discussion	18		33 / 45	
+S	09:00 - 09:50	S.Abdulhadi380
+Discussion	19	Amer Rida Hasan Ja'Far	44 / 45	
+R	08:00 - 08:50	SCI214
+Discussion	20	Muna Khaled Khaleel Abu Alhalawa	48 / 45	
+W	13:00 - 13:50	SCI213
+Discussion	21		48 / 45	
+W	14:00 - 14:50	S.Abdulhadi380
+MATH1431	التفاضل والتكامل للعلوم الصحية	CALCULUS FOR HEALTH SCIENCES	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Marwan M. S. Aloqeili	111 / 120	
+S, M, W	11:00 - 11:50	SCI120
+Discussion	1		25 / 45	
+R	10:00 - 10:50	SCI240
+Discussion	2		40 / 45	
+M	09:00 - 09:50	SCI213
+Discussion	3		21 / 45	
+T	10:00 - 10:50	SCI113
+Discussion	4		25 / 45	
+T	10:00 - 10:50	SCI240
+MATH2311	التفاضل والتكامل 3	CALCULUS 3	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Reema Abdelfatah Mustafa Sbeih	42 / 45	
+S, M, W	10:00 - 10:50	SCI115
+Lecture	2	Reema Abdelfatah Mustafa Sbeih	45 / 45	
+S, M, W	11:00 - 11:50	SCI116
+MATH234	مقدمة في الجبر الخطي	INTRODUCTION TO LINEAR ALGEBRA	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mohammad Ali Deib Saleh	46 / 45	
+S, M, W	12:00 - 12:50	SCI115
+Lecture	2	Ala Ata Abdelhady Talahmeh	46 / 45	
+T, R	12:30 - 13:50	SCI116
+Lecture	3	Ahmad Yousef Rateb Al-Dweik	46 / 45	
+T, R	09:30 - 10:50	SCI116
+Lecture	4		46 / 45	
+T, R	08:00 - 09:20	SCI116
+Lecture	5	Ahmad Yousef Rateb Al-Dweik	45 / 45	
+M, W	14:00 - 15:20	SCI116
+Lecture	6	Reema Abdelfatah Mustafa Sbeih	44 / 45	
+S, M, W	13:00 - 13:50	SCI113
+MATH2351	التفاضل والتكامل للأعمال والإقتصاد	CALCULUS FOR BUSINESS AND ECONOMICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mohammad Yousef Hejaze Madiah	123 / 120	
+T, R	13:00 - 13:50	SCI120
+Lecture	2	Muna Khaled Khaleel Abu Alhalawa	88 / 120	
+T, R	09:00 - 09:50	SCI120
+Discussion	1		48 / 45	
+S	11:00 - 11:50	SCI113
+Discussion	2		38 / 45	
+W	13:00 - 13:50	SCI116
+Discussion	3		33 / 45	
+M	14:00 - 14:50	S.Abdulhadi380
+Discussion	4		23 / 45	
+S	10:00 - 10:50	SCI216
+Discussion	5		35 / 45	
+M	13:00 - 13:50	SCI116
+Discussion	6		34 / 45	
+W	10:00 - 10:50	SCI214
+MATH243	أساسيات الرياضيات	FOUNDATIONS OF MATHEMATICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		17 / 45	
+T, R	10:00 - 11:50	SCI214
+MATH330	طرق التحليل العددي	NUMERICAL METHODS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Abdelrahim S. A. Mousa	45 / 45	
+S, M, W	09:00 - 09:50	SCI116
+Lecture	2	Abdelrahim S. A. Mousa	38 / 45	
+T, R	11:00 - 12:20	SCI012
+Lecture	3	Muna Khaled Khaleel Abu Alhalawa	17 / 45	
+T, R	11:00 - 12:20	SCI115
+MATH331	المعادلات التفاضلية العادية	ORDINARY DIFFERENTIAL EQUATIONS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Marwan M. S. Aloqeili	45 / 45	
+S, M, W	12:00 - 12:50	SCI113
+Lecture	2	Ala Ata Abdelhady Talahmeh	45 / 45	
+S, M, W	11:00 - 11:50	SCI114
+Lecture	3	Marwan M. S. Aloqeili	45 / 45	
+T, R	09:30 - 10:50	SCI216
+Lecture	4	Ahmad Yousef Rateb Al-Dweik	44 / 45	
+T, R	11:00 - 12:20	SCI216
+Lecture	5	Alaeddin Elayyan Alaeddin Elayyan	35 / 45	
+S, M, W	10:00 - 10:50	SCI215
+Lecture	6	Ala Ata Abdelhady Talahmeh	45 / 45	
+S, M, W	09:00 - 09:50	SCI214
+MATH332	المعادلات التفاضلية الجزئية	PARTIAL DIFFERENTIAL EQUATIONS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Alaeddin Elayyan Alaeddin Elayyan	14 / 45	
+S, M, W	13:00 - 13:50	SCI214
+MATH3331	التحليل الرياضي 1	MATHEMATICAL ANALYSIS 1	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ala Ata Abdelhady Talahmeh	31 / 45	
+S, M, W	08:00 - 08:50	SCI116
+MATH337	الجبر المجرد 1	ABSTRACT ALGEBRA 1	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mohammad Ali Deib Saleh	24 / 45	
+S, M, W	11:00 - 11:50	SCI215
+MATH411	ندوة في الرياضيات	SEMINAR IN MATHEMATICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Reema Abdelfatah Mustafa Sbeih	4 / 10	
+T	10:00 - 10:50	N.Shaheen204
+MATH432	التبولوجيا	POINT SET TOPOLOGY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mohammad Ali Deib Saleh	7 / 45	
+T, R	12:30 - 13:50	SCI215
+© 2002 - 2023 جامعة بيرزيت . جميع الحقوق محفوظة
+بريد إلكتروني عناوين البريد الإلكتروني للتواصل مع الجامعة هاتف +970-2-2982000    عيادة الجامعة العيادة: الأرضي 022982151   الخلوي 0592982001    حرس الجامعة الحرس: الأرضي 022982919   الخلوي 0599281200

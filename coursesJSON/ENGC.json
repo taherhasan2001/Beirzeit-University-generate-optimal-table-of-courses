@@ -1,0 +1,1109 @@
+[
+    {
+        "name of course": "ENGC1000",
+        "sec": 1,
+        "name of instructor": "Majdi Jehad Ahmad Abu_Zahra",
+        "number of students": "31 / 30",
+        "days": "M, T, W, R",
+        "time": "08:00 - 08:50",
+        "place": "A.Shaheen016"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 2,
+        "name of instructor": "Mohamad Ibrahim Khalil Abu Thaher",
+        "number of students": "30 / 30",
+        "days": "S, T, W, R",
+        "time": "08:00 - 08:50",
+        "place": "A.Shaheen062"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 3,
+        "name of instructor": "",
+        "number of students": "17 / 30",
+        "days": "M, T, W, R",
+        "time": "09:00 - 09:50",
+        "place": "A.Shaheen016"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 4,
+        "name of instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+        "number of students": "30 / 30",
+        "days": "S, T, W, R",
+        "time": "09:00 - 09:50",
+        "place": "A.Shaheen062"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 5,
+        "name of instructor": "Salam A. A. Affoneh",
+        "number of students": "24 / 30",
+        "days": "M, T, W, R",
+        "time": "10:00 - 10:50",
+        "place": "A.Shaheen016"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 6,
+        "name of instructor": "Rania Mohammad Nu'Man Qassrawi",
+        "number of students": "30 / 30",
+        "days": "S, T, W, R",
+        "time": "10:00 - 10:50",
+        "place": "A.Shaheen062"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 7,
+        "name of instructor": "Mohamed Kamel Ahmad Ishnaiwer",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "11:00 - 11:50",
+        "place": "SCI017"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 8,
+        "name of instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+        "number of students": "30 / 30",
+        "days": "S, T, W, R",
+        "time": "11:00 - 11:50",
+        "place": "SCI019"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 9,
+        "name of instructor": "Suzan Musa Asad Shehada",
+        "number of students": "10 / 30",
+        "days": "S, T, W, R",
+        "time": "12:00 - 12:50",
+        "place": "SCI019"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 10,
+        "name of instructor": "Mohammed S. K. Zaid",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "11:00 - 11:50",
+        "place": "A.Shaheen016"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 11,
+        "name of instructor": "Rania Mohammad Nu'Man Qassrawi",
+        "number of students": "30 / 30",
+        "days": "S, M, T, W",
+        "time": "13:00 - 13:50",
+        "place": "A.Shaheen016"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 12,
+        "name of instructor": "Ahmad Shukri Ahmad Shayeb",
+        "number of students": "25 / 30",
+        "days": "M, T",
+        "time": "12:00 - 12:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 13,
+        "name of instructor": "Yasser Mohawesh Hussein Amro",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "14:00 - 14:50",
+        "place": "A.Shaheen016"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 14,
+        "name of instructor": "",
+        "number of students": "43 / 30",
+        "days": "S",
+        "time": "14:00 - 15:20",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 15,
+        "name of instructor": "Tagreed Bajes Butros Abed",
+        "number of students": "32 / 30",
+        "days": "S, M",
+        "time": "10:00 - 10:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 16,
+        "name of instructor": "Tagreed Bajes Butros Abed",
+        "number of students": "30 / 30",
+        "days": "S, M, T, R",
+        "time": "08:00 - 08:50",
+        "place": "SCI017"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 17,
+        "name of instructor": "Mohammed S. K. Zaid",
+        "number of students": "20 / 30",
+        "days": "M, T, W, R",
+        "time": "09:00 - 09:50",
+        "place": "SCI017"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 18,
+        "name of instructor": "Suzan Musa Asad Shehada",
+        "number of students": "28 / 30",
+        "days": "S, M, T, R",
+        "time": "10:00 - 10:50",
+        "place": "SCI017"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 19,
+        "name of instructor": "Amira Mohammad Awad Abu Zeed",
+        "number of students": "25 / 30",
+        "days": "S, M, T, R",
+        "time": "12:00 - 12:50",
+        "place": "SCI017"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 20,
+        "name of instructor": "",
+        "number of students": "31 / 30",
+        "days": "S, M, W, R",
+        "time": "13:00 - 13:50",
+        "place": "SCI017"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 21,
+        "name of instructor": "",
+        "number of students": "35 / 30",
+        "days": "M, T, W, R",
+        "time": "08:00 - 08:50",
+        "place": "SCI019"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 22,
+        "name of instructor": "Nariman Mohammad Hasan Morrar",
+        "number of students": "28 / 30",
+        "days": "M, T, W, R",
+        "time": "09:00 - 09:50",
+        "place": "SCI019"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 23,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "13:00 - 13:50",
+        "place": "SCI019"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 24,
+        "name of instructor": "",
+        "number of students": "32 / 30",
+        "days": "S, M, W, R",
+        "time": "12:00 - 12:50",
+        "place": "S.Abdulhadi372"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 25,
+        "name of instructor": "Mohamad Ibrahim Khalil Abu Thaher",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "13:00 - 13:50",
+        "place": "S.Abdulhadi372"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 26,
+        "name of instructor": "",
+        "number of students": "24 / 30",
+        "days": "S, M",
+        "time": "11:00 - 11:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 27,
+        "name of instructor": "Ahmad Shukri Ahmad Shayeb",
+        "number of students": "31 / 30",
+        "days": "M, T, W, R",
+        "time": "14:00 - 14:50",
+        "place": "S.Abdulhadi372"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 28,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "S, M, T, R",
+        "time": "08:00 - 08:50",
+        "place": "S.Abdulhadi372"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 29,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "S, M",
+        "time": "13:00 - 13:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 30,
+        "name of instructor": "Yasser Mohawesh Hussein Amro",
+        "number of students": "21 / 30",
+        "days": "M, T, W, R",
+        "time": "10:00 - 10:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 31,
+        "name of instructor": "Salam A. A. Affoneh",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "14:00 - 14:50",
+        "place": "SCI017"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 32,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "14:00 - 14:50",
+        "place": "SCI019"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 33,
+        "name of instructor": "",
+        "number of students": "13 / 30",
+        "days": "M, T, W, R",
+        "time": "10:00 - 10:50",
+        "place": "SCI019"
+    },
+    {
+        "name of course": "ENGC1000",
+        "sec": 34,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "M, T",
+        "time": "14:00 - 14:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC1002",
+        "sec": 1,
+        "name of instructor": "Salam A. A. Affoneh",
+        "number of students": "18 / 30",
+        "days": "M, W",
+        "time": "09:00 - 09:50",
+        "place": "A.Shaheen018"
+    },
+    {
+        "name of course": "ENGC1002",
+        "sec": 2,
+        "name of instructor": "Salam A. A. Affoneh",
+        "number of students": "12 / 30",
+        "days": "T, R",
+        "time": "09:00 - 09:50",
+        "place": "A.Shaheen018"
+    },
+    {
+        "name of course": "ENGC1002",
+        "sec": 3,
+        "name of instructor": "Majdi Jehad Ahmad Abu_Zahra",
+        "number of students": "24 / 30",
+        "days": "M, W",
+        "time": "13:00 - 13:50",
+        "place": "A.Shaheen018"
+    },
+    {
+        "name of course": "ENGC1002",
+        "sec": 4,
+        "name of instructor": "Majdi Jehad Ahmad Abu_Zahra",
+        "number of students": "23 / 30",
+        "days": "M, W",
+        "time": "12:00 - 12:50",
+        "place": "A.Shaheen018"
+    },
+    {
+        "name of course": "ENGC1201",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "33 / 30",
+        "days": "M, W",
+        "time": "15:00 - 15:50",
+        "place": "A.Shaheen016"
+    },
+    {
+        "name of course": "ENGC1202",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "12 / 30",
+        "days": "T, R",
+        "time": "08:00 - 08:50",
+        "place": "A.Shaheen018"
+    },
+    {
+        "name of course": "ENGC1202",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "25 / 30",
+        "days": "M, W",
+        "time": "11:00 - 11:50",
+        "place": "A.Shaheen018"
+    },
+    {
+        "name of course": "ENGC1202",
+        "sec": 3,
+        "name of instructor": "Majdi Jehad Ahmad Abu_Zahra",
+        "number of students": "30 / 30",
+        "days": "M, W",
+        "time": "10:00 - 10:50",
+        "place": "A.Shaheen018"
+    },
+    {
+        "name of course": "ENGC1202",
+        "sec": 5,
+        "name of instructor": "",
+        "number of students": "16 / 30",
+        "days": "M, W",
+        "time": "13:00 - 13:50",
+        "place": "Aggad303"
+    },
+    {
+        "name of course": "ENGC1202",
+        "sec": 6,
+        "name of instructor": "",
+        "number of students": "21 / 30",
+        "days": "T, R",
+        "time": "11:00 - 11:50",
+        "place": "A.Shaheen018"
+    },
+    {
+        "name of course": "ENGC1202",
+        "sec": 7,
+        "name of instructor": "Majdi Jehad Ahmad Abu_Zahra",
+        "number of students": "20 / 30",
+        "days": "T, R",
+        "time": "13:00 - 13:50",
+        "place": "A.Shaheen018"
+    },
+    {
+        "name of course": "ENGC1400",
+        "sec": 1,
+        "name of instructor": "Andira A. M. Abdallah",
+        "number of students": "30 / 30",
+        "days": "S",
+        "time": "13:00 - 13:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC1400",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "24 / 30",
+        "days": "S, M, T, R",
+        "time": "12:00 - 12:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2201",
+        "sec": 3,
+        "name of instructor": "",
+        "number of students": "24 / 30",
+        "days": "S, W",
+        "time": "09:00 - 09:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2202",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "T, R",
+        "time": "13:00 - 13:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2202",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "20 / 30",
+        "days": "T, R",
+        "time": "12:00 - 12:50",
+        "place": "A.Shaheen018"
+    },
+    {
+        "name of course": "ENGC2202",
+        "sec": 3,
+        "name of instructor": "",
+        "number of students": "20 / 30",
+        "days": "M, W",
+        "time": "08:00 - 08:50",
+        "place": "A.Shaheen216"
+    },
+    {
+        "name of course": "ENGC2202",
+        "sec": 4,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "M, W",
+        "time": "09:00 - 09:50",
+        "place": "Aggad315"
+    },
+    {
+        "name of course": "ENGC2202",
+        "sec": 5,
+        "name of instructor": "",
+        "number of students": "8 / 30",
+        "days": "T, R",
+        "time": "14:00 - 14:50",
+        "place": "Al-Juraysi021"
+    },
+    {
+        "name of course": "ENGC2202",
+        "sec": 6,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "M, W",
+        "time": "11:00 - 11:50",
+        "place": "A.Shaheen212"
+    },
+    {
+        "name of course": "ENGC2202",
+        "sec": 7,
+        "name of instructor": "",
+        "number of students": "7 / 30",
+        "days": "T, R",
+        "time": "12:00 - 12:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2202",
+        "sec": 8,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "M, W",
+        "time": "13:00 - 13:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2202",
+        "sec": 9,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "S, W",
+        "time": "10:00 - 10:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2202",
+        "sec": 10,
+        "name of instructor": "",
+        "number of students": "19 / 30",
+        "days": "T, R",
+        "time": "09:00 - 09:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2203",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "15 / 30",
+        "days": "S, M",
+        "time": "09:00 - 09:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2204",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "22 / 30",
+        "days": "M, W",
+        "time": "08:00 - 08:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2305",
+        "sec": 1,
+        "name of instructor": "Mohamed Kamel Ahmad Ishnaiwer",
+        "number of students": "31 / 30",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "Aggad307"
+    },
+    {
+        "name of course": "ENGC2305",
+        "sec": 2,
+        "name of instructor": "Andira A. M. Abdallah",
+        "number of students": "32 / 30",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "Aggad415"
+    },
+    {
+        "name of course": "ENGC2305",
+        "sec": 3,
+        "name of instructor": "Ruba Abdul_Latif Mustafa Khalaf",
+        "number of students": "20 / 30",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "A.Shaheen262"
+    },
+    {
+        "name of course": "ENGC2305",
+        "sec": 4,
+        "name of instructor": "Tina Yaser Kostandi Rafidi",
+        "number of students": "35 / 30",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "Al-Juraysi225"
+    },
+    {
+        "name of course": "ENGC2305",
+        "sec": 5,
+        "name of instructor": "",
+        "number of students": "17 / 30",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "S.Abdulhadi372"
+    },
+    {
+        "name of course": "ENGC233",
+        "sec": 1,
+        "name of instructor": "Rania Mohammad Nu'Man Qassrawi",
+        "number of students": "30 / 30",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Al-Juraysi023"
+    },
+    {
+        "name of course": "ENGC233",
+        "sec": 2,
+        "name of instructor": "Tina Yaser Kostandi Rafidi",
+        "number of students": "30 / 30",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC233",
+        "sec": 3,
+        "name of instructor": "Rula Tony Jabra Yousef",
+        "number of students": "29 / 30",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Bamieh101"
+    },
+    {
+        "name of course": "ENGC233",
+        "sec": 4,
+        "name of instructor": "Ruba Abdul_Latif Mustafa Khalaf",
+        "number of students": "18 / 30",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "Al-Juraysi323"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 1,
+        "name of instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+        "number of students": "31 / 30",
+        "days": "S, T, W, R",
+        "time": "13:00 - 13:50",
+        "place": "SCI219"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "13:00 - 13:50",
+        "place": "Al-Juraysi025"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 3,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "S, T, W, R",
+        "time": "11:00 - 11:50",
+        "place": "SCI219"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 4,
+        "name of instructor": "Rania Mohammad Nu'Man Qassrawi",
+        "number of students": "30 / 30",
+        "days": "S, T, W, R",
+        "time": "09:00 - 09:50",
+        "place": "SCI219"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 5,
+        "name of instructor": "Haya Abdulrahman Abdulrahman Abuhussein",
+        "number of students": "30 / 30",
+        "days": "S, T, W, R",
+        "time": "10:00 - 10:50",
+        "place": "SCI219"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 6,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "S, T, W, R",
+        "time": "12:00 - 12:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 7,
+        "name of instructor": "",
+        "number of students": "29 / 30",
+        "days": "S, T, W, R",
+        "time": "08:00 - 08:50",
+        "place": "SCI219"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 8,
+        "name of instructor": "Suzan Musa Asad Shehada",
+        "number of students": "30 / 30",
+        "days": "S, T, W, R",
+        "time": "14:00 - 14:50",
+        "place": "SCI219"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 9,
+        "name of instructor": "Mohammed S. K. Zaid",
+        "number of students": "25 / 30",
+        "days": "M, T, W, R",
+        "time": "08:00 - 08:50",
+        "place": "SCI217"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 10,
+        "name of instructor": "Rula Tony Jabra Yousef",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "09:00 - 09:50",
+        "place": "SCI217"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 11,
+        "name of instructor": "Ahmad Shukri Ahmad Shayeb",
+        "number of students": "30 / 30",
+        "days": "M",
+        "time": "11:00 - 11:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 12,
+        "name of instructor": "Lamees Mahmoud Awad Abbas",
+        "number of students": "32 / 30",
+        "days": "M, T, W, R",
+        "time": "10:00 - 10:50",
+        "place": "SCI217"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 13,
+        "name of instructor": "Nariman Mohammad Hasan Morrar",
+        "number of students": "30 / 30",
+        "days": "S, M, T, W",
+        "time": "12:00 - 12:50",
+        "place": "SCI217"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 14,
+        "name of instructor": "Mohammed S. K. Zaid",
+        "number of students": "29 / 30",
+        "days": "M, T, W, R",
+        "time": "13:00 - 13:50",
+        "place": "SCI217"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 15,
+        "name of instructor": "Rula Tony Jabra Yousef",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "08:00 - 08:50",
+        "place": "A.Shaheen206"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 16,
+        "name of instructor": "",
+        "number of students": "22 / 30",
+        "days": "M, T, W, R",
+        "time": "14:00 - 14:50",
+        "place": "SCI217"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 17,
+        "name of instructor": "Suzan Musa Asad Shehada",
+        "number of students": "30 / 30",
+        "days": "S, M, T, R",
+        "time": "09:00 - 09:50",
+        "place": "SCI119"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 18,
+        "name of instructor": "Amira Mohammad Awad Abu Zeed",
+        "number of students": "30 / 30",
+        "days": "S, M, T, R",
+        "time": "10:00 - 10:50",
+        "place": "SCI119"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 19,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "S, M, T, R",
+        "time": "11:00 - 11:50",
+        "place": "SCI119"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 20,
+        "name of instructor": "Tagreed Bajes Butros Abed",
+        "number of students": "29 / 30",
+        "days": "S, M, T, R",
+        "time": "12:00 - 12:50",
+        "place": "SCI119"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 21,
+        "name of instructor": "",
+        "number of students": "27 / 30",
+        "days": "S, M, T, R",
+        "time": "13:00 - 13:50",
+        "place": "SCI119"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 22,
+        "name of instructor": "Mohamad Ibrahim Khalil Abu Thaher",
+        "number of students": "24 / 30",
+        "days": "S, M",
+        "time": "09:00 - 09:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 23,
+        "name of instructor": "Mohamad Ibrahim Khalil Abu Thaher",
+        "number of students": "27 / 30",
+        "days": "S, M, T, R",
+        "time": "11:00 - 11:50",
+        "place": "A.Shaheen062"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 24,
+        "name of instructor": "",
+        "number of students": "24 / 30",
+        "days": "S, M, T, R",
+        "time": "12:00 - 12:50",
+        "place": "A.Shaheen062"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 25,
+        "name of instructor": "Amira Mohammad Awad Abu Zeed",
+        "number of students": "30 / 30",
+        "days": "S, M, T, R",
+        "time": "13:00 - 13:50",
+        "place": "A.Shaheen062"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 26,
+        "name of instructor": "Mohamed Kamel Ahmad Ishnaiwer",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "09:00 - 09:50",
+        "place": "SCI117"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 27,
+        "name of instructor": "Andira A. M. Abdallah",
+        "number of students": "28 / 30",
+        "days": "S, M, T, R",
+        "time": "10:00 - 10:50",
+        "place": "SCI117"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 28,
+        "name of instructor": "",
+        "number of students": "13 / 30",
+        "days": "S, M, W, R",
+        "time": "12:00 - 12:50",
+        "place": "SCI117"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 29,
+        "name of instructor": "Andira A. M. Abdallah",
+        "number of students": "29 / 30",
+        "days": "S, M, T, R",
+        "time": "11:00 - 11:50",
+        "place": "SCI117"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 30,
+        "name of instructor": "Mohamed Kamel Ahmad Ishnaiwer",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "13:00 - 13:50",
+        "place": "SCI117"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 31,
+        "name of instructor": "Fatima Yacoub Jum'Ah Qarash",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "10:00 - 10:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 32,
+        "name of instructor": "Nariman Mohammad Hasan Morrar",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "13:00 - 13:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 33,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "S, M, W",
+        "time": "14:00 - 15:20",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 34,
+        "name of instructor": "",
+        "number of students": "10 / 30",
+        "days": "S, M, W",
+        "time": "15:30 - 16:20",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 35,
+        "name of instructor": "",
+        "number of students": "2 / 30",
+        "days": "S",
+        "time": "14:00 - 14:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 36,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "S",
+        "time": "15:30 - 16:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 37,
+        "name of instructor": "",
+        "number of students": "24 / 30",
+        "days": "S",
+        "time": "14:00 - 14:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 38,
+        "name of instructor": "",
+        "number of students": "2 / 30",
+        "days": "S",
+        "time": "15:30 - 16:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 39,
+        "name of instructor": "",
+        "number of students": "29 / 30",
+        "days": "M, T, W, R",
+        "time": "14:00 - 14:50",
+        "place": "SCI117"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 40,
+        "name of instructor": "",
+        "number of students": "5 / 30",
+        "days": "M, T, W, R",
+        "time": "09:00 - 09:50",
+        "place": "S.Abdulhadi372"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 41,
+        "name of instructor": "",
+        "number of students": "15 / 30",
+        "days": "S, M",
+        "time": "14:00 - 14:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 42,
+        "name of instructor": "",
+        "number of students": "4 / 30",
+        "days": "M, T, W, R",
+        "time": "14:00 - 14:50",
+        "place": "Al-Juraysi221"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 43,
+        "name of instructor": "",
+        "number of students": "2 / 30",
+        "days": "M, T, W, R",
+        "time": "08:00 - 08:50",
+        "place": "Al-Juraysi329"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 44,
+        "name of instructor": "",
+        "number of students": "3 / 30",
+        "days": "S, M",
+        "time": "08:00 - 08:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 45,
+        "name of instructor": "",
+        "number of students": "3 / 30",
+        "days": "M, T, W, R",
+        "time": "09:00 - 09:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 46,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "M, T, W, R",
+        "time": "11:00 - 11:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 47,
+        "name of instructor": "",
+        "number of students": "2 / 30",
+        "days": "M, T, W, R",
+        "time": "08:00 - 08:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 48,
+        "name of instructor": "",
+        "number of students": "8 / 30",
+        "days": "S, M",
+        "time": "11:00 - 11:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 49,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "S, M, T, W",
+        "time": "13:00 - 13:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 50,
+        "name of instructor": "",
+        "number of students": "1 / 30",
+        "days": "S, R",
+        "time": "12:00 - 12:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 51,
+        "name of instructor": "",
+        "number of students": "7 / 30",
+        "days": "S, M, W, R",
+        "time": "10:00 - 10:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2400",
+        "sec": 53,
+        "name of instructor": "",
+        "number of students": "4 / 30",
+        "days": "S, M, W, R",
+        "time": "14:00 - 14:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC2401",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "38 / 30",
+        "days": "S, T, W, R",
+        "time": "11:00 - 11:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENGC3340",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "30 / 30",
+        "days": "S, M, W",
+        "time": "08:00 - 08:50",
+        "place": "A.Shaheen212"
+    }
+]

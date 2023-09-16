@@ -1,0 +1,181 @@
+ البوابة الأكاديمية والإدارية لجامعة بيرزيت
+اشعارات
+ 
+اعلانات
+ 
+رسائل
+ 
+حسابي
+ابدأ بالكتابة للبحث في القوائم
+عربي
+First Semester 2023/2024
+Bachelor Program of Mechanical Engineering - برنامج بكالوريوس الهندسة الميكانيكية
+Bachelor Level Courses of Mechanical Engineering
+Choose Semester: 
+First Semester 2023/2024
+Study Language: 
+--- All languages ---
+ENME120	مشغل	WORKSHOP	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ibrahim Mohammad Othman Hammad	118 / 120	
+S	09:00 - 09:50	Sh.Shaheen105
+Lecture	2	Ibrahim Mohammad Othman Hammad	66 / 120	
+S	13:00 - 13:50	A.Shaheen162
+Lab	1		25 / 25	
+M	14:00 - 16:50	WKS105
+Lab	2		25 / 25	
+T	11:00 - 13:50	WKS105
+Lab	3		22 / 25	
+M	08:00 - 10:50	WKS105
+Lab	4		25 / 25	
+W	08:00 - 10:50	WKS105
+Lab	5		25 / 25	
+M	11:00 - 13:50	WKS105
+Lab	6		13 / 25	
+S	11:00 - 13:50	WKS105
+Lab	7		25 / 25	
+T	08:00 - 10:50	WKS105
+Lab	8		24 / 25	
+R	08:00 - 10:50	WKS105
+ENME1210	الرسم الهندسي	ENGINEERING DRAWING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mohammad Mahmoud Hasan Al Karaeen	101 / 120	
+S	14:00 - 14:50	Sh.Shaheen105
+Lecture	2	Mohammad Mahmoud Hasan Al Karaeen	102 / 120	
+S	11:00 - 11:50	Bamieh002
+Lab	1		25 / 25	
+M	08:00 - 10:50	Aggad342
+Lab	2		25 / 25	
+M	11:00 - 13:50	Aggad342
+Lab	3		25 / 25	
+M	14:00 - 16:50	Aggad342
+Lab	4		10 / 25	
+T	08:00 - 10:50	Aggad342
+Lab	5		25 / 25	
+T	11:00 - 13:50	Aggad342
+Lab	6		25 / 25	
+W	08:00 - 10:50	Aggad342
+Lab	7		25 / 25	
+W	14:00 - 16:50	Aggad342
+Lab	8		18 / 25	
+R	11:00 - 13:50	Aggad342
+Lab	9		25 / 25	
+S	11:00 - 13:50	Aggad342
+ENME2111	الرسم الميكانيكي	MECHANICAL DRAWING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ihab Mohammad Said Abu Ajamieh	20 / 20	
+T	11:00 - 13:50	Aggad344/2
+Lecture	2	Allan S. E. Tubaileh	15 / 20	
+S	11:00 - 13:50	Aggad344/2
+ENME232	الديناميكا	DYNAMICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Nidal Mohammad Abdel Qader Farhat	19 / 45	
+S, M, W	12:00 - 12:50	Aggad332
+Lecture	2	Mamon Mohammad Abedalqader Horoub	12 / 45	
+T, R	08:00 - 09:20	Aggad315
+ENME3100	مقدمة التدريب العملي	INTRODUCTION TO PRACTICAL TRAINING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ibrahim Mohammad Othman Hammad	2 / 35	
+N/A	N/A	N/A
+ENME312	مختبر ميكانيكا الموائع	FLUID MECHANICS LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Adel Abd Elkader Atef Dweik	1 / 20	
+T	11:00 - 13:50	Aggad141
+Lecture	2	Sameh Nabil Abdel Jabbar Abu Awad	7 / 20	
+R	14:00 - 16:50	Aggad141
+Lecture	3	Mohammad Mahmoud Hasan Al Karaeen	9 / 20	
+M	11:00 - 13:50	Aggad141
+ENME331	علم المواد	MATERIALS SCIENCE	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ibrahim Mohammad Othman Hammad	38 / 45	
+S, M, W	10:00 - 10:50	Aggad336
+ENME332	ديناميكا الآلات	MACHINE DYNAMICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Nidal Mohammad Abdel Qader Farhat	32 / 45	
+S, M, W	09:00 - 09:50	Aggad336
+ENME333	الديناميكا الحرارية	THERMODYNAMICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mohammad Mahmoud Hasan Al Karaeen	18 / 45	
+T, R	11:00 - 12:20	Aggad407
+Lecture	2	Adel Abd Elkader Atef Dweik	8 / 45	
+S, M, W	09:00 - 09:50	Aggad332
+ENME335	ميكانيكا الموائع 1	FLUID MECHANICS 1	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Sameh Nabil Abdel Jabbar Abu Awad	39 / 45	
+T, R	12:30 - 13:50	Aggad303
+Lecture	2	Sameh Nabil Abdel Jabbar Abu Awad	29 / 45	
+S, M, W	13:00 - 13:50	Aggad415
+ENME411	مختبر هندسة ميكانيكية	MECHANICAL ENGINEERING LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Sameh Nabil Abdel Jabbar Abu Awad	2 / 10	
+W	14:00 - 16:50	Aggad241
+ENME4110	مختبر تطبيقات موائع و حراريات	THERMAL FLUID APPLICATIONS LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Sameh Nabil Abdel Jabbar Abu Awad	0 / 10	
+W	14:00 - 16:50	Aggad241
+ENME4300	التدريب العملي	PRACTICAL TRAINING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Allan S. E. Tubaileh	4 / 35	
+N/A	N/A	N/A
+ENME431	انتقال الحرارة	HEAT TRANSFER	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		22 / 45	
+T, R	09:30 - 10:50	Aggad403
+ENME435	تصميم الآلات 1	MACHINE DESIGN 1	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Allan S. E. Tubaileh	22 / 45	
+T, R	11:00 - 12:20	Aggad403
+ENME436	تصميم الآلات 2	MACHINE DESIGN 2	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Rashad Irsan Hassan Mustafa	15 / 45	
+S, M, W	08:00 - 08:50	Aggad332
+ENME4380	أنظمة التحكم	CONTROL SYSTEMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mamon Mohammad Abedalqader Horoub	12 / 45	
+T, R	09:30 - 10:50	Aggad407
+ENME5194	مختبر المركبات	AUTOMOTIVE LABORATORY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Rashad Irsan Hassan Mustafa	4 / 16	
+R	14:00 - 16:50	Aggad143
+ENME520	مقدمة مشروع التخرج	INTRODUCTION TO GRADUATION PROJECT	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		2 / 3	
+N/A	N/A	N/A
+Lecture	2		1 / 3	
+N/A	N/A	N/A
+Lecture	3		1 / 3	
+N/A	N/A	N/A
+Lecture	4		1 / 3	
+N/A	N/A	N/A
+Lecture	5		0 / 3	
+N/A	N/A	N/A
+Lecture	6		0 / 3	
+N/A	N/A	N/A
+Lecture	7		1 / 3	
+N/A	N/A	N/A
+Lecture	8		0 / 3	
+N/A	N/A	N/A
+ENME530	مشروع التخرج	GRADUATION PROJECT	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Adel Abd Elkader Atef Dweik	2 / 3	
+N/A	N/A	N/A
+Lecture	2		0 / 3	
+N/A	N/A	N/A
+ENME5312	طرق العناصر المحدودة	FINITE ELEMENT METHODS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ibrahim Mohammad Othman Hammad	8 / 45	
+S, M, W	12:00 - 12:50	Aggad336
+ENME537	التحكم في طاقة الموائع	FLUID POWER CONTROL	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ahmed Mohammed Ahmed Abu Hanieh	5 / 45	
+T, R	12:30 - 13:50	Aggad307
+ENME5380	الأعمال الصحية ومكافحة الحريق	PLUMBING AND FIREFIGHTING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Adel Abd Elkader Atef Dweik	20 / 45	
+S, M, W	11:00 - 11:50	Aggad411
+ENME5392	الأنظمة الكهربائية والإلكترونية للمركبات	AUTOMOTIVE ELECTRICAL AND ELECTRONIC SYSTEMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Rashad Irsan Hassan Mustafa	35 / 45	
+S, M, W	10:00 - 10:50	Aggad332
+© 2002 - 2023 جامعة بيرزيت . جميع الحقوق محفوظة
+بريد إلكتروني عناوين البريد الإلكتروني للتواصل مع الجامعة هاتف +970-2-2982000    عيادة الجامعة العيادة: الأرضي 022982151   الخلوي 0592982001    حرس الجامعة الحرس: الأرضي 022982919   الخلوي 0599281200

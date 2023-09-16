@@ -1,0 +1,362 @@
+[
+    {
+        "name of course": "ENME120",
+        "sec": 1,
+        "name of instructor": "Ibrahim Mohammad Othman Hammad",
+        "number of students": "118 / 120",
+        "days": "S",
+        "time": "09:00 - 09:50",
+        "place": "Sh.Shaheen105"
+    },
+    {
+        "name of course": "ENME120",
+        "sec": 2,
+        "name of instructor": "Ibrahim Mohammad Othman Hammad",
+        "number of students": "66 / 120",
+        "days": "S",
+        "time": "13:00 - 13:50",
+        "place": "A.Shaheen162"
+    },
+    {
+        "name of course": "ENME1210",
+        "sec": 1,
+        "name of instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+        "number of students": "101 / 120",
+        "days": "S",
+        "time": "14:00 - 14:50",
+        "place": "Sh.Shaheen105"
+    },
+    {
+        "name of course": "ENME1210",
+        "sec": 2,
+        "name of instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+        "number of students": "102 / 120",
+        "days": "S",
+        "time": "11:00 - 11:50",
+        "place": "Bamieh002"
+    },
+    {
+        "name of course": "ENME2111",
+        "sec": 1,
+        "name of instructor": "Ihab Mohammad Said Abu Ajamieh",
+        "number of students": "20 / 20",
+        "days": "T",
+        "time": "11:00 - 13:50",
+        "place": "Aggad344/2"
+    },
+    {
+        "name of course": "ENME2111",
+        "sec": 2,
+        "name of instructor": "Allan S. E. Tubaileh",
+        "number of students": "15 / 20",
+        "days": "S",
+        "time": "11:00 - 13:50",
+        "place": "Aggad344/2"
+    },
+    {
+        "name of course": "ENME232",
+        "sec": 1,
+        "name of instructor": "Nidal Mohammad Abdel Qader Farhat",
+        "number of students": "19 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Aggad332"
+    },
+    {
+        "name of course": "ENME232",
+        "sec": 2,
+        "name of instructor": "Mamon Mohammad Abedalqader Horoub",
+        "number of students": "12 / 45",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "Aggad315"
+    },
+    {
+        "name of course": "ENME3100",
+        "sec": 1,
+        "name of instructor": "Ibrahim Mohammad Othman Hammad",
+        "number of students": "2 / 35",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENME312",
+        "sec": 1,
+        "name of instructor": "Adel Abd Elkader Atef Dweik",
+        "number of students": "1 / 20",
+        "days": "T",
+        "time": "11:00 - 13:50",
+        "place": "Aggad141"
+    },
+    {
+        "name of course": "ENME312",
+        "sec": 2,
+        "name of instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+        "number of students": "7 / 20",
+        "days": "R",
+        "time": "14:00 - 16:50",
+        "place": "Aggad141"
+    },
+    {
+        "name of course": "ENME312",
+        "sec": 3,
+        "name of instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+        "number of students": "9 / 20",
+        "days": "M",
+        "time": "11:00 - 13:50",
+        "place": "Aggad141"
+    },
+    {
+        "name of course": "ENME331",
+        "sec": 1,
+        "name of instructor": "Ibrahim Mohammad Othman Hammad",
+        "number of students": "38 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "Aggad336"
+    },
+    {
+        "name of course": "ENME332",
+        "sec": 1,
+        "name of instructor": "Nidal Mohammad Abdel Qader Farhat",
+        "number of students": "32 / 45",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "Aggad336"
+    },
+    {
+        "name of course": "ENME333",
+        "sec": 1,
+        "name of instructor": "Mohammad Mahmoud Hasan Al Karaeen",
+        "number of students": "18 / 45",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Aggad407"
+    },
+    {
+        "name of course": "ENME333",
+        "sec": 2,
+        "name of instructor": "Adel Abd Elkader Atef Dweik",
+        "number of students": "8 / 45",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "Aggad332"
+    },
+    {
+        "name of course": "ENME335",
+        "sec": 1,
+        "name of instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+        "number of students": "39 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Aggad303"
+    },
+    {
+        "name of course": "ENME335",
+        "sec": 2,
+        "name of instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+        "number of students": "29 / 45",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Aggad415"
+    },
+    {
+        "name of course": "ENME411",
+        "sec": 1,
+        "name of instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+        "number of students": "2 / 10",
+        "days": "W",
+        "time": "14:00 - 16:50",
+        "place": "Aggad241"
+    },
+    {
+        "name of course": "ENME4110",
+        "sec": 1,
+        "name of instructor": "Sameh Nabil Abdel Jabbar Abu Awad",
+        "number of students": "0 / 10",
+        "days": "W",
+        "time": "14:00 - 16:50",
+        "place": "Aggad241"
+    },
+    {
+        "name of course": "ENME4300",
+        "sec": 1,
+        "name of instructor": "Allan S. E. Tubaileh",
+        "number of students": "4 / 35",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENME431",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "22 / 45",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "Aggad403"
+    },
+    {
+        "name of course": "ENME435",
+        "sec": 1,
+        "name of instructor": "Allan S. E. Tubaileh",
+        "number of students": "22 / 45",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Aggad403"
+    },
+    {
+        "name of course": "ENME436",
+        "sec": 1,
+        "name of instructor": "Rashad Irsan Hassan Mustafa",
+        "number of students": "15 / 45",
+        "days": "S, M, W",
+        "time": "08:00 - 08:50",
+        "place": "Aggad332"
+    },
+    {
+        "name of course": "ENME4380",
+        "sec": 1,
+        "name of instructor": "Mamon Mohammad Abedalqader Horoub",
+        "number of students": "12 / 45",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "Aggad407"
+    },
+    {
+        "name of course": "ENME5194",
+        "sec": 1,
+        "name of instructor": "Rashad Irsan Hassan Mustafa",
+        "number of students": "4 / 16",
+        "days": "R",
+        "time": "14:00 - 16:50",
+        "place": "Aggad143"
+    },
+    {
+        "name of course": "ENME520",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "2 / 3",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENME520",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "1 / 3",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENME520",
+        "sec": 3,
+        "name of instructor": "",
+        "number of students": "1 / 3",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENME520",
+        "sec": 4,
+        "name of instructor": "",
+        "number of students": "1 / 3",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENME520",
+        "sec": 5,
+        "name of instructor": "",
+        "number of students": "0 / 3",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENME520",
+        "sec": 6,
+        "name of instructor": "",
+        "number of students": "0 / 3",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENME520",
+        "sec": 7,
+        "name of instructor": "",
+        "number of students": "1 / 3",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENME520",
+        "sec": 8,
+        "name of instructor": "",
+        "number of students": "0 / 3",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENME530",
+        "sec": 1,
+        "name of instructor": "Adel Abd Elkader Atef Dweik",
+        "number of students": "2 / 3",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENME530",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "0 / 3",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENME5312",
+        "sec": 1,
+        "name of instructor": "Ibrahim Mohammad Othman Hammad",
+        "number of students": "8 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Aggad336"
+    },
+    {
+        "name of course": "ENME537",
+        "sec": 1,
+        "name of instructor": "Ahmed Mohammed Ahmed Abu Hanieh",
+        "number of students": "5 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Aggad307"
+    },
+    {
+        "name of course": "ENME5380",
+        "sec": 1,
+        "name of instructor": "Adel Abd Elkader Atef Dweik",
+        "number of students": "20 / 45",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Aggad411"
+    },
+    {
+        "name of course": "ENME5392",
+        "sec": 1,
+        "name of instructor": "Rashad Irsan Hassan Mustafa",
+        "number of students": "35 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "Aggad332"
+    }
+]

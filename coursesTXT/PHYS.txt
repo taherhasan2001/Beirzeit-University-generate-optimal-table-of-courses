@@ -1,0 +1,231 @@
+ البوابة الأكاديمية والإدارية لجامعة بيرزيت
+اشعارات
+ 
+اعلانات
+ 
+رسائل
+ 
+حسابي
+ابدأ بالكتابة للبحث في القوائم
+عربي
+First Semester 2023/2024
+Bachelor Program of Physics - برنامج بكالوريوس الفيزياء
+Bachelor Level Courses of Physics
+Choose Semester: 
+First Semester 2023/2024
+Study Language: 
+--- All languages ---
+PHYS111	مختبر الفيزياء العامة 1	GENERAL PHYSICS LAB 1	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		24 / 24	
+W	11:00 - 13:50	SCI259
+Lecture	2		24 / 24	
+R	08:00 - 10:50	SCI259
+Lecture	3	Fatimah Hasan Ahmed Shamasneh	24 / 24	
+M	08:00 - 10:50	SCI259
+Lecture	4		24 / 24	
+W	08:00 - 10:50	SCI259
+Lecture	5		24 / 24	
+T	08:00 - 10:50	SCI259
+Lecture	6	Fatimah Hasan Ahmed Shamasneh	25 / 24	
+R	14:00 - 16:50	SCI259
+Lecture	7		24 / 24	
+S	11:00 - 13:50	SCI259
+Lecture	8		24 / 24	
+W	14:00 - 16:50	SCI259
+Lecture	9	Fatimah Hasan Ahmed Shamasneh	25 / 24	
+S	14:00 - 16:50	SCI259
+Lecture	10		24 / 24	
+M	11:00 - 13:50	SCI259
+Lecture	11		24 / 24	
+R	11:00 - 13:50	SCI259
+Lecture	12	Abdallah Salahedin Saleh Sayyed Ahmad	24 / 24	
+S	08:00 - 10:50	SCI263
+Lecture	13		24 / 24	
+M	11:00 - 13:50	SCI263
+Lecture	14	Fatimah Hasan Ahmed Shamasneh	24 / 24	
+W	11:00 - 13:50	SCI263
+Lecture	15		24 / 24	
+M	14:00 - 16:50	SCI263
+Lecture	16		24 / 24	
+W	08:00 - 10:50	SCI263
+Lecture	17		24 / 24	
+R	11:00 - 13:50	SCI263
+Lecture	18		24 / 24	
+R	08:00 - 10:50	SCI263
+Lecture	19		23 / 24	
+S	14:00 - 16:50	SCI263
+Lecture	20	Abdallah Salahedin Saleh Sayyed Ahmad	24 / 24	
+T	08:00 - 10:50	SCI263
+Lecture	21		24 / 24	
+S	11:00 - 13:50	SCI263
+Lecture	22		25 / 24	
+S	08:00 - 10:50	SCI259
+Lecture	23		24 / 24	
+T	11:00 - 13:50	SCI259
+Lecture	24		24 / 24	
+M	14:00 - 16:50	SCI259
+Lecture	25	Abdallah Salahedin Saleh Sayyed Ahmad	23 / 24	
+M	08:00 - 10:50	SCI263
+Lecture	26		25 / 24	
+T	11:00 - 13:50	SCI263
+Lecture	27		24 / 24	
+W	14:00 - 16:50	SCI263
+Lecture	28		25 / 24	
+R	14:00 - 16:50	SCI263
+PHYS112	مختبر الفيزياء العامة 2	GENERAL PHYSICS LAB 2	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		19 / 18	
+T	11:00 - 13:50	SCI253
+Lecture	2	Zafer M. A. Hawash	18 / 18	
+M	14:00 - 16:50	SCI253
+Lecture	3	Khalid Fathi Abdalrazzaq Eid	18 / 18	
+M	08:00 - 10:50	SCI253
+Lecture	4	Shayma' Moustafa Ameen Salama	16 / 18	
+R	08:00 - 10:50	SCI253
+Lecture	5	Shayma' Moustafa Ameen Salama	18 / 18	
+M	11:00 - 13:50	SCI253
+Lecture	6	Shayma' Moustafa Ameen Salama	17 / 18	
+W	08:00 - 10:50	SCI253
+Lecture	7		18 / 18	
+R	11:00 - 13:50	SCI253
+Lecture	8	Khalid Fathi Abdalrazzaq Eid	9 / 18	
+W	11:00 - 13:50	SCI253
+Lecture	9	Isma'El Mohummad Daoud Badran	18 / 18	
+S	14:00 - 16:50	SCI253
+Lecture	10	Khalid Fathi Abdalrazzaq Eid	14 / 18	
+R	14:00 - 16:50	SCI253
+Lecture	11	Shayma' Moustafa Ameen Salama	18 / 18	
+S	08:00 - 10:50	SCI253
+Lecture	12	Isma'El Mohummad Daoud Badran	4 / 18	
+S	11:00 - 13:50	SCI253
+Lecture	13	Isma'El Mohummad Daoud Badran	6 / 18	
+W	14:00 - 16:50	SCI253
+Lecture	14	Shayma' Moustafa Ameen Salama	17 / 18	
+T	08:00 - 10:50	SCI253
+PHYS132	الفيزياء العامة 2	GENERAL PHYSICS 2	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Khalid Fathi Abdalrazzaq Eid	74 / 160	
+T, R	11:00 - 11:50	Bamieh002
+Discussion	1		6 / 45	
+S	14:00 - 14:50	SCI215
+Discussion	2		16 / 45	
+W	14:00 - 14:50	SCI114
+Discussion	3		29 / 45	
+S	13:00 - 13:50	SCI116
+Discussion	4		23 / 45	
+S	09:00 - 09:50	SCI021
+PHYS1331	الفيزياء العامة للصيدلة	GENERAL PHYSICS FOR PHARMACY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Zafer M. A. Hawash	19 / 45	
+T, R	09:30 - 10:50	PNH105
+PHYS141	الفيزياء العامة 1	GENERAL PHYSICS 1	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Shayma' Moustafa Ameen Salama	123 / 120	
+T, R	14:00 - 15:20	A.Shaheen102
+Lecture	2	Isma'El Mohummad Daoud Badran	119 / 120	
+T, R	09:30 - 10:50	Sh.Shaheen105
+Lecture	3	Fatimah Hasan Ahmed Shamasneh	117 / 120	
+T, R	12:30 - 13:50	SCI240
+Lecture	4		93 / 120	
+T, R	11:00 - 12:20	Sh.Shaheen205
+Lecture	5		92 / 120	
+T, R	09:30 - 10:50	Masri109
+Lecture	6	Zafer M. A. Hawash	118 / 120	
+T, R	11:00 - 12:20	Masri109
+Lecture	7		91 / 120	
+T, R	14:00 - 15:20	Aggad421
+Discussion	1		44 / 45	
+M	09:00 - 09:50	S.Abdulhadi380
+Discussion	2	Fatimah Hasan Ahmed Shamasneh	45 / 45	
+S	11:00 - 11:50	SCI213
+Discussion	3		34 / 45	
+W	09:00 - 09:50	SCI215
+Discussion	4		45 / 45	
+M	13:00 - 13:50	SCI114
+Discussion	5	Isma'El Mohummad Daoud Badran	35 / 45	
+W	09:00 - 09:50	SCI213
+Discussion	6		39 / 45	
+M	14:00 - 14:50	SCI215
+Discussion	7	Isma'El Mohummad Daoud Badran	45 / 45	
+W	11:00 - 11:50	SCI113
+Discussion	8	Zafer M. A. Hawash	44 / 45	
+S	12:00 - 12:50	SCI114
+Discussion	9		45 / 45	
+M	12:00 - 12:50	SCI214
+Discussion	10		10 / 45	
+M	10:00 - 10:50	SCI216
+Discussion	11	Zafer M. A. Hawash	38 / 45	
+S	14:00 - 14:50	SCI113
+Discussion	12		45 / 45	
+M	08:00 - 08:50	SCI213
+Discussion	13		43 / 45	
+S	08:00 - 08:50	SCI113
+Discussion	14		32 / 45	
+S	09:00 - 09:50	SCI215
+Discussion	15	Zafer M. A. Hawash	20 / 45	
+M	12:00 - 12:50	SCI216
+Discussion	16		38 / 45	
+M	09:00 - 09:50	SCI215
+Discussion	17		19 / 45	
+S	08:00 - 08:50	SCI214
+Discussion	18	Isma'El Mohummad Daoud Badran	44 / 45	
+W	12:00 - 12:50	SCI214
+Discussion	19	Shayma' Moustafa Ameen Salama	45 / 45	
+W	12:00 - 12:50	SCI116
+Discussion	20		43 / 45	
+W	09:00 - 09:50	S.Abdulhadi380
+PHYS211	مختبر الفيزياء العامة 3	GENERAL PHYSICS LAB 3	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Fatimah Hasan Ahmed Shamasneh	12 / 20	
+W	14:00 - 16:50	SCI007
+PHYS2201	مبادىء علم الحركة	PRINCIPLES OF BIOMECHANICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		4 / 45	
+M, W	15:00 - 15:50	SCI113
+Lecture	2		45 / 45	
+M, W	14:00 - 14:50	SCI113
+PHYS231	الفيزياء العامة 3	GENERAL PHYSICS 3	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Shayma' Moustafa Ameen Salama	15 / 45	
+T, R	12:30 - 13:50	SCI113
+PHYS233	الفيزياء الفلكية	ASTRONOMY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Wafaa Khaled Yehya Khater	7 / 45	
+S, M, W	08:00 - 08:50	SCI212
+PHYS330	أساليب الفيزياء الرياضية	METHODS OF METHEMATICAL PHYSICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Zafer M. A. Hawash	17 / 45	
+S, M, W	09:00 - 09:50	SCI112
+PHYS332	النظرية الكهرومغناطيسية 2	ELECTROMAGNETIC THEORY 2	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Abdallah Salahedin Saleh Sayyed Ahmad	15 / 45	
+S, M, W	12:00 - 12:50	SCI213
+PHYS333	الميكانيكا 1	MECHANICS 1	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Isma'El Mohummad Daoud Badran	19 / 45	
+T, R	12:30 - 13:50	SCI112
+PHYS335	البصريات	OPTICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		15 / 45	
+S, M, W	14:00 - 14:50	SCI112
+PHYS336	الدوائر التناظرية	ANALOG ELECTRONICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Khalid Fathi Abdalrazzaq Eid	14 / 54	
+R	08:00 - 09:50	SCI112
+Lab	1	Khalid Fathi Abdalrazzaq Eid	14 / 18	
+T	08:00 - 10:50	SCI007
+PHYS411	ندوة في الفيزياء	SEMINAR IN PHYSICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Abdallah Salahedin Saleh Sayyed Ahmad	1 / 10	
+M	17:00 - 17:50	S.Abdulhadi372
+PHYS431	الفيزياء الحرارية والميكانيكا الاحصائية	THERMAL AND STATISTICAL PHYSICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		12 / 45	
+T, R	14:00 - 15:20	SCI212
+PHYS433	الميكانيكا الكمية 1	QUANTUM MECHANICS 1	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Wael Ishaq Hasan Karain	15 / 45	
+S, M, W	10:00 - 10:50	SCI112
+© 2002 - 2023 جامعة بيرزيت . جميع الحقوق محفوظة
+بريد إلكتروني عناوين البريد الإلكتروني للتواصل مع الجامعة هاتف +970-2-2982000    عيادة الجامعة العيادة: الأرضي 022982151   الخلوي 0592982001    حرس الجامعة الحرس: الأرضي 022982919   الخلوي 0599281200

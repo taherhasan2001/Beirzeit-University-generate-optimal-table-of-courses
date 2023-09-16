@@ -1,0 +1,353 @@
+[
+    {
+        "name of course": "MATH1321",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "155 / 160",
+        "days": "S, W",
+        "time": "12:00 - 12:50",
+        "place": "SCI120"
+    },
+    {
+        "name of course": "MATH1351",
+        "sec": 1,
+        "name of instructor": "Abdelrahim S. A. Mousa",
+        "number of students": "168 / 160",
+        "days": "T, R",
+        "time": "09:00 - 09:50",
+        "place": "SCI240"
+    },
+    {
+        "name of course": "MATH1351",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "138 / 160",
+        "days": "T, R",
+        "time": "11:00 - 11:50",
+        "place": "SCI120"
+    },
+    {
+        "name of course": "MATH1351",
+        "sec": 3,
+        "name of instructor": "",
+        "number of students": "160 / 160",
+        "days": "T, R",
+        "time": "12:00 - 12:50",
+        "place": "SCI120"
+    },
+    {
+        "name of course": "MATH1351",
+        "sec": 4,
+        "name of instructor": "",
+        "number of students": "143 / 160",
+        "days": "T, R",
+        "time": "10:00 - 10:50",
+        "place": "SCI120"
+    },
+    {
+        "name of course": "MATH1351",
+        "sec": 5,
+        "name of instructor": "",
+        "number of students": "147 / 160",
+        "days": "T, R",
+        "time": "14:00 - 14:50",
+        "place": "SCI120"
+    },
+    {
+        "name of course": "MATH1411",
+        "sec": 1,
+        "name of instructor": "Khaled Radwan Ali Altakhman",
+        "number of students": "137 / 120",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "SCI120"
+    },
+    {
+        "name of course": "MATH1411",
+        "sec": 2,
+        "name of instructor": "Alaeddin Elayyan Alaeddin Elayyan",
+        "number of students": "131 / 120",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Sh.Shaheen105"
+    },
+    {
+        "name of course": "MATH1411",
+        "sec": 3,
+        "name of instructor": "",
+        "number of students": "125 / 120",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Sh.Shaheen105"
+    },
+    {
+        "name of course": "MATH1411",
+        "sec": 4,
+        "name of instructor": "Muna Khaled Khaleel Abu Alhalawa",
+        "number of students": "134 / 120",
+        "days": "M, W",
+        "time": "14:00 - 15:20",
+        "place": "SCI120"
+    },
+    {
+        "name of course": "MATH1411",
+        "sec": 5,
+        "name of instructor": "Abdelrahim S. A. Mousa",
+        "number of students": "137 / 120",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "A.Shaheen150"
+    },
+    {
+        "name of course": "MATH1411",
+        "sec": 6,
+        "name of instructor": "Marwan M. S. Aloqeili",
+        "number of students": "130 / 120",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "SCI120"
+    },
+    {
+        "name of course": "MATH1411",
+        "sec": 7,
+        "name of instructor": "",
+        "number of students": "124 / 120",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "SCI240"
+    },
+    {
+        "name of course": "MATH1431",
+        "sec": 1,
+        "name of instructor": "Marwan M. S. Aloqeili",
+        "number of students": "111 / 120",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "SCI120"
+    },
+    {
+        "name of course": "MATH2311",
+        "sec": 1,
+        "name of instructor": "Reema Abdelfatah Mustafa Sbeih",
+        "number of students": "42 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "SCI115"
+    },
+    {
+        "name of course": "MATH2311",
+        "sec": 2,
+        "name of instructor": "Reema Abdelfatah Mustafa Sbeih",
+        "number of students": "45 / 45",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "SCI116"
+    },
+    {
+        "name of course": "MATH234",
+        "sec": 1,
+        "name of instructor": "Mohammad Ali Deib Saleh",
+        "number of students": "46 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "SCI115"
+    },
+    {
+        "name of course": "MATH234",
+        "sec": 2,
+        "name of instructor": "Ala Ata Abdelhady Talahmeh",
+        "number of students": "46 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "SCI116"
+    },
+    {
+        "name of course": "MATH234",
+        "sec": 3,
+        "name of instructor": "Ahmad Yousef Rateb Al-Dweik",
+        "number of students": "46 / 45",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "SCI116"
+    },
+    {
+        "name of course": "MATH234",
+        "sec": 4,
+        "name of instructor": "",
+        "number of students": "46 / 45",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "SCI116"
+    },
+    {
+        "name of course": "MATH234",
+        "sec": 5,
+        "name of instructor": "Ahmad Yousef Rateb Al-Dweik",
+        "number of students": "45 / 45",
+        "days": "M, W",
+        "time": "14:00 - 15:20",
+        "place": "SCI116"
+    },
+    {
+        "name of course": "MATH234",
+        "sec": 6,
+        "name of instructor": "Reema Abdelfatah Mustafa Sbeih",
+        "number of students": "44 / 45",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "SCI113"
+    },
+    {
+        "name of course": "MATH2351",
+        "sec": 1,
+        "name of instructor": "Mohammad Yousef Hejaze Madiah",
+        "number of students": "123 / 120",
+        "days": "T, R",
+        "time": "13:00 - 13:50",
+        "place": "SCI120"
+    },
+    {
+        "name of course": "MATH2351",
+        "sec": 2,
+        "name of instructor": "Muna Khaled Khaleel Abu Alhalawa",
+        "number of students": "88 / 120",
+        "days": "T, R",
+        "time": "09:00 - 09:50",
+        "place": "SCI120"
+    },
+    {
+        "name of course": "MATH243",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "17 / 45",
+        "days": "T, R",
+        "time": "10:00 - 11:50",
+        "place": "SCI214"
+    },
+    {
+        "name of course": "MATH330",
+        "sec": 1,
+        "name of instructor": "Abdelrahim S. A. Mousa",
+        "number of students": "45 / 45",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "SCI116"
+    },
+    {
+        "name of course": "MATH330",
+        "sec": 2,
+        "name of instructor": "Abdelrahim S. A. Mousa",
+        "number of students": "38 / 45",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "SCI012"
+    },
+    {
+        "name of course": "MATH330",
+        "sec": 3,
+        "name of instructor": "Muna Khaled Khaleel Abu Alhalawa",
+        "number of students": "17 / 45",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "SCI115"
+    },
+    {
+        "name of course": "MATH331",
+        "sec": 1,
+        "name of instructor": "Marwan M. S. Aloqeili",
+        "number of students": "45 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "SCI113"
+    },
+    {
+        "name of course": "MATH331",
+        "sec": 2,
+        "name of instructor": "Ala Ata Abdelhady Talahmeh",
+        "number of students": "45 / 45",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "SCI114"
+    },
+    {
+        "name of course": "MATH331",
+        "sec": 3,
+        "name of instructor": "Marwan M. S. Aloqeili",
+        "number of students": "45 / 45",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "SCI216"
+    },
+    {
+        "name of course": "MATH331",
+        "sec": 4,
+        "name of instructor": "Ahmad Yousef Rateb Al-Dweik",
+        "number of students": "44 / 45",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "SCI216"
+    },
+    {
+        "name of course": "MATH331",
+        "sec": 5,
+        "name of instructor": "Alaeddin Elayyan Alaeddin Elayyan",
+        "number of students": "35 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "SCI215"
+    },
+    {
+        "name of course": "MATH331",
+        "sec": 6,
+        "name of instructor": "Ala Ata Abdelhady Talahmeh",
+        "number of students": "45 / 45",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "SCI214"
+    },
+    {
+        "name of course": "MATH332",
+        "sec": 1,
+        "name of instructor": "Alaeddin Elayyan Alaeddin Elayyan",
+        "number of students": "14 / 45",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "SCI214"
+    },
+    {
+        "name of course": "MATH3331",
+        "sec": 1,
+        "name of instructor": "Ala Ata Abdelhady Talahmeh",
+        "number of students": "31 / 45",
+        "days": "S, M, W",
+        "time": "08:00 - 08:50",
+        "place": "SCI116"
+    },
+    {
+        "name of course": "MATH337",
+        "sec": 1,
+        "name of instructor": "Mohammad Ali Deib Saleh",
+        "number of students": "24 / 45",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "SCI215"
+    },
+    {
+        "name of course": "MATH411",
+        "sec": 1,
+        "name of instructor": "Reema Abdelfatah Mustafa Sbeih",
+        "number of students": "4 / 10",
+        "days": "T",
+        "time": "10:00 - 10:50",
+        "place": "N.Shaheen204"
+    },
+    {
+        "name of course": "MATH432",
+        "sec": 1,
+        "name of instructor": "Mohammad Ali Deib Saleh",
+        "number of students": "7 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "SCI215"
+    }
+]

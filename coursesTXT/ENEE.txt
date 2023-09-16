@@ -1,0 +1,196 @@
+ البوابة الأكاديمية والإدارية لجامعة بيرزيت
+اشعارات
+ 
+اعلانات
+ 
+رسائل
+ 
+حسابي
+ابدأ بالكتابة للبحث في القوائم
+عربي
+First Semester 2023/2024
+Bachelor Program of Electrical Engineering - برنامج بكالوريوس الهندسة الكهربائية
+Bachelor Level Courses of Electrical Engineering
+Choose Semester: 
+First Semester 2023/2024
+Study Language: 
+--- All languages ---
+ENEE2101	مختبر أساسيات الدوائر الكهربائية	BASIC ELECTRICAL ENGINEERING LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Jaser Abdel Mon'En Fayiz Sa'Ed	18 / 18	
+W	14:00 - 16:50	Masri206
+ENEE2103	مختبر الدوائر والإلكترونيات	CIRCUITS AND ELECTRONICS LABORATORY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		19 / 18	
+S	14:00 - 16:50	Masri203
+Lecture	2	Jaser Abdel Mon'En Fayiz Sa'Ed	19 / 18	
+T	08:00 - 10:50	Masri203
+Lecture	3	Muhammad Sharif Mustafa Abu-Khaizaran	17 / 18	
+W	11:00 - 13:50	Masri203
+Lecture	4		18 / 18	
+R	14:00 - 16:50	Masri203
+ENEE2304	تحليل الدوائر الكهربائية	CIRCUIT ANALYSIS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mahran S. R. Quraan	45 / 45	
+T, R	12:30 - 13:50	Masri110
+Lecture	2	Mahran S. R. Quraan	22 / 45	
+S, M, W	12:00 - 12:50	Masri110
+ENEE2307	الاحتمالات والإحصاء الهندسي	PROBABILITY AND ENGINEERING STATISTICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		47 / 45	
+S, M, W	09:00 - 09:50	Masri302
+Lecture	2	Mohammad Khaleel Issa Jubran	51 / 45	
+T, R	09:30 - 10:50	Masri404
+Lecture	3	Mohammad Khaleel Issa Jubran	47 / 45	
+T, R	08:00 - 09:20	Masri406
+Lecture	4	Jaser Abdel Mon'En Fayiz Sa'Ed	47 / 45	
+S, M, W	13:00 - 13:50	Masri202
+Lecture	5	Jaser Abdel Mon'En Fayiz Sa'Ed	51 / 45	
+S, M, W	11:00 - 11:50	Masri302
+ENEE2311	الدوائر الكهربائية 1	NETWORK ANALYSIS 1	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Nasser Abdel Jaleel Muhammad Ismail	41 / 45	
+S, M, W	13:00 - 13:50	Masri404
+Lecture	2	Ali Hasan Moath Abdo	34 / 45	
+S, M, W	10:00 - 10:50	Masri304
+ENEE2312	الإشارات والأنظمة	SIGNALS AND SYSTEMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Jamal Othman Hosen Seyam	28 / 45	
+S, M, W	08:00 - 08:50	Masri202
+Lecture	2	Jamal Othman Hosen Seyam	45 / 45	
+T, R	11:00 - 12:20	Masri302
+ENEE2360	الإلكترونيات التمثيلية	ANALOG ELECTRONICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		45 / 45	
+S, M, W	12:00 - 12:50	Masri304
+Lecture	2	Nasser Abdel Jaleel Muhammad Ismail	44 / 45	
+S, M, W	09:00 - 09:50	Masri108
+Lecture	3	Nasser Abdel Jaleel Muhammad Ismail	46 / 45	
+S, M, W	11:00 - 11:50	Masri109
+Lecture	4		11 / 45	
+S, M, W	09:00 - 09:50	Masri202
+ENEE2408	الآلات الكهربائية	ELECTRICAL MACHINES	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Muhammad Sharif Mustafa Abu-Khaizaran	27 / 45	
+M, W	08:00 - 09:50	Masri204
+ENEE3101	مختبر الآلات الكهربائية	ELECTRICAL MACHINES LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ali Hasan Moath Abdo	13 / 15	
+M	14:00 - 16:50	Aggad345
+Lecture	2	Mahran S. R. Quraan	5 / 15	
+W	14:00 - 16:50	Aggad345
+ENEE3103	(مختبر الإلكترونيات التمثيلية (لطلبة هندسة الميكاترونكس	ANALOG ELECTRONICS LAB (FOR MECHATRONIC STUDENTS)	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Nasser Abdel Jaleel Muhammad Ismail	20 / 18	
+M	14:00 - 16:50	Masri203
+ENEE3112	مختبر الإلكترونيات	ELECTRONICS LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Nasser Abdel Jaleel Muhammad Ismail	14 / 15	
+W	14:00 - 16:50	Masri203
+Lecture	2	Nasser Abdel Jaleel Muhammad Ismail	14 / 15	
+T	11:00 - 13:50	Masri203
+ENEE3302	أنظمة التحكم	CONTROL SYSTEMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Hakam Suleiman Nu'Man Shehadeh	13 / 45	
+S, M, W	10:00 - 10:50	ALSADIK103
+ENEE3304	الإلكترونيات 2	ELECTRONICS 2	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		33 / 45	
+S, M, W	11:00 - 11:50	Masri404
+ENEE3305	إلكترونيات القوى	POWER ELECTRONICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Muhammad Sharif Mustafa Abu-Khaizaran	19 / 45	
+T, R	12:30 - 13:50	Masri108
+ENEE3307	هندسة اضاءة وصوت	LIGHTING AND ACOUSTICS ENGINEERING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Hakam Suleiman Nu'Man Shehadeh	47 / 45	
+S, M, W	13:00 - 13:50	Masri204
+Lecture	2	Hussein Awadallah Ibrahim Zeitawi	42 / 45	
+S	14:00 - 16:50	Masri406
+ENEE3308	مبادئ وتطبيقات كهرو ميكانيكية	ELECTROMECHANICAL PRINCIPLES AND APPLICATIONS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Hakam Suleiman Nu'Man Shehadeh	41 / 45	
+S, M, W	12:00 - 12:50	Masri106
+ENEE3309	أنظمة الاتصالات	COMMUNICATION SYSTEMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ashraf Sulieman Awad Al-Rimawi	47 / 45	
+S, M, W	13:00 - 13:50	Masri108
+Lecture	2		41 / 45	
+T, R	08:00 - 09:20	Bamieh105
+Lecture	3	Ashraf Sulieman Awad Al-Rimawi	46 / 45	
+S, M, W	10:00 - 10:50	Masri109
+Lecture	4	Qadri A. A. Mayyala	45 / 45	
+S, M, W	13:00 - 13:50	Masri110
+ENEE3318	الكهرومغناطيسية	ELECTROMAGNETICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ashraf Sulieman Awad Al-Rimawi	20 / 45	
+S, M	14:00 - 15:20	Masri202
+ENEE4102	مختبر أساسيات الآلات الكهربائية	FUNDAMENTALS OF ELECTRICAL MACHINES LAB.	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mahran S. R. Quraan	4 / 15	
+T	11:00 - 13:50	Aggad345
+Lecture	2	Ali Hasan Moath Abdo	16 / 15	
+S	14:00 - 16:50	Aggad345
+ENEE4104	مختبر محاكاة هندسية	ENGINEERING SIMULATION LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Jamal Othman Hosen Seyam	13 / 20	
+R	14:00 - 16:50	Masri303
+ENEE4113	مختبر الاتصالات	COMMUNICATIONS LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ashraf Sulieman Awad Al-Rimawi	15 / 15	
+R	14:00 - 16:50	Aggad341
+Lecture	2		8 / 15	
+M	11:00 - 13:50	Aggad341
+Lecture	3	Qadri A. A. Mayyala	10 / 15	
+M	14:00 - 16:50	Aggad341
+Lecture	4	Qadri A. A. Mayyala	13 / 15	
+T	11:00 - 13:50	Aggad341
+Lecture	5		12 / 15	
+S	11:00 - 13:50	Aggad341
+Lecture	6	Ashraf Sulieman Awad Al-Rimawi	7 / 15	
+W	14:00 - 16:50	Aggad341
+ENEE4202	التركيبات والمخططات الكهربائية	ELECTRICAL INSTALLATION AND DRAWING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Muhammad Sharif Mustafa Abu-Khaizaran	19 / 45	
+M	10:00 - 10:50	Bamieh204
+Lab	1	Muhammad Sharif Mustafa Abu-Khaizaran	15 / 15	
+R	08:00 - 10:50	Masri303
+Lab	2		4 / 15	
+T	08:00 - 10:50	Masri303
+ENEE4302	أنظمة التحكم 1	CONTROL SYSTEMS 1	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Jamal Othman Hosen Seyam	46 / 45	
+T, R	08:00 - 09:20	Masri404
+ENEE4303	أساسيات الآلات الكهربائية	ELECTRICAL MACHINES FUNDAMENTALS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ali Hasan Moath Abdo	37 / 45	
+S, M, W	12:00 - 12:50	Masri406
+ENEE4403	أنظمة القوى الكهربائية	POWER SYSTEMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Jaser Abdel Mon'En Fayiz Sa'Ed	46 / 45	
+M, W
+S	09:30 - 10:50
+10:00 - 10:50	Masri404
+Masri404
+ENEE5102	مختبر القوى	POWER LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Hakam Suleiman Nu'Man Shehadeh	9 / 15	
+M	14:00 - 16:50	Aggad331/2
+ENEE5200	مقدمة مشروع في الهندسة الكهربائية	INTRODUCTION TO GRADUATION PROJECT	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		17 / 50	
+N/A	N/A	N/A
+ENEE5300	مشروع في الهندسة الكهربائية	GRADUATION PROJECT	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		8 / 20	
+N/A	N/A	N/A
+ENEE5303	إدارة الآلات الكهربائية وأنواع خاصة من الآلات الكهربائية	ELECTRICAL MACHINE DRIVES AND SPECIAL MACHINES	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mahran S. R. Quraan	29 / 45	
+T, R	14:00 - 15:20	Masri204
+ENEE5304	نظرية المعلومات والترميز	INFORMATION AND CODING THEORY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		52 / 45	
+T, R	08:00 - 09:20	Bamieh002
+© 2002 - 2023 جامعة بيرزيت . جميع الحقوق محفوظة
+بريد إلكتروني عناوين البريد الإلكتروني للتواصل مع الجامعة هاتف +970-2-2982000    عيادة الجامعة العيادة: الأرضي 022982151   الخلوي 0592982001    حرس الجامعة الحرس: الأرضي 022982919   الخلوي 0599281200

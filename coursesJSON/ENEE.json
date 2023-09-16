@@ -1,0 +1,497 @@
+[
+    {
+        "name of course": "ENEE2101",
+        "sec": 1,
+        "name of instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+        "number of students": "18 / 18",
+        "days": "W",
+        "time": "14:00 - 16:50",
+        "place": "Masri206"
+    },
+    {
+        "name of course": "ENEE2103",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "19 / 18",
+        "days": "S",
+        "time": "14:00 - 16:50",
+        "place": "Masri203"
+    },
+    {
+        "name of course": "ENEE2103",
+        "sec": 2,
+        "name of instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+        "number of students": "19 / 18",
+        "days": "T",
+        "time": "08:00 - 10:50",
+        "place": "Masri203"
+    },
+    {
+        "name of course": "ENEE2103",
+        "sec": 3,
+        "name of instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+        "number of students": "17 / 18",
+        "days": "W",
+        "time": "11:00 - 13:50",
+        "place": "Masri203"
+    },
+    {
+        "name of course": "ENEE2103",
+        "sec": 4,
+        "name of instructor": "",
+        "number of students": "18 / 18",
+        "days": "R",
+        "time": "14:00 - 16:50",
+        "place": "Masri203"
+    },
+    {
+        "name of course": "ENEE2304",
+        "sec": 1,
+        "name of instructor": "Mahran S. R. Quraan",
+        "number of students": "45 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Masri110"
+    },
+    {
+        "name of course": "ENEE2304",
+        "sec": 2,
+        "name of instructor": "Mahran S. R. Quraan",
+        "number of students": "22 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Masri110"
+    },
+    {
+        "name of course": "ENEE2307",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "47 / 45",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "Masri302"
+    },
+    {
+        "name of course": "ENEE2307",
+        "sec": 2,
+        "name of instructor": "Mohammad Khaleel Issa Jubran",
+        "number of students": "51 / 45",
+        "days": "T, R",
+        "time": "09:30 - 10:50",
+        "place": "Masri404"
+    },
+    {
+        "name of course": "ENEE2307",
+        "sec": 3,
+        "name of instructor": "Mohammad Khaleel Issa Jubran",
+        "number of students": "47 / 45",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "Masri406"
+    },
+    {
+        "name of course": "ENEE2307",
+        "sec": 4,
+        "name of instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+        "number of students": "47 / 45",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Masri202"
+    },
+    {
+        "name of course": "ENEE2307",
+        "sec": 5,
+        "name of instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+        "number of students": "51 / 45",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Masri302"
+    },
+    {
+        "name of course": "ENEE2311",
+        "sec": 1,
+        "name of instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+        "number of students": "41 / 45",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Masri404"
+    },
+    {
+        "name of course": "ENEE2311",
+        "sec": 2,
+        "name of instructor": "Ali Hasan Moath Abdo",
+        "number of students": "34 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "Masri304"
+    },
+    {
+        "name of course": "ENEE2312",
+        "sec": 1,
+        "name of instructor": "Jamal Othman Hosen Seyam",
+        "number of students": "28 / 45",
+        "days": "S, M, W",
+        "time": "08:00 - 08:50",
+        "place": "Masri202"
+    },
+    {
+        "name of course": "ENEE2312",
+        "sec": 2,
+        "name of instructor": "Jamal Othman Hosen Seyam",
+        "number of students": "45 / 45",
+        "days": "T, R",
+        "time": "11:00 - 12:20",
+        "place": "Masri302"
+    },
+    {
+        "name of course": "ENEE2360",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "45 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Masri304"
+    },
+    {
+        "name of course": "ENEE2360",
+        "sec": 2,
+        "name of instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+        "number of students": "44 / 45",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "Masri108"
+    },
+    {
+        "name of course": "ENEE2360",
+        "sec": 3,
+        "name of instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+        "number of students": "46 / 45",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Masri109"
+    },
+    {
+        "name of course": "ENEE2360",
+        "sec": 4,
+        "name of instructor": "",
+        "number of students": "11 / 45",
+        "days": "S, M, W",
+        "time": "09:00 - 09:50",
+        "place": "Masri202"
+    },
+    {
+        "name of course": "ENEE2408",
+        "sec": 1,
+        "name of instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+        "number of students": "27 / 45",
+        "days": "M, W",
+        "time": "08:00 - 09:50",
+        "place": "Masri204"
+    },
+    {
+        "name of course": "ENEE3101",
+        "sec": 1,
+        "name of instructor": "Ali Hasan Moath Abdo",
+        "number of students": "13 / 15",
+        "days": "M",
+        "time": "14:00 - 16:50",
+        "place": "Aggad345"
+    },
+    {
+        "name of course": "ENEE3101",
+        "sec": 2,
+        "name of instructor": "Mahran S. R. Quraan",
+        "number of students": "5 / 15",
+        "days": "W",
+        "time": "14:00 - 16:50",
+        "place": "Aggad345"
+    },
+    {
+        "name of course": "ENEE3103",
+        "sec": 1,
+        "name of instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+        "number of students": "20 / 18",
+        "days": "M",
+        "time": "14:00 - 16:50",
+        "place": "Masri203"
+    },
+    {
+        "name of course": "ENEE3112",
+        "sec": 1,
+        "name of instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+        "number of students": "14 / 15",
+        "days": "W",
+        "time": "14:00 - 16:50",
+        "place": "Masri203"
+    },
+    {
+        "name of course": "ENEE3112",
+        "sec": 2,
+        "name of instructor": "Nasser Abdel Jaleel Muhammad Ismail",
+        "number of students": "14 / 15",
+        "days": "T",
+        "time": "11:00 - 13:50",
+        "place": "Masri203"
+    },
+    {
+        "name of course": "ENEE3302",
+        "sec": 1,
+        "name of instructor": "Hakam Suleiman Nu'Man Shehadeh",
+        "number of students": "13 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "ALSADIK103"
+    },
+    {
+        "name of course": "ENEE3304",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "33 / 45",
+        "days": "S, M, W",
+        "time": "11:00 - 11:50",
+        "place": "Masri404"
+    },
+    {
+        "name of course": "ENEE3305",
+        "sec": 1,
+        "name of instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+        "number of students": "19 / 45",
+        "days": "T, R",
+        "time": "12:30 - 13:50",
+        "place": "Masri108"
+    },
+    {
+        "name of course": "ENEE3307",
+        "sec": 1,
+        "name of instructor": "Hakam Suleiman Nu'Man Shehadeh",
+        "number of students": "47 / 45",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Masri204"
+    },
+    {
+        "name of course": "ENEE3307",
+        "sec": 2,
+        "name of instructor": "Hussein Awadallah Ibrahim Zeitawi",
+        "number of students": "42 / 45",
+        "days": "S",
+        "time": "14:00 - 16:50",
+        "place": "Masri406"
+    },
+    {
+        "name of course": "ENEE3308",
+        "sec": 1,
+        "name of instructor": "Hakam Suleiman Nu'Man Shehadeh",
+        "number of students": "41 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Masri106"
+    },
+    {
+        "name of course": "ENEE3309",
+        "sec": 1,
+        "name of instructor": "Ashraf Sulieman Awad Al-Rimawi",
+        "number of students": "47 / 45",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Masri108"
+    },
+    {
+        "name of course": "ENEE3309",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "41 / 45",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "Bamieh105"
+    },
+    {
+        "name of course": "ENEE3309",
+        "sec": 3,
+        "name of instructor": "Ashraf Sulieman Awad Al-Rimawi",
+        "number of students": "46 / 45",
+        "days": "S, M, W",
+        "time": "10:00 - 10:50",
+        "place": "Masri109"
+    },
+    {
+        "name of course": "ENEE3309",
+        "sec": 4,
+        "name of instructor": "Qadri A. A. Mayyala",
+        "number of students": "45 / 45",
+        "days": "S, M, W",
+        "time": "13:00 - 13:50",
+        "place": "Masri110"
+    },
+    {
+        "name of course": "ENEE3318",
+        "sec": 1,
+        "name of instructor": "Ashraf Sulieman Awad Al-Rimawi",
+        "number of students": "20 / 45",
+        "days": "S, M",
+        "time": "14:00 - 15:20",
+        "place": "Masri202"
+    },
+    {
+        "name of course": "ENEE4102",
+        "sec": 1,
+        "name of instructor": "Mahran S. R. Quraan",
+        "number of students": "4 / 15",
+        "days": "T",
+        "time": "11:00 - 13:50",
+        "place": "Aggad345"
+    },
+    {
+        "name of course": "ENEE4102",
+        "sec": 2,
+        "name of instructor": "Ali Hasan Moath Abdo",
+        "number of students": "16 / 15",
+        "days": "S",
+        "time": "14:00 - 16:50",
+        "place": "Aggad345"
+    },
+    {
+        "name of course": "ENEE4104",
+        "sec": 1,
+        "name of instructor": "Jamal Othman Hosen Seyam",
+        "number of students": "13 / 20",
+        "days": "R",
+        "time": "14:00 - 16:50",
+        "place": "Masri303"
+    },
+    {
+        "name of course": "ENEE4113",
+        "sec": 1,
+        "name of instructor": "Ashraf Sulieman Awad Al-Rimawi",
+        "number of students": "15 / 15",
+        "days": "R",
+        "time": "14:00 - 16:50",
+        "place": "Aggad341"
+    },
+    {
+        "name of course": "ENEE4113",
+        "sec": 2,
+        "name of instructor": "",
+        "number of students": "8 / 15",
+        "days": "M",
+        "time": "11:00 - 13:50",
+        "place": "Aggad341"
+    },
+    {
+        "name of course": "ENEE4113",
+        "sec": 3,
+        "name of instructor": "Qadri A. A. Mayyala",
+        "number of students": "10 / 15",
+        "days": "M",
+        "time": "14:00 - 16:50",
+        "place": "Aggad341"
+    },
+    {
+        "name of course": "ENEE4113",
+        "sec": 4,
+        "name of instructor": "Qadri A. A. Mayyala",
+        "number of students": "13 / 15",
+        "days": "T",
+        "time": "11:00 - 13:50",
+        "place": "Aggad341"
+    },
+    {
+        "name of course": "ENEE4113",
+        "sec": 5,
+        "name of instructor": "",
+        "number of students": "12 / 15",
+        "days": "S",
+        "time": "11:00 - 13:50",
+        "place": "Aggad341"
+    },
+    {
+        "name of course": "ENEE4113",
+        "sec": 6,
+        "name of instructor": "Ashraf Sulieman Awad Al-Rimawi",
+        "number of students": "7 / 15",
+        "days": "W",
+        "time": "14:00 - 16:50",
+        "place": "Aggad341"
+    },
+    {
+        "name of course": "ENEE4202",
+        "sec": 1,
+        "name of instructor": "Muhammad Sharif Mustafa Abu-Khaizaran",
+        "number of students": "19 / 45",
+        "days": "M",
+        "time": "10:00 - 10:50",
+        "place": "Bamieh204"
+    },
+    {
+        "name of course": "ENEE4302",
+        "sec": 1,
+        "name of instructor": "Jamal Othman Hosen Seyam",
+        "number of students": "46 / 45",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "Masri404"
+    },
+    {
+        "name of course": "ENEE4303",
+        "sec": 1,
+        "name of instructor": "Ali Hasan Moath Abdo",
+        "number of students": "37 / 45",
+        "days": "S, M, W",
+        "time": "12:00 - 12:50",
+        "place": "Masri406"
+    },
+    {
+        "name of course": "ENEE4403",
+        "sec": 1,
+        "name of instructor": "Jaser Abdel Mon'En Fayiz Sa'Ed",
+        "number of students": "46 / 45",
+        "days": "M, W, S",
+        "time": "10:00 - 10:50",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENEE5102",
+        "sec": 1,
+        "name of instructor": "Hakam Suleiman Nu'Man Shehadeh",
+        "number of students": "9 / 15",
+        "days": "M",
+        "time": "14:00 - 16:50",
+        "place": "Aggad331/2"
+    },
+    {
+        "name of course": "ENEE5200",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "17 / 50",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENEE5300",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "8 / 20",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "ENEE5303",
+        "sec": 1,
+        "name of instructor": "Mahran S. R. Quraan",
+        "number of students": "29 / 45",
+        "days": "T, R",
+        "time": "14:00 - 15:20",
+        "place": "Masri204"
+    },
+    {
+        "name of course": "ENEE5304",
+        "sec": 1,
+        "name of instructor": "",
+        "number of students": "52 / 45",
+        "days": "T, R",
+        "time": "08:00 - 09:20",
+        "place": "Bamieh002"
+    }
+]
