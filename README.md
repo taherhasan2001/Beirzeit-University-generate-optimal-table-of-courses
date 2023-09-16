@@ -1,8 +1,9 @@
 ## فكرتي الخاصة (النسخة الأولى)
 ### برنامج صانع الجداول لجامعة بيرزيت متوفر فقط لاجهزة الحاسوب (بايثون) حاليا ... تأملاتي في المستقبل القريب أن يتم تحسين طريقة الكتابة وتوفيره على المتصفح وتصميمه كبرنامج على أجهزة الهاتف
+## my own idea to build (version 1.0)
 ### This program for Birzeit University is currently only available for computers (python). My hopes for the near future include improving it by adding a browser-based (WEB) version and making it accessible on mobile devices as a mobile application.
 
-my own idea to build (version 1.0)
+
 
 ## الهدف
 
