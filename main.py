@@ -26,7 +26,6 @@ class Course:
 
             return False
         if float(self.time_start().replace(":", ".")) >= float(other.time_end().replace(":", ".")):
-            # print(other.time_end())
             return False
         if float(self.time_end().replace(":", ".")) <= float(other.time_start().replace(":", ".")):
             return False
@@ -64,24 +63,23 @@ def search_courses(course_name, preName):  # ex : preName = 'ACCT'
     return found_courses
 
 
-listACCT = search_courses("ACCT230", "ACCT")
-listCOMP = search_courses("COMP233", "COMP")
-listCOMP2 = search_courses("COMP122", "COMP")
-listENCS = search_courses("ENCS4300", "ENCS")
+listACCT = search_courses("ENCS3320", "ENCS")
+listCOMP = search_courses("ENCS3330", "ENCS")
+listCOMP2 = search_courses("ENCS3340", "ENCS")
+listENCS = search_courses("ENCS4370", "ENCS")
+listENCS1 = search_courses("ENCS3130", "ENCS")
+listENCS2 = search_courses("ENCS3310", "ENCS")
+listENCS3 = search_courses("ENCS4110", "ENCS")
 
-courses = [listACCT, listCOMP, listCOMP2]
+courses = [listACCT, listCOMP, listCOMP2, listENCS, listENCS1, listENCS2, listENCS3]
 
 # ------------------ preparing combinations ------------------
-minDays = None
-minStartTime = None
-minEndTime = None
+
 dec = {}
 
 
 def combinations(ArraySec, index=0, current_combination=[]):
-    global minDays
-    global minStartTime
-    global minEndTime
+
     if index == len(ArraySec):
         chosenSections = []
         for sec in range(len(current_combination)):  # making list of chosen sections
@@ -98,14 +96,7 @@ def combinations(ArraySec, index=0, current_combination=[]):
                     numberOfDays.append(day)
             for j in range(i + 1, len(chosenSections)):
                 if chosenSections[i].collision(chosenSections[j]):
-                    # print(f"Collision between: {chosenSections[i]} and {chosenSections[j]}")
                     return
-
-        if minDays == None or len(numberOfDays) < minDays:
-            minDays = len(numberOfDays)
-        if minStartTime == None or float(chosenSections[0].time_start().replace(":", ".")) < float(
-                minStartTime.replace(":", ".")):
-            minStartTime = chosenSections[0].time_start()
         startTime = None
         endTime = None
         for section in chosenSections:
@@ -113,12 +104,11 @@ def combinations(ArraySec, index=0, current_combination=[]):
                 startTime = section.time_start()
             if endTime == None or float(section.time_end().replace(":", ".")) > float(endTime.replace(":", ".")):
                 endTime = section.time_end()
-        if minEndTime == None or float(endTime.replace(":", ".")) < float(minEndTime.replace(":", ".")):
-            minEndTime = endTime
+
 
         chosenSectionsTuple = tuple(chosenSections)
 
-        dec[chosenSectionsTuple] = {"numberOfDays": numberOfDays, "startTime": startTime, "endTime": endTime}
+        dec[chosenSectionsTuple] = {"numberOfDays": numberOfDays, "startTime": startTime, "endTime": endTime , "totalTime": str(float(endTime.replace(":", ".")) - float(startTime.replace(":", ".")))}
         return
 
     max_number = len(ArraySec[index]) - 1
@@ -127,55 +117,17 @@ def combinations(ArraySec, index=0, current_combination=[]):
         combinations(ArraySec, index + 1, current_combination)
         current_combination.pop()
 
-
 combinations(courses)
 
-
-# ------------------ choices to select ------------------
-def reduce_the_days():
-    deleted = []
-    for key in dec:
-        # if s[0] != min:
-        if len(dec[key]['numberOfDays']) != minDays:
-            deleted.append(key)
-        # print("*************")
-    for key in deleted:
-        dec.pop(key)
-
-
-def reduce_the_startTime():
-    deleted = []
-    for key in dec:
-        if dec[key]['startTime'] != minStartTime:
-            deleted.append(key)
-    for key in deleted:
-        dec.pop(key)
-
-
-def reduce_the_endTime():
-    deleted = []
-    for key in dec:
-        if dec[key]['endTime'] != minEndTime:
-            deleted.append(key)
-    for key in deleted:
-        dec.pop(key)
-
-
-def print_dict():
-    for key in dec:
-        for k in key:
-            print(k)
-        print(dec[key])
-        print("*************")
-    print("minDays: ", minDays)
-    print("minStartTime: ", minStartTime)
-    print("minEndTime: ", minEndTime)
-
-DectoUse = dec.copy()
 
 
 
 from interface import *
+#
+# for key in dec:
+#      print(key)
+#      print(dec[key])
+#      print("*****Sent********") #  DectoUse,flagReducedays,flagreduceTime,flagReduceStartTime,flagReduceEndTime
+display(DectoUse=dec,flagReducedays=True,flagreduceTime=True,flagReduceStartTime=True,flagReduceEndTime=True,flagReduceTotalTime=True)
 
-
-display(dec)
+# here we send the dec with all groups of sec that dont has any collision
