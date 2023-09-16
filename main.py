@@ -99,7 +99,7 @@ while True:
             continue
         else:
             courses.append(course)
-            print(course)
+            print(f"we got {len(course)} sections of {courseName}")
 
 # courses = [listACCT, listCOMP, listCOMP2, listENCS, listENCS1, listENCS2, listENCS3]
 
