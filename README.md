@@ -41,6 +41,7 @@ The program faces several challenges, including the inability to extract informa
 ![UI1](dm/7.png)
 سيظهر لنا ملف "ENCS.json" في مجلد "coursesJSON" 
 ![UI1](dm/8.png)
+## طريقة تشغيل برنامج المقارنة
 واخيرا نذهب إلى ملف التشغبل "runme" وبامكاننا ان نضيف أي مادة تبدأ ب"ENCS" (سنكرر نفس الخطواط السابقة لإضافة أي مواد من تخصصات مختلفة مثل MATH ARAB ect
 ![UI1](dm/9.png)
 سنستمر في إضافة المواد وعندما ننتهي نضغط على x 
