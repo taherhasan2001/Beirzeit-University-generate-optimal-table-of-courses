@@ -36,36 +36,39 @@ class Course:
         return True
 
     def __str__(self):
-        return f"{self.course_label}-{self.section}-{self.instructor}-{self.days}-{self.time_start()}-{self.time_end()}"
+        return f"{self.course_label}#{self.section}#{self.instructor}#{self.days}#{self.time_start()}#{self.time_end()}"
 
     def __repr__(self):
-        return f"{self.course_label}-{self.section}-{self.instructor}-{self.days}-{self.time_start()}-{self.time_end()}"
+        return f"{self.course_label}#{self.section}#{self.instructor}#{self.days}#{self.time_start()}#{self.time_end()}"
 
 
 # ------------------ Adding courses ------------------
 def search_courses(course_name, preName):  # ex : preName = 'ACCT'
     found_courses = []
     flagWeGotOne = False
-    with open(f'coursesJSON/{preName}.json', 'r', encoding='utf-8') as file:
-        data = json.load(file)
+    try:
+        with open(f'coursesJSON/{preName}.json', 'r', encoding='utf-8') as file:
+            data = json.load(file)
 
-        for course_data in data:
-            if course_data["name of course"] == course_name:
-                flagWeGotOne = True
-                course = Course(
-                    course_data["name of course"],
-                    course_data["sec"],
-                    course_data["name of instructor"],
-                    course_data["days"].replace(" ", ""),
-                    course_data["time"],
-                    course_data["place"],
-                    course_data["number of students"]
-                )
+            for course_data in data:
+                if course_data["name of course"] == course_name:
+                    flagWeGotOne = True
+                    course = Course(
+                        course_data["name of course"],
+                        course_data["sec"],
+                        course_data["name of instructor"],
+                        course_data["days"].replace(" ", ""),
+                        course_data["time"],
+                        course_data["place"],
+                        course_data["number of students"]
+                    )
 
-                found_courses.append(course)
-            elif flagWeGotOne:
-                break
-    return found_courses
+                    found_courses.append(course)
+                elif flagWeGotOne:
+                    break
+        return found_courses
+    except:
+        return "preName not found"
 
 #
 # listACCT = search_courses("ENCS3320", "ENCS")
@@ -78,15 +81,25 @@ def search_courses(course_name, preName):  # ex : preName = 'ACCT'
 courses =[]
 while True:
     print("Enter the course name example ENCS3320 or press X to go : ")
-    courseName = input()
+    courseName = input().upper()
     if courseName.upper() == "X":
         break
-    preName = courseName[:4]
-    if preName == "end":
-        break
-
-    courses.append(search_courses(courseName, preName))
-    print(courses)
+    elif len(courseName) < 4:
+        continue
+    else:
+        preName = courseName[:4]
+        if preName == "end":
+            break
+        course = search_courses(courseName,preName)
+        if len(course) == 0:
+            print("No course found")
+            continue
+        elif course == "preName not found":
+            print("preName not found")
+            continue
+        else:
+            courses.append(course)
+            print(course)
 
 # courses = [listACCT, listCOMP, listCOMP2, listENCS, listENCS1, listENCS2, listENCS3]
 
@@ -137,35 +150,33 @@ def combinations(ArraySec, index=0, current_combination=[]):
 combinations(courses)
 
 
-from interface import *
-flagReducedays = input("Do you want to reduce the days ? (y/n) : ")
-flagreduceTime = input("Do you want to reduce the time ? (y/n) : ")
-flagReduceStartTime = input("Do you want to reduce the start time ? (y/n) : ")
-flagReduceEndTime = input("Do you want to reduce the end time ? (y/n) : ")
-flagReduceTotalTime = input("Do you want to reduce the total time ? (y/n) : ")
-if flagReducedays.upper() == "Y":
-    flagReducedays = True
-else:
-    flagReducedays = False
-if flagreduceTime.upper() == "Y":
-    flagreduceTime = True
-else:
-    flagreduceTime = False
-if flagReduceStartTime.upper() == "Y":
-    flagReduceStartTime = True
-else:
-    flagReduceStartTime = False
-if flagReduceEndTime.upper() == "Y":
-    flagReduceEndTime = True
-else:
-    flagReduceEndTime = False
-if flagReduceTotalTime.upper() == "Y":
-    flagReduceTotalTime = True
-else:
-    flagReduceTotalTime = False
-print(f"flagReducedays = {flagReducedays} \nflagreduceTime = {flagreduceTime} \nflagReduceStartTime = {flagReduceStartTime} \nflagReduceEndTime = {flagReduceEndTime} \nflagReduceTotalTime = {flagReduceTotalTime}")
-print("------------------------------------------------------------------------------------------------------------------------")
-display(DectoUse=dec,flagReducedays=flagReducedays,flagreduceTime=flagreduceTime,flagReduceStartTime=flagReduceStartTime,flagReduceEndTime=flagReduceEndTime,flagReduceTotalTime=flagReduceTotalTime)
+from GUI.interface import *
 while True:
-    pass
+    input("courses has been saved press Enter to continue : ")
+    flagReducedays = input("Do you want to reduce the days ? (y/n) : ")
+    flagreduceTime = input("Do you want to reduce shift between lectures  ? (y/n) : ")
+    flagReduceStartTime = input("Do you want to reduce the start time ? (y/n) : ")
+    flagReduceEndTime = input("Do you want to reduce the end time ? (y/n) : ")
+    if flagReducedays.upper() == "Y":
+        flagReducedays = True
+    else:
+        flagReducedays = False
+    if flagreduceTime.upper() == "Y":
+        flagreduceTime = True
+    else:
+        flagreduceTime = False
+    if flagReduceStartTime.upper() == "Y":
+        flagReduceStartTime = True
+    else:
+        flagReduceStartTime = False
+    if flagReduceEndTime.upper() == "Y":
+        flagReduceEndTime = True
+    else:
+        flagReduceEndTime = False
+
+    print(f"flagReducedays = {flagReducedays} \nflagreduceTime = {flagreduceTime} \nflagReduceStartTime = {flagReduceStartTime} \nflagReduceEndTime = {flagReduceEndTime} ")
+    print("------------------------------------------------------------------------------------------------------------------------")
+    display(DectoUse=dec,flagReducedays=flagReducedays,flagreduceTime=flagreduceTime,flagReduceStartTime=flagReduceStartTime,flagReduceEndTime=flagReduceEndTime)
+
+
 # here we send the dec with all groups of sec that dont has any collision
