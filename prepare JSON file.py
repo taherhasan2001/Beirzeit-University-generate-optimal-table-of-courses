@@ -1,11 +1,12 @@
 import json
-preName = 'ACCT'
+preName = input("Enter the preName of the course example ENCS : ").upper()
 # Initialize variables to store section data
 sections = []
 current_section = {}
 jumpToNextLine = False
 # Open the input file for reading
-with open(f'{preName}.txt', 'r', encoding='utf-8') as file:
+flagError = False
+with open(f'coursesTXT/{preName}.txt', 'r', encoding='utf-8') as file:
     lines = file.readlines()
     read_course_name = False
 
@@ -16,6 +17,12 @@ with open(f'{preName}.txt', 'r', encoding='utf-8') as file:
             continue
         print(line)
         # Check if the line contains a course name
+        if flagError and line.split('\t')[0].isalpha():
+            sections[len(sections) - 1]['days']+=', ' + line.split('\t')[0]
+        elif flagError and line.split('\t')[0][0].isnumeric():
+            sections[len(sections)-1]['time']= line.split('\t')[0]
+            sections[len(sections) -1]['place']="N/A"
+            flagError = False
         if line.startswith(preName):
             current_section['name of course'] = line.split()[0]
             print(current_section['name of course'])
@@ -41,14 +48,20 @@ with open(f'{preName}.txt', 'r', encoding='utf-8') as file:
         # Check if the line contains days, time, and place
         if jumpToNextLine:
             current_section['days'] = line.split('\t')[0]
-            current_section['time'] = line.split('\t')[1]
-            current_section['place'] = line.split('\t')[2]
-            sections.append(current_section.copy())
-            print(sections)
+            try:
+                current_section['time'] = line.split('\t')[1]
+            except :
+                flagError = True
+                sections.append(current_section.copy())
+            if not flagError:
+                current_section['place'] = line.split('\t')[2]
+                sections.append(current_section.copy())
+                print(sections)
             jumpToNextLine = False
 
 # Save the sections data as a JSON file
-with open(f'{preName}.json', 'w', encoding='utf-8') as json_file:
+with open(f'coursesJSON/{preName}.json', 'w', encoding='utf-8') as json_file:
     json.dump(sections, json_file, ensure_ascii=False, indent=4)
 
-print("Data has been extracted and saved to 'sections.json'.")
+print(f"Data has been extracted and saved to '{preName}.json'.")
+input("Press Enter to continue...")
