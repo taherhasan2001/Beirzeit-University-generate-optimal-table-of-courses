@@ -48,14 +48,16 @@ The program encounters a few challenges, including the inability to automaticall
 #### - The absence of an automated information extraction method from the Ritaj University website. The program relies on a specific format, and any minor changes to the presentation of information on the website may disrupt its functionality.
 #### - The graphical user interface (GUI) of the program only works on computers, and if the screen resolution differs from 1600x900, the program may display poorly.
 
-## تحضرير بيانات الجامعة
-
-## University Data Preparation
 ![UI1](dm/13.jpg)
 ![UI1](dm/12.png)
 في البداية وقبل أن نبدأ بأي شيء يجب الـتأكد من اعدادات العرض للشاشة "1600x900"
 
 Before we begin, it's essential to ensure that the screen resolution is set to "1600x900".
+
+
+## تحضرير بيانات الجامعة
+
+## University Data Preparation
 
 ![UI1](dm/1.jpg)
 سنذهب إلى "مستعرض المساقات" ثم نختار " الفصل الدراسي "
