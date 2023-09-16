@@ -25,6 +25,11 @@ Additionally, the program offers several options for the students, including spe
 
 The program faces several challenges, including the inability to extract information from the university's website due to strong security measures and encrypted data. However, we have found a way to convert the data into a "JSON" file by simply copying and pasting. The drawback is that users need to manually input the information before running the program.
 
+### مشاكل في البرنامج أسعى لحلها مستقبلا ...
+#### - لا يعمل على الويب أو على أجهزة الموبايل
+#### - لا تتوفر طريقة تلقائية لاستخراج المعلومات من موقع ريتاج بل عن طريق برنامج يعمل على ترتيب معين في حال تم تغيير طريقة عرض المعلومات في موقع ريتاج ولو تغيير بسيط سيتوقف البرنامج عن العمل
+#### - برنامج العرض GUI يعمل فقط عبى لأجهزة الحاسوب وان كان عرض دقة الشاشة resoluation مختلف عن 1600x900 سيظهر البرنامج بشكل سيء
+
 
 ## تحضرير بيانات الجامعة
 ![UI1](dm/13.jpg)
