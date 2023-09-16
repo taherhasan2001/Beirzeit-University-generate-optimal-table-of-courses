@@ -51,4 +51,4 @@ The program faces several challenges, including the inability to extract informa
 ![UI1](dm/10.png)
 ثم نختار المواصفات التي نريدها 
 ![UI1](dm/11.png)
-وبهذا يكون لدينا عدد من المجموعات المتاحة لاختيارك الجدول الذي يناسبك
+وبهذا يكون لدينا عدد من المجموعات المتاحة لاختيار الجدول الذي يناسبك
