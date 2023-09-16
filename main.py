@@ -128,6 +128,6 @@ from interface import *
 #      print(key)
 #      print(dec[key])
 #      print("*****Sent********") #  DectoUse,flagReducedays,flagreduceTime,flagReduceStartTime,flagReduceEndTime
-display(DectoUse=dec,flagReducedays=True,flagreduceTime=True,flagReduceStartTime=True,flagReduceEndTime=True,flagReduceTotalTime=True)
+display(DectoUse=dec,flagReducedays=True,flagreduceTime=False,flagReduceStartTime=False,flagReduceEndTime=False,flagReduceTotalTime=False)
 
 # here we send the dec with all groups of sec that dont has any collision
