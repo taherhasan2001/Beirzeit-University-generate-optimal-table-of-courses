@@ -26,7 +26,7 @@ The program faces several challenges, including the inability to extract informa
 
 
 ## طريقة تحضرير البيانات الجامعة
-![UI1](dm/12.jpg)
+![UI1](dm/12.png)
 في البداية وقبل أن نبدأ بأي شيء يجب الـتأكد من اعدادات العرض للشاشة "1600x900" 
 ![UI1](dm/1.jpg)
 في البداية سنذهب إلى "مستعرض المساقات" ثم نختار " الفصل الدراسي "
