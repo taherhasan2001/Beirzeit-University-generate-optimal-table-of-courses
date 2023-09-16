@@ -14,6 +14,7 @@ class display():
         self.minTime = None
         self.minDays = None
         self.Dec = DectoUse
+        self.button_pointer = 0
         # ------------------ choices ------------------
         if flagReducedays:
             self.get_details()
@@ -46,11 +47,15 @@ class display():
             print("====================================================================================================")
             self.Dec = self.reduceTotalTime()
         # ------------------ end choices ------------------
-        
+        for key in self.Dec:
+            print(key)
+            print(self.Dec[key])
+            print("*****Sent********")
         # ------------------ GUI ------------------
         self.window = Tk()
         self.window.title('test')
         self.labels = []
+        self.buttons = []
         self.window.geometry("1600x853")
         self.window.configure(bg="#ffffff")
         self.window.overrideredirect(1)
@@ -80,13 +85,59 @@ class display():
             command=lambda: self.button_Exit(master=self.window),
             relief="flat").place(x=10, y=10)
         
+        imgNext = PhotoImage(file=path + r"\Next.png")
+        bNext = Button(
+            master=self.window,
+            image=imgNext,
+            borderwidth=0,
+            highlightthickness=0,
+            command=lambda: self.button_Next(),
+            relief="flat")
+        bNext.place(x=1178, y=293)
+        
+        imgPrevious = PhotoImage(file=path + r"\Previous.png")
+        bPrevious = Button(
+            master=self.window,
+            image=imgPrevious,
+            borderwidth=0,
+            highlightthickness=0,
+            command=lambda: self.button_Previous(),
+            relief="flat")
+        bPrevious.place(x=1020, y=293)
+        for i in range(25):
+            self.buttons.append(Button(master=self.window, command=lambda: self.doNothing(), relief="flat", bg="#99ffcc", height=1, width=1,
+                   text="test", bd=0))
+
+        for i in range(10):
+            line_label = []
+            for txt in range(5):
+                line_label.append(self.finalText(x=txt, y=i, color='white', txt=''))
+            self.labels.append(line_label)
         self.show()
         self.window.mainloop()
-
-    def show(self): #change_l_lf_and_show
+        
+    def button_Previous(self):
+        if self.pointer != 0:
+            self.pointer -= 1
+        counter = 0
+        for key in self.Dec:
+            if counter == self.pointer:
+                    self.show(dec={key:self.Dec[key]})
+            counter+= 1
+    def button_Next(self):
+        if self.pointer != len(self.Dec)-1:
+            self.pointer += 1
+        counter = 0
+        for key in self.Dec:
+            if counter == self.pointer:
+                    self.show(dec={key:self.Dec[key]})
+            counter+= 1
+    def show(self,dec = None): #change_l_lf_and_show
         l.clear()
         lf.clear()
-        for key in self.Dec:
+        if dec == None:
+            dec = self.Dec
+        for key in dec:
             for k in key:
                 str = k.__str__().split("-")
                 lf.append([str[0], str[1], str[2], str[3], f"{str[4]}-{str[5]}"])
@@ -111,7 +162,9 @@ class display():
                     l.append(
                         [2, self.calculatAllTime(str[4], str[5]), [int(str[4].split(':')[0]), int(str[4].split(':')[1])],result, str[0], k])
             break
-
+        self.button_pointer = 0
+        for i in range(25):  # make sure to clean all the 25 buttons
+            self.buttons[i].place_forget()
         for section in l:
 
             # -------------- Calculating Y --------------
@@ -140,14 +193,11 @@ class display():
                 calculatedX += int(125 * min / 60)
 
             # -------------- Calculating X --------------
-            self.create_Button(h=int(section[0]), w=int(18 * section[1] / 60), x=calculatedX,
-                               y=calculatedY, text=section[4], section=section[5])
+            self.change_Button(h=int(section[0]), w=int(18 * section[1] / 60), x=calculatedX,
+                               y=calculatedY, text=section[4])
+            self.button_pointer += 1
 
-        for i in range(10):
-            line_label = []
-            for txt in range(5):
-                line_label.append(self.finalText(x=txt, y=i, color='white', txt=''))
-            self.labels.append(line_label)
+
 
         start = 0
         end = len(lf)
@@ -266,9 +316,9 @@ class display():
         return lab
 
 
-    def create_Button(self, h, w, x, y, text, section):
-        Button(master=self.window, command=lambda: self.doNothing(), relief="flat", bg="#99ffcc", height=h, width=w,
-               text=text, bd=0).place(x=x, y=y)
+    def change_Button(self, h, w, x, y, text):
+        self.buttons[self.button_pointer].config(height=h, width=w, text=text)
+        self.buttons[self.button_pointer].place(x=x, y=y)
 
 
     def button_Exit(self, master):
