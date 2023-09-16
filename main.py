@@ -10,10 +10,14 @@ class Course:
         self.numOfStudents = numOfStudents  # 54 / 120
 
     def time_start(self):  # return string
-        return self.time_display.split("-")[0]
+        if self.time_display.split("-")[0] != "N/A":
+            return self.time_display.split("-")[0]
+        return "0:0"
 
     def time_end(self):  # return string
-        return self.time_display.split("-")[1]
+        if self.time_display.split("-")[0] != "N/A":
+            return self.time_display.split("-")[1]
+        return "0:0"
 
     def collision(self, other):  # other is another Course object
         # return True if self and other have collision
@@ -42,7 +46,7 @@ class Course:
 def search_courses(course_name, preName):  # ex : preName = 'ACCT'
     found_courses = []
     flagWeGotOne = False
-    with open(f'{preName}.json', 'r', encoding='utf-8') as file:
+    with open(f'courses/{preName}.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
 
         for course_data in data:
@@ -57,21 +61,34 @@ def search_courses(course_name, preName):  # ex : preName = 'ACCT'
                     course_data["place"],
                     course_data["number of students"]
                 )
+
                 found_courses.append(course)
             elif flagWeGotOne:
                 break
     return found_courses
 
+#
+# listACCT = search_courses("ENCS3320", "ENCS")
+# listCOMP = search_courses("ENCS3330", "ENCS")
+# listCOMP2 = search_courses("ENCS3340", "ENCS")
+# listENCS = search_courses("ENCS4370", "ENCS")
+# listENCS1 = search_courses("ENCS3130", "ENCS")
+# listENCS2 = search_courses("ENCS3310", "ENCS")
+# listENCS3 = search_courses("ENCS4110", "ENCS")
+courses =[]
+while True:
+    print("Enter the course name example ENCS3320 or press X to go : ")
+    courseName = input()
+    if courseName.upper() == "X":
+        break
+    preName = courseName[:4]
+    if preName == "end":
+        break
 
-listACCT = search_courses("ENCS3320", "ENCS")
-listCOMP = search_courses("ENCS3330", "ENCS")
-listCOMP2 = search_courses("ENCS3340", "ENCS")
-listENCS = search_courses("ENCS4370", "ENCS")
-listENCS1 = search_courses("ENCS3130", "ENCS")
-listENCS2 = search_courses("ENCS3310", "ENCS")
-listENCS3 = search_courses("ENCS4110", "ENCS")
+    courses.append(search_courses(courseName, preName))
+    print(courses)
 
-courses = [listACCT, listCOMP, listCOMP2, listENCS, listENCS1, listENCS2, listENCS3]
+# courses = [listACCT, listCOMP, listCOMP2, listENCS, listENCS1, listENCS2, listENCS3]
 
 # ------------------ preparing combinations ------------------
 
@@ -120,14 +137,35 @@ def combinations(ArraySec, index=0, current_combination=[]):
 combinations(courses)
 
 
-
-
 from interface import *
-#
-# for key in dec:
-#      print(key)
-#      print(dec[key])
-#      print("*****Sent********") #  DectoUse,flagReducedays,flagreduceTime,flagReduceStartTime,flagReduceEndTime
-display(DectoUse=dec,flagReducedays=True,flagreduceTime=False,flagReduceStartTime=False,flagReduceEndTime=False,flagReduceTotalTime=False)
-
+flagReducedays = input("Do you want to reduce the days ? (y/n) : ")
+flagreduceTime = input("Do you want to reduce the time ? (y/n) : ")
+flagReduceStartTime = input("Do you want to reduce the start time ? (y/n) : ")
+flagReduceEndTime = input("Do you want to reduce the end time ? (y/n) : ")
+flagReduceTotalTime = input("Do you want to reduce the total time ? (y/n) : ")
+if flagReducedays.upper() == "Y":
+    flagReducedays = True
+else:
+    flagReducedays = False
+if flagreduceTime.upper() == "Y":
+    flagreduceTime = True
+else:
+    flagreduceTime = False
+if flagReduceStartTime.upper() == "Y":
+    flagReduceStartTime = True
+else:
+    flagReduceStartTime = False
+if flagReduceEndTime.upper() == "Y":
+    flagReduceEndTime = True
+else:
+    flagReduceEndTime = False
+if flagReduceTotalTime.upper() == "Y":
+    flagReduceTotalTime = True
+else:
+    flagReduceTotalTime = False
+print(f"flagReducedays = {flagReducedays} \nflagreduceTime = {flagreduceTime} \nflagReduceStartTime = {flagReduceStartTime} \nflagReduceEndTime = {flagReduceEndTime} \nflagReduceTotalTime = {flagReduceTotalTime}")
+print("------------------------------------------------------------------------------------------------------------------------")
+display(DectoUse=dec,flagReducedays=flagReducedays,flagreduceTime=flagreduceTime,flagReduceStartTime=flagReduceStartTime,flagReduceEndTime=flagReduceEndTime,flagReduceTotalTime=flagReduceTotalTime)
+while True:
+    pass
 # here we send the dec with all groups of sec that dont has any collision
