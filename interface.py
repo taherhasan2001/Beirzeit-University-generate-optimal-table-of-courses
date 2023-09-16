@@ -50,7 +50,9 @@ class display():
         for key in self.Dec:
             print(key)
             print(self.Dec[key])
-            print("*****Sent********")
+            print("*************")
+        print("==================================end choices======================================================")
+        print(f"number of groups = {len(self.Dec)}")
         # ------------------ GUI ------------------
         self.window = Tk()
         self.window.title('test')
@@ -74,7 +76,7 @@ class display():
             829.0, 386.0,
             image=background_img)
         # Label(relief="flat", bg="white", height=2, width=2, text=hours, bd=1.5, font=('Times', 16)).place(x=835, y=730)
-
+        Label(self.window, text="Version 1.0").place(x=10, y=830)
         # Sharp Button Outline Dark Mode
         Exit = PhotoImage(file=path + r"\Sharp Button Outline Dark Mode.png")
         Button(
@@ -157,6 +159,8 @@ class display():
                         result = 5
                     elif day == 'F':
                         result = 6
+                    elif day == 'N/A':
+                        result = 11
                     else:
                         raise Exception(f"Error in day ==> {day}")
                     l.append(
