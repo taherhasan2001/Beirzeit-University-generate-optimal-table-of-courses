@@ -1,26 +1,28 @@
 import json
 class Course:
-    def __init__(self, course_label, section, instructor, days, time_display,place=None,numOfStudents=None):
+    def __init__(self, course_label, section, instructor, days, time_display, place=None, numOfStudents=None):
         self.course_label = course_label
-        self.time_display = time_display # 8:00-9:15
+        self.time_display = time_display  # 8:00-9:15
         self.section = section  # 0,1,2,3,...
         self.instructor = instructor  # name
         self.days = days  # "S,M,T,W,R" capital letters with comma
-        self.place = place # "O.Abdulhadi052"
-        self.numOfStudents = numOfStudents # 54 / 120
-    def time_start(self): # return string
+        self.place = place  # "O.Abdulhadi052"
+        self.numOfStudents = numOfStudents  # 54 / 120
+
+    def time_start(self):  # return string
         return self.time_display.split("-")[0]
-    def time_end(self): # return string
+
+    def time_end(self):  # return string
         return self.time_display.split("-")[1]
 
-    def collision(self, other): # other is another Course object
+    def collision(self, other):  # other is another Course object
         # return True if self and other have collision
-        flag_days = True # keep True if no days in common
+        flag_days = True  # keep True if no days in common
 
         for day in self.days.split(","):
             if day in other.days.split(","):
                 flag_days = False
-        if flag_days: # no days in common
+        if flag_days:  # no days in common
 
             return False
         if float(self.time_start().replace(":", ".")) >= float(other.time_end().replace(":", ".")):
@@ -30,14 +32,15 @@ class Course:
             return False
         return True
 
-
     def __str__(self):
-        return f"{self.course_label}-{self.section}-{self.instructor}-{self.days}-{self.time_start()} -> {self.time_end()}"
-    def __repr__(self):
-        return f"{self.course_label}-{self.section}-{self.instructor}-{self.days}-{self.time_start()} -> {self.time_end()}"
+        return f"{self.course_label}-{self.section}-{self.instructor}-{self.days}-{self.time_start()}-{self.time_end()}"
 
-# ------------------ 0 ------------------
-def search_courses(course_name, preName): # ex : preName = 'ACCT'
+    def __repr__(self):
+        return f"{self.course_label}-{self.section}-{self.instructor}-{self.days}-{self.time_start()}-{self.time_end()}"
+
+
+# ------------------ Adding courses ------------------
+def search_courses(course_name, preName):  # ex : preName = 'ACCT'
     found_courses = []
     flagWeGotOne = False
     with open(f'{preName}.json', 'r', encoding='utf-8') as file:
@@ -60,20 +63,20 @@ def search_courses(course_name, preName): # ex : preName = 'ACCT'
                 break
     return found_courses
 
-# ------------------ 0 ------------------
 
 listACCT = search_courses("ACCT230", "ACCT")
 listCOMP = search_courses("COMP233", "COMP")
 listCOMP2 = search_courses("COMP122", "COMP")
 listENCS = search_courses("ENCS4300", "ENCS")
 
-courses = [listACCT , listCOMP, listCOMP2]
+courses = [listACCT, listCOMP, listCOMP2]
 
-# ------------------ 1 ------------------
+# ------------------ preparing combinations ------------------
 minDays = None
 minStartTime = None
 minEndTime = None
 dec = {}
+
 
 def combinations(ArraySec, index=0, current_combination=[]):
     global minDays
@@ -81,26 +84,27 @@ def combinations(ArraySec, index=0, current_combination=[]):
     global minEndTime
     if index == len(ArraySec):
         chosenSections = []
-        for sec in range(len(current_combination)): # making list of chosen sections
+        for sec in range(len(current_combination)):  # making list of chosen sections
             chosenSections.append(courses[sec][current_combination[sec]])
-            #example : chosenSections =  [<__main__.Course object at 0x000002B2EF867FD0>, <__main__.Course object at 0x000002B2EF867D90>]
+            # example : chosenSections =  [<__main__.Course object at 0x000002B2EF867FD0>, <__main__.Course object at 0x000002B2EF867D90>]
         numberOfDays = []
         # check if there is a collision between chosen sections
         # current_combination = [0, 0] -> chosenSections = [arab1, eng1]
         # current_combination = [0, 1] -> chosenSections = [arab1, eng2]
 
         for i in range(len(chosenSections)):
-            for day in  chosenSections[i].days.split(',') : # check the days of each section
+            for day in chosenSections[i].days.split(','):  # check the days of each section
                 if day not in numberOfDays:
                     numberOfDays.append(day)
-            for j in range(i+1, len(chosenSections)):
+            for j in range(i + 1, len(chosenSections)):
                 if chosenSections[i].collision(chosenSections[j]):
                     # print(f"Collision between: {chosenSections[i]} and {chosenSections[j]}")
                     return
 
         if minDays == None or len(numberOfDays) < minDays:
             minDays = len(numberOfDays)
-        if minStartTime == None or float(chosenSections[0].time_start().replace(":", ".")) < float(minStartTime.replace(":", ".")):
+        if minStartTime == None or float(chosenSections[0].time_start().replace(":", ".")) < float(
+                minStartTime.replace(":", ".")):
             minStartTime = chosenSections[0].time_start()
         startTime = None
         endTime = None
@@ -112,10 +116,9 @@ def combinations(ArraySec, index=0, current_combination=[]):
         if minEndTime == None or float(endTime.replace(":", ".")) < float(minEndTime.replace(":", ".")):
             minEndTime = endTime
 
-
         chosenSectionsTuple = tuple(chosenSections)
 
-        dec[chosenSectionsTuple] = {"numberOfDays" : numberOfDays , "startTime" : startTime , "endTime" : endTime}
+        dec[chosenSectionsTuple] = {"numberOfDays": numberOfDays, "startTime": startTime, "endTime": endTime}
         return
 
     max_number = len(ArraySec[index]) - 1
@@ -124,9 +127,11 @@ def combinations(ArraySec, index=0, current_combination=[]):
         combinations(ArraySec, index + 1, current_combination)
         current_combination.pop()
 
+
 combinations(courses)
 
 
+# ------------------ choices to select ------------------
 def reduce_the_days():
     deleted = []
     for key in dec:
@@ -137,6 +142,7 @@ def reduce_the_days():
     for key in deleted:
         dec.pop(key)
 
+
 def reduce_the_startTime():
     deleted = []
     for key in dec:
@@ -144,6 +150,7 @@ def reduce_the_startTime():
             deleted.append(key)
     for key in deleted:
         dec.pop(key)
+
 
 def reduce_the_endTime():
     deleted = []
@@ -153,9 +160,10 @@ def reduce_the_endTime():
     for key in deleted:
         dec.pop(key)
 
+
 def print_dict():
     for key in dec:
-        for k in key :
+        for k in key:
             print(k)
         print(dec[key])
         print("*************")
@@ -163,5 +171,11 @@ def print_dict():
     print("minStartTime: ", minStartTime)
     print("minEndTime: ", minEndTime)
 
+DectoUse = dec.copy()
 
-print_dict()
+
+
+from interface import *
+
+
+display(dec)
