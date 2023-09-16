@@ -1,0 +1,292 @@
+ البوابة الأكاديمية والإدارية لجامعة بيرزيت
+اشعارات
+ 
+اعلانات
+ 
+رسائل
+ 
+حسابي
+ابدأ بالكتابة للبحث في القوائم
+عربي
+First Semester 2023/2024
+Bachelor Program of Computer Systems Engineering - برنامج بكالوريوس هندسة أنظمة الحاسوب
+Bachelor Level Courses of Computer Systems Engineering
+Choose Semester: 
+First Semester 2023/2024
+Study Language: 
+--- All languages ---
+ENCS2110	مختبر الإلكترونيات الرقمية وتنظيم الحاسوب	DIGITAL ELECTRONICS AND COMPUTER ORGANIZATION LABORATORY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Jamal Othman Hosen Seyam	18 / 18	
+W	11:00 - 13:50	Masri107
+Lecture	2	Abdallatif S. A. Abuissa	16 / 18	
+T	08:00 - 10:50	Masri107
+Lecture	3		18 / 18	
+M	14:00 - 16:50	Masri107
+Lecture	4	Hakam Suleiman Nu'Man Shehadeh	18 / 18	
+T	11:00 - 13:50	Masri107
+Lecture	5		17 / 18	
+W	14:00 - 16:50	Masri107
+Lecture	6	Ali Hasan Moath Abdo	18 / 18	
+R	11:00 - 13:50	Masri107
+Lecture	7	Khader Shehadeh Nassar Mohammad	18 / 18	
+W	08:00 - 10:50	Masri107
+Lecture	8		18 / 18	
+S	14:00 - 16:50	Masri107
+Lecture	9		13 / 18	
+R	14:00 - 16:50	Masri107
+ENCS2340	أنظمة رقمية	DIGITAL SYSTEMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ismail Mohammad Mousa Khater	48 / 45	
+T, R	12:30 - 13:50	Masri204
+Lecture	2	Ismail Mohammad Mousa Khater	51 / 45	
+S, M, W	11:00 - 11:50	Masri306
+Lecture	3		45 / 45	
+S, M, W	13:00 - 13:50	Masri106
+Lecture	4	Ali Hasan Moath Abdo	45 / 45	
+S, M, W	09:00 - 09:50	Masri306
+Lecture	5	Qadri A. A. Mayyala	45 / 45	
+T, R	09:30 - 10:50	Masri406
+Lecture	6		45 / 45	
+S, M, W	12:00 - 12:50	Masri306
+Lecture	7		45 / 45	
+S, M, W	08:00 - 08:50	Masri504
+Lecture	8		45 / 45	
+S,W	14:00 - 15:20	Masri204	Bamieh105
+ENCS2380	تنظيم الحاسوب والمعالج الدقيق	COMPUTER ORGANIZATION AND MICROPROCESSOR	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Abualseoud Ahmad Abualseoud Hanani	16 / 45	
+S, M, W	13:00 - 13:50	Masri306
+Lecture	2	Abualseoud Ahmad Abualseoud Hanani	38 / 45	
+S, M, W	11:00 - 11:50	Masri502
+ENCS3130	مختبر لينوكس	LINUX LABORATORY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		21 / 20	
+R	14:00 - 16:50	Masri407
+Lecture	2	Khader Shehadeh Nassar Mohammad	20 / 20	
+W	14:00 - 16:50	Masri407
+Lecture	3	Mohammad Khaleel Issa Jubran	19 / 20	
+W	11:00 - 13:50	Masri407
+Lecture	4	Aziz Mohammed Ahmad Qaroush	17 / 20	
+M	11:00 - 13:50	Masri407
+Lecture	5		9 / 20	
+S	14:00 - 16:50	Masri407
+ENCS3310	تصميم الأنظمة الرقمية المتقدمة	ADVANCED DIGITAL SYSTEMS DESIGN	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Abdallatif S. A. Abuissa	53 / 45	
+S, M, W	09:00 - 09:50	Masri502
+Lecture	2	Abdallatif S. A. Abuissa	48 / 45	
+S, M, W	10:00 - 10:50	Masri502
+Lecture	3		31 / 45	
+T, R	08:00 - 09:20	Masri502
+ENCS3320	شبكات الحاسوب	COMPUTER NETWORKS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Abdalkarim Ishaq Ibraheem Awad	53 / 45	
+T, R	11:00 - 12:20	Masri202
+Lecture	2	Mohammad Khaleel Issa Jubran	45 / 45	
+T, R	12:30 - 13:50	Masri202
+Lecture	3	Abdalkarim Ishaq Ibraheem Awad	49 / 45	
+S, M, W	11:00 - 11:50	Masri504
+Lecture	4		38 / 45	
+T, R	12:30 - 13:50	Bamieh102
+ENCS3330	الدوائر الرقمية المتكاملة	DIGITAL INTEGRATED CIRCUITS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Khader Shehadeh Nassar Mohammad	28 / 45	
+T, R	08:00 - 09:20	Masri202
+Lecture	2	Khader Shehadeh Nassar Mohammad	44 / 45	
+T, R	12:30 - 13:50	Masri304
+ENCS3340	الذكاء الاصطناعي	ARTIFICIAL INTELLIGENCE	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		34 / 45	
+S, M, W	10:00 - 10:50	Masri406
+Lecture	2		11 / 45	
+S, M, W	13:00 - 13:50	Masri406
+ENCS3341	الانظمة المدمجة	EMBEDDED SYSTEMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		23 / 45	
+S, M, W	08:00 - 08:50	Aggad403
+ENCS336	تنظيم الحاسوب ولغة التجميع	COMPUTER ORGANIZATION AND ASSEMBLY LANGUAGE	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		45 / 45	
+S, M, W	11:00 - 11:50	Masri204
+Lecture	2		29 / 45	
+S, M, W	09:00 - 09:50	Masri110
+ENCS3390	نظم التشغيل	OPERATING SYSTEMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		44 / 45	
+S, M, W	10:00 - 10:50	Masri106
+Lecture	2		25 / 45	
+T, R	14:00 - 15:20	Masri404
+Lecture	3	Bashar Mohammad Abdul Khaliq Tahayna	43 / 45	
+T, R	08:00 - 09:20	Masri108
+Lecture	4	Bashar Mohammad Abdul Khaliq Tahayna	49 / 45	
+T, R	09:30 - 10:50	Aggad415
+ENCS4101	مختبر الانظمة المدمجة	EMBEDDED SYSTEMS LAB.	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		17 / 18	
+S	11:00 - 13:50	WKS213
+ENCS411	مختبر تطبيقات الحاسوب	COMPUTER DESIGN LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Abdallatif S. A. Abuissa	7 / 18	
+M	14:00 - 16:50	Masri207
+ENCS4110	مختبر تطبيقات الحاسوب	COMPUTER DESIGN LABORATORY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Abualseoud Ahmad Abualseoud Hanani	18 / 18	
+T	11:00 - 13:50	Masri207
+Lecture	2	Abualseoud Ahmad Abualseoud Hanani	18 / 18	
+S	14:00 - 16:50	Masri207
+Lecture	3	Ayman Ali Mohammad Hroub	18 / 18	
+W	14:00 - 16:50	Masri207
+Lecture	4	Ayman Ali Mohammad Hroub	19 / 18	
+R	14:00 - 16:50	Masri207
+Lecture	5		1 / 18	
+S	08:00 - 10:50	Masri207
+Lecture	6		11 / 18	
+W	11:00 - 13:50	Masri207
+ENCS412	مختبر المواءمة	INTERFACING LABORATORY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Wasel Tahsin Ahmad Ghanem	8 / 18	
+M	11:00 - 13:50	WKS213
+ENCS4130	مختبر شبكات الحاسوب	COMPUTER NETWORK LABORATORY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		16 / 16	
+W	14:00 - 16:50	Masri503
+Lecture	2		16 / 16	
+M	14:00 - 16:50	Masri503
+Lecture	3		15 / 16	
+R	14:00 - 16:50	Masri503
+Lecture	4	Ismail Mohammad Mousa Khater	16 / 16	
+M	08:00 - 10:50	Masri503
+Lecture	5		16 / 16	
+T	08:00 - 10:50	Masri503
+Lecture	6	Ismail Mohammad Mousa Khater	16 / 16	
+S	14:00 - 16:50	Masri503
+Lecture	7	Abdalkarim Ishaq Ibraheem Awad	16 / 16	
+W	08:00 - 10:50	Masri503
+Lecture	8		16 / 16	
+S	11:00 - 13:50	Masri303
+ENCS4210	أخلاقيات هندسة الحاسوب	COMPUTER ENGINEERING ETHICS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Abdel Salam Muhammad Khader Sayyad	51 / 45	
+S	08:00 - 09:50	Masri106
+Lecture	2		49 / 45	
+W	08:00 - 09:50	Masri304
+ENCS4300	التدريب العملي	PRACTICAL TRAINING	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mohammed Sami Abdul Karim Hussein	36 / 35	
+N/A	N/A	N/A
+ENCS4310	معالجة الإشارات الرقمية	DIGITAL SIGNAL PROCESSING (DSP)	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Qadri A. A. Mayyala	21 / 45	
+S, M, W	11:00 - 11:50	Masri304
+Lecture	2	Abualseoud Ahmad Abualseoud Hanani	45 / 45	
+S,M, W	09:00 - 09:50	Masri204	Bamieh205
+ENCS4320	التشفير التطبيقي	APPLIED CRYPTOGRAPHY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Mohammed Sami Abdul Karim Hussein	48 / 45	
+T, R	12:30 - 13:50	Masri502
+Lecture	2	Mohammed Sami Abdul Karim Hussein	52 / 45	
+T, R	09:30 - 10:50	Masri502
+Lecture	3		26 / 45	
+S,M	14:00 - 15:20	Masri304
+
+ENCS4330	تطبيقات الزمن الحقيقي والأنظمة المقحمة	REAL-TIME APPLICATIONS AND EMBEDDED SYSTEMS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Hanna Saba Hanna Bullata	43 / 45	
+S, M, W	08:00 - 08:50	Masri406
+Lecture	2	Hanna Saba Hanna Bullata	45 / 45	
+T, R	08:00 - 09:20	Bamieh206
+ENCS4370	عمارة الحاسبات	COMPUTER ARCHITECTURE	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ayman Ali Mohammad Hroub	46 / 45	
+S, M, W	11:00 - 11:50	Masri106
+Lecture	2	Aziz Mohammed Ahmad Qaroush	51 / 45	
+T, R	11:00 - 12:20	Masri106
+ENCS4380	أساليب المواءمة	INTERFACING TECHNIQUES	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Wasel Tahsin Ahmad Ghanem	47 / 45	
+T, R	11:00 - 12:20	Masri404
+Lecture	2	Wasel Tahsin Ahmad Ghanem	47 / 45	
+T, R	12:30 - 13:50	Masri504
+ENCS5101	مختبر المعالجات الدقيقة والأنظمة المدمجة	MICROPROCESSOR AND EMBEDDED SYSTEMS LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Jamal Othman Hosen Seyam	7 / 18	
+M	11:00 - 13:50	Masri207
+ENCS5121	مختبر أمن المعلومات وشبكات الحاسوب	INFORMATION SECURITY AND COMPUTER NETWORK LABORATORY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ahmad Saleh Ibrahim Alsadeh	16 / 16	
+M	11:00 - 13:50	Masri503
+ENCS5131	مختبر تصميم الأجهزة	HARDWARE DESIGN LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Khader Shehadeh Nassar Mohammad	9 / 16	
+M	14:00 - 16:50	Aggad331
+ENCS514	مختبر نظم الزمن الحقيقي	REAL-TIME SYSTEMS LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Hanna Saba Hanna Bullata	13 / 18	
+S	14:00 - 16:50	WKS213
+ENCS5140	مختبر نظم الزمن وأساليب المواءمة الحقيقي	REAL-TIME SYSTEM AND INTERFACING TECHNIQUES LABORATORY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Hanna Saba Hanna Bullata	18 / 18	
+W	11:00 - 13:50	WKS213
+Lecture	2	Hanna Saba Hanna Bullata	16 / 18	
+S	11:00 - 13:50	Masri407
+Lecture	3	Wasel Tahsin Ahmad Ghanem	20 / 18	
+W	14:00 - 16:50	WKS213
+Lecture	4	Wasel Tahsin Ahmad Ghanem	20 / 18	
+R	14:00 - 16:50	WKS213
+ENCS5141	مختبر الأنظمة الذكية	INTELLIGENT SYSTEMS LAB	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Yazan Jamal Ibrahim Abu Farha	18 / 18	
+T	11:00 - 13:50	Masri407
+Lecture	2	Aziz Mohammed Ahmad Qaroush	19 / 18	
+W	08:00 - 10:50	Masri407
+Lecture	3	Mohammad Khaleel Issa Jubran	18 / 18	
+M	14:00 - 16:50	Masri407
+ENCS5150	مختبر متقدم في هندسة انظمة الحاسوب	ADVANCED COMPUTER SYSTEMS ENGINEERING LABORATORY	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Yazan Jamal Ibrahim Abu Farha	14 / 18	
+W	14:00 - 16:50	WKS215
+Lecture	2		13 / 18	
+R	14:00 - 16:50	WKS215
+Lecture	3		17 / 18	
+M	14:00 - 16:50	WKS215
+Lecture	4		16 / 18	
+S	14:00 - 16:50	WKS215
+ENCS5200	مقدمة مشروع التخرج	INTRODUCTION TO GRADUATION PROJECT	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		99 / 100	
+N/A	N/A	N/A
+ENCS5300	مشروع التخرج	GRADUATION PROJECT	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		36 / 100	
+N/A	N/A	N/A
+ENCS5321	شبكات الحاسوب المتقدمة	ADVANCED COMPUTER NETWORKS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1		38 / 45	
+T, R	08:00 - 09:20	Masri304
+ENCS5322	بروتوكولات أمان الشبكة	NETWORK SECURITY PROTOCOLS	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ahmad Saleh Ibrahim Alsadeh	24 / 45	
+S, M, W	10:00 - 10:50	Aggad421
+ENCS5331	معمارية الحاسوب المتقدمة	ADVANCED COMPUTER ARCHITECTURE	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Ayman Ali Mohammad Hroub	17 / 45	
+S, M, W	13:00 - 13:50	Masri304
+ENCS5332	تصميم الرقائق المتكاملة	VLSI DESIGN	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Khader Shehadeh Nassar Mohammad	14 / 45	
+T, R	11:00 - 12:20	Masri406
+ENCS5341	تعلم الالة وعلوم البيانات	MACHINE LEARNING AND DATA SCIENCE	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Yazan Jamal Ibrahim Abu Farha	48 / 45	
+S, M, W	13:00 - 13:50	Masri302
+Lecture	2	Yazan Jamal Ibrahim Abu Farha	47 / 45	
+S, M, W	11:00 - 11:50	Masri202
+ENCS5343	رؤية الحاسوب	COMPUTER VISION	Study Language: English
+ 	Class Number	Instructor Name	Number of Students / Capacity	Classes Time
+Lecture	1	Aziz Mohammed Ahmad Qaroush	50 / 45	
+T, R	09:30 - 10:50	Masri204
+Lecture	2	Aziz Mohammed Ahmad Qaroush	44 / 45	
+M, W	14:00 - 15:20	Masri106
+© 2002 - 2023 جامعة بيرزيت . جميع الحقوق محفوظة
+بريد إلكتروني عناوين البريد الإلكتروني للتواصل مع الجامعة هاتف +970-2-2982000    عيادة الجامعة العيادة: الأرضي 022982151   الخلوي 0592982001    حرس الجامعة الحرس: الأرضي 022982919   الخلوي 0599281200

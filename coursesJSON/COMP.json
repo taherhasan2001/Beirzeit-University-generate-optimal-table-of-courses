@@ -1,0 +1,173 @@
+[
+    {
+        "name of course": "COMP111",
+        "sec": 1,
+        "name of instructor": "Wae'D Aziz Mohammed Salama",
+        "number of students": "14",
+        "days": "T, R",
+        "time": "08:00 - 09:40",
+        "place": "Masri402"
+    },
+    {
+        "name of course": "COMP111",
+        "sec": 2,
+        "name of instructor": "Furat Mashhoor Ahmad Daoud",
+        "number of students": "22",
+        "days": "M, W",
+        "time": "14:00 - 15:40",
+        "place": "Masri402"
+    },
+    {
+        "name of course": "COMP122",
+        "sec": 1,
+        "name of instructor": "Mohammad Y. M. Alkhanafseh",
+        "number of students": "34",
+        "days": "M, W",
+        "time": "13:00 - 13:50",
+        "place": "Masri109"
+    },
+    {
+        "name of course": "COMP132",
+        "sec": 1,
+        "name of instructor": "Mohammad Y. M. Alkhanafseh",
+        "number of students": "25",
+        "days": "M, W",
+        "time": "10:00 - 11:40",
+        "place": "Masri404"
+    },
+    {
+        "name of course": "COMP133",
+        "sec": 1,
+        "name of instructor": "Samer Mas'Oud Ahmad Zein",
+        "number of students": "36",
+        "days": "M, T, W, R",
+        "time": "09:20 - 10:10",
+        "place": "Masri110"
+    },
+    {
+        "name of course": "COMP1331",
+        "sec": 1,
+        "name of instructor": "Abdallah Haidar Mohammad Karakra",
+        "number of students": "47",
+        "days": "M, W",
+        "time": "09:00 - 10:40",
+        "place": "Masri109"
+    },
+    {
+        "name of course": "COMP1331",
+        "sec": 2,
+        "name of instructor": "Hafez Ali Hafez Barghouthi",
+        "number of students": "27",
+        "days": "M, W",
+        "time": "08:00 - 09:40",
+        "place": "Masri306"
+    },
+    {
+        "name of course": "COMP231",
+        "sec": 1,
+        "name of instructor": "Mohammed H. S. Helal",
+        "number of students": "18",
+        "days": "M, T, W, R",
+        "time": "12:20 - 13:10",
+        "place": "Masri306"
+    },
+    {
+        "name of course": "COMP2311",
+        "sec": 1,
+        "name of instructor": "Saadeddin A. M. Hroub",
+        "number of students": "15",
+        "days": "T, R",
+        "time": "14:00 - 15:40",
+        "place": "Masri110"
+    },
+    {
+        "name of course": "COMP233",
+        "sec": 1,
+        "name of instructor": "Radi A. R. Jarrar",
+        "number of students": "45",
+        "days": "M, T, W, R",
+        "time": "14:00 - 15:10",
+        "place": "Masri109"
+    },
+    {
+        "name of course": "COMP233",
+        "sec": 2,
+        "name of instructor": "Radi A. R. Jarrar",
+        "number of students": "47",
+        "days": "M, T, W, R",
+        "time": "09:20 - 10:30",
+        "place": "Masri302"
+    },
+    {
+        "name of course": "COMP233",
+        "sec": 3,
+        "name of instructor": "Radi A. R. Jarrar",
+        "number of students": "52",
+        "days": "M, T, W, R",
+        "time": "11:00 - 12:10",
+        "place": "Masri110"
+    },
+    {
+        "name of course": "COMP233",
+        "sec": 4,
+        "name of instructor": "Ahmad So'Ud Salim Hamo",
+        "number of students": "43",
+        "days": "M, T, W, R",
+        "time": "14:00 - 15:10",
+        "place": "Masri106"
+    },
+    {
+        "name of course": "COMP311",
+        "sec": 1,
+        "name of instructor": "Alaa Sh. A. Nairat",
+        "number of students": "16",
+        "days": "T, R",
+        "time": "08:00 - 10:40",
+        "place": "Masri405"
+    },
+    {
+        "name of course": "COMP311",
+        "sec": 2,
+        "name of instructor": "Hafez Ali Hafez Barghouthi",
+        "number of students": "11",
+        "days": "T, R",
+        "time": "11:00 - 13:40",
+        "place": "Masri405"
+    },
+    {
+        "name of course": "COMP3300",
+        "sec": 1,
+        "name of instructor": "Sobhi Ghassen Sobhi Ahmed",
+        "number of students": "35",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "COMP3300",
+        "sec": 2,
+        "name of instructor": "Sobhi Ghassen Sobhi Ahmed",
+        "number of students": "35",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "COMP3300",
+        "sec": 3,
+        "name of instructor": "Sobhi Ghassen Sobhi Ahmed",
+        "number of students": "35",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    },
+    {
+        "name of course": "COMP3300",
+        "sec": 4,
+        "name of instructor": "Sobhi Ghassen Sobhi Ahmed",
+        "number of students": "16",
+        "days": "N/A",
+        "time": "N/A",
+        "place": "N/A"
+    }
+]
