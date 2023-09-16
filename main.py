@@ -46,7 +46,7 @@ class Course:
 def search_courses(course_name, preName):  # ex : preName = 'ACCT'
     found_courses = []
     flagWeGotOne = False
-    with open(f'courses/{preName}.json', 'r', encoding='utf-8') as file:
+    with open(f'coursesJSON/{preName}.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
 
         for course_data in data:
