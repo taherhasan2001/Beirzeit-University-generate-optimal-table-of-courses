@@ -23,4 +23,26 @@ Additionally, the program offers several options for the students, including spe
 The program faces several challenges, including the inability to extract information from the university's website due to strong security measures and encrypted data. However, we have found a way to convert the data into a "JSON" file by simply copying and pasting. The drawback is that users need to manually input the information before running the program.
 
 
-
+## طريقة تحضرير البيانات الجامعة
+![UI1](dm/1.png)
+في البداية سنذهب إلى "مستعرض المساقات" ثم نختار " الفصل الدراسي "
+ونبحث عن مقدمة المواد التي نريدها على سبيل مثال مواد هندسة الحاسوب "ENCS" 
+![UI1](dm/2.png)
+بعد ذلك يجب علينا تحويل لغة العرض إلى اللغة الإنجليزية
+![UI1](dm/3.png)
+ثم ننسخ كل الصفحة المعروضة 
+![UI1](dm/4.png)
+في مجلد "coursesTXT" نقوم بإنشاء ملف جديد بإسم مقدمة المواد "ENCS" ويجب ان تكون الحروف كبيرة 
+![UI1](dm/5.png)
+![UI1](dm/6.png)
+الان نحول المعلومان إلى ملف بامتداد "JSON" عن طريق ملف التشغيل "prepare JSON file" ونكتب اسم مقدمة المواد الهندسية "ENCS" ونضغط على "ENTER"
+![UI1](dm/7.png)
+سيظهر لنا ملف "ENCS.json" في مجلد "coursesJSON" 
+![UI1](dm/8.png)
+واخيرا نذهب إلى ملف التشغبل "runme" وبامكاننا ان نضيف أي مادة تبدأ ب"ENCS" (سنكرر نفس الخطواط السابقة لإضافة أي مواد من تخصصات مختلفة مثل MATH ARAB ect
+![UI1](dm/9.png)
+سنستمر في إضافة المواد وعندما ننتهي نضغط على x 
+![UI1](dm/10.png)
+ثم نختار المواصفات التي نريدها 
+![UI1](dm/11.png)
+وبهذا يكون لدينا عدد من المجموعات المتاحة لاختيارك الجدول الذي يناسبك
