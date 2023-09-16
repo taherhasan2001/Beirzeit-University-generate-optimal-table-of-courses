@@ -7,6 +7,211 @@ lf = []
 path = os.path.abspath("img")
 
 class display():
+    def __init__(self, DectoUse,flagReducedays,flagreduceTime,flagReduceStartTime,flagReduceEndTime,flagReduceTotalTime):
+        self.pointer = 0
+        self.minStartTime = None
+        self.minEndTime = None
+        self.minTime = None
+        self.minDays = None
+        self.Dec = DectoUse
+        # ------------------ choices ------------------
+        if flagReducedays:
+            self.get_details()
+            print(
+                f"[flagReducedays = {flagReducedays}] minDays = {self.minDays} \nminStartTime = {self.minStartTime} \nminEndTime = {self.minEndTime} \nminTime = {self.minTime} \nnumber of groups = {len(self.Dec)}")
+            print("====================================================================================================")
+            self.Dec = self.reduceDays()
+        if flagreduceTime:
+            self.get_details()
+            print(
+                f"[flagreduceTime = {flagreduceTime}] minDays = {self.minDays} \nminStartTime = {self.minStartTime} \nminEndTime = {self.minEndTime} \nminTime = {self.minTime}\nnumber of groups = {len(self.Dec)}")
+            print("====================================================================================================")
+            self.Dec = self.reduceTime()
+        if flagReduceStartTime:
+            self.get_details()
+            print(
+                f"[flagReduceStartTime = {flagReduceStartTime}] minDays = {self.minDays} \nminStartTime = {self.minStartTime} \nminEndTime = {self.minEndTime} \nminTime = {self.minTime}\nnumber of groups = {len(self.Dec)}")
+            print("====================================================================================================")
+            self.Dec = self.reduceStartTime()
+        if flagReduceEndTime:
+            self.get_details()
+            print(
+                f"[flagReduceEndTime = {flagReduceEndTime}] minDays = {self.minDays} \nminStartTime = {self.minStartTime} \nminEndTime = {self.minEndTime} \nminTime = {self.minTime}\nnumber of groups = {len(self.Dec)}")
+            print("====================================================================================================")
+            self.Dec = self.reduceEndTime()
+        if flagReduceTotalTime:
+            self.get_details()
+            print(
+                f"[flagReduceTotalTime = {flagReduceTotalTime}] minDays = {self.minDays} \nminStartTime = {self.minStartTime} \nminEndTime = {self.minEndTime} \nminTime = {self.minTime}\nnumber of groups = {len(self.Dec)}")
+            print("====================================================================================================")
+            self.Dec = self.reduceTotalTime()
+        # ------------------ end choices ------------------
+        
+        # ------------------ GUI ------------------
+        self.window = Tk()
+        self.window.title('test')
+        self.labels = []
+        self.window.geometry("1600x853")
+        self.window.configure(bg="#ffffff")
+        self.window.overrideredirect(1)
+        canvas = Canvas(
+            self.window,
+            bg="#ffffff",
+            height=900,
+            width=1600,
+            bd=0,
+            highlightthickness=0,
+            relief="ridge")
+        canvas.place(x=0, y=0)
+
+        background_img = PhotoImage(file=path + r"\background.png")
+        background = canvas.create_image(
+            829.0, 386.0,
+            image=background_img)
+        # Label(relief="flat", bg="white", height=2, width=2, text=hours, bd=1.5, font=('Times', 16)).place(x=835, y=730)
+
+        # Sharp Button Outline Dark Mode
+        Exit = PhotoImage(file=path + r"\Sharp Button Outline Dark Mode.png")
+        Button(
+            master=self.window,
+            image=Exit,
+            borderwidth=0,
+            highlightthickness=0,
+            command=lambda: self.button_Exit(master=self.window),
+            relief="flat").place(x=10, y=10)
+        
+        self.show()
+        self.window.mainloop()
+
+    def show(self): #change_l_lf_and_show
+        l.clear()
+        lf.clear()
+        for key in self.Dec:
+            for k in key:
+                str = k.__str__().split("-")
+                lf.append([str[0], str[1], str[2], str[3], f"{str[4]}-{str[5]}"])
+                for day in str[3].replace(' ', '').split(','):
+
+                    if day == 'S':
+                        result = 0
+                    elif day == 'Sun':
+                        result = 1
+                    elif day == 'M':
+                        result = 2
+                    elif day == 'T':
+                        result = 3
+                    elif day == 'W':
+                        result = 4
+                    elif day == 'R':
+                        result = 5
+                    elif day == 'F':
+                        result = 6
+                    else:
+                        raise Exception(f"Error in day ==> {day}")
+                    l.append(
+                        [2, self.calculatAllTime(str[4], str[5]), [int(str[4].split(':')[0]), int(str[4].split(':')[1])],result, str[0], k])
+            break
+
+        for section in l:
+
+            # -------------- Calculating Y --------------
+            h = section[3]
+            calculatedY = 351
+            while h > 0:
+                calculatedY += 53
+                h -= 1
+            # -------------- Calculating Y --------------
+
+            # -------------- Calculating X --------------
+            hours = section[2][0]
+            min = section[2][1]
+            if hours == 2:
+                hours = 14
+            elif hours == 1:
+                hours = 13
+            elif hours == 3:
+                hours = 15
+
+            calculatedX = 145
+            while hours > 7:
+                hours -= 1
+                calculatedX += 125
+            if min > 0:
+                calculatedX += int(125 * min / 60)
+
+            # -------------- Calculating X --------------
+            self.create_Button(h=int(section[0]), w=int(18 * section[1] / 60), x=calculatedX,
+                               y=calculatedY, text=section[4], section=section[5])
+
+        for i in range(10):
+            line_label = []
+            for txt in range(5):
+                line_label.append(self.finalText(x=txt, y=i, color='white', txt=''))
+            self.labels.append(line_label)
+
+        start = 0
+        end = len(lf)
+        if end > 10:
+            end = 10
+
+        self.dis_table_up(start=start, end=end, lf=lf)
+    def get_details(self):
+        self.minTime = None
+        self.minStartTime = None
+        self.minEndTime = None
+        self.minDays = None
+        for key in self.Dec:
+            if self.minDays == None or len(self.Dec[key]['numberOfDays']) < self.minDays:
+                self.minDays = len(self.Dec[key]['numberOfDays'])
+            if self.minStartTime == None or float(self.Dec[key]['startTime'].replace(":", ".")) < float(self.minStartTime.replace(":", ".")):
+                self.minStartTime = self.Dec[key]['startTime']
+            if self.minEndTime == None or float(self.Dec[key]['endTime'].replace(":", ".")) < float(
+                self.minEndTime.replace(":", ".")):
+                self.minEndTime = self.Dec[key]['endTime']
+            if self.minTime == None or float(self.Dec[key]['endTime'].replace(":", ".")) - float(self.Dec[key]['startTime'].replace(":", ".")) < float(
+                self.minTime.replace(":", ".")):
+                self.minTime = str(float(self.Dec[key]['endTime'].replace(":", ".")) - float(self.Dec[key]['startTime'].replace(":", ".")))
+
+
+    def reduceTotalTime(self):
+        dec = {}
+        for key in self.Dec:
+            if str(float(self.Dec[key]['endTime'].replace(":", ".")) - float(self.Dec[key]['startTime'].replace(":", "."))) == self.minTime:
+                if key not in dec:
+                    dec[key] = self.Dec[key]
+        return dec
+    def reduceDays(self):
+        dec = {}
+        for key in self.Dec:
+            if len(self.Dec[key]['numberOfDays']) == self.minDays:
+                if key not in dec:
+                    dec[key] = self.Dec[key]
+        return dec
+    def reduceTime(self):
+        dec = {}
+        for key in self.Dec:
+            if self.Dec[key]['totalTime'] == self.minTime:
+                if key not in dec:
+                    dec[key] = self.Dec[key]
+        return dec
+
+    def reduceStartTime(self):
+        dec = {}
+        for key in self.Dec:
+            if self.Dec[key]['startTime'] == self.minStartTime:
+                if key not in dec:
+                    dec[key] = self.Dec[key]
+        return dec
+
+    def reduceEndTime(self):
+        dec = {}
+        for key in self.Dec:
+            if self.Dec[key]['endTime'] == self.minEndTime:
+                if key not in dec:
+                    dec[key] = self.Dec[key]
+        return dec
+
+
     def exit(self, event):
         self.window.attributes('-fullscreen', False)
     def doNothing(self):
@@ -75,115 +280,5 @@ class display():
         end = int(end[0]) * 60 + int(end[1])
         return end - start
 
-    def __init__(self, DectoUse):
-        for key in DectoUse:
-            for k in key:
-                print("*************")
-                print('k = ', k)
-                str = k.__str__().split("-")
-                lf.append([str[0], str[1], str[2], str[3], f"{str[4]}-{str[5]}"])
-                for day in str[3].replace(' ', '').split(','):
 
-                    if day == 'S':
-                        result = 0
-                    elif day == 'Sun':
-                        result = 1
-                    elif day == 'M':
-                        result = 2
-                    elif day == 'T':
-                        result = 3
-                    elif day == 'W':
-                        result = 4
-                    elif day == 'R':
-                        result = 5
-                    elif day == 'F':
-                        result = 6
-                    else:
-                        raise Exception(f"Error in day ==> {day}")
-                    l.append(
-                        [2, self.calculatAllTime(str[4], str[5]), [int(str[4].split(':')[0]), int(str[4].split(':')[1])],result, str[0], k])
-            break
-
-
-        print(f"l={l} \n lf={lf} \n Table=removed")
-
-
-        self.orginalList = l.copy()
-        self.window = Tk()
-        self.window.title('test')
-        self.labels = []
-        self.point = 0  # using in Table up
-        self.window.geometry("1600x853")
-        self.window.configure(bg="#ffffff")
-        self.window.overrideredirect(1)
-        canvas = Canvas(
-            self.window,
-            bg="#ffffff",
-            height=900,
-            width=1600,
-            bd=0,
-            highlightthickness=0,
-            relief="ridge")
-        canvas.place(x=0, y=0)
-
-        background_img = PhotoImage(file=path + r"\background.png")
-        background = canvas.create_image(
-            829.0, 386.0,
-            image=background_img)
-        # Label(relief="flat", bg="white", height=2, width=2, text=hours, bd=1.5, font=('Times', 16)).place(x=835, y=730)
-
-        for section in l:
-
-            # -------------- Calculating Y --------------
-            h= section[3]
-            calculatedY = 351
-            while h > 0:
-                calculatedY += 53
-                h -= 1
-            # -------------- Calculating Y --------------
-
-            # -------------- Calculating X --------------
-            hours = section[2][0]
-            min = section[2][1]
-            if hours == 2:
-                hours = 14
-            elif hours == 1:
-                hours = 13
-            elif hours == 3:
-                hours = 15
-
-            calculatedX = 145
-            while hours > 7:
-                hours -= 1
-                calculatedX += 125
-            if min > 0:
-                calculatedX += int(125 * min / 60)
-
-
-
-            # -------------- Calculating X --------------
-            self.create_Button(h=int(section[0]), w=int(18 * section[1] / 60), x=calculatedX,
-                    y=calculatedY, text=section[4], section=section[5])
-
-        # Sharp Button Outline Dark Mode
-        Exit = PhotoImage(file=path + r"\Sharp Button Outline Dark Mode.png")
-        Button(
-            master=self.window,
-            image=Exit,
-            borderwidth=0,
-            highlightthickness=0,
-            command=lambda: self.button_Exit(master=self.window),
-            relief="flat").place(x=10, y=10)
-        for i in range(10):
-            line_label = []
-            for txt in range(5):
-                line_label.append(self.finalText(x=txt, y=i, color='white', txt=''))
-            self.labels.append(line_label)
-
-        start = 0
-        end = len(lf)
-        if end > 10:
-            end = 10
-        self.dis_table_up(start=start, end=end, lf=lf)
-        self.window.mainloop()
 
