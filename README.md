@@ -25,7 +25,7 @@ Additionally, the program offers several options for the students, including spe
 The program faces several challenges, including the inability to extract information from the university's website due to strong security measures and encrypted data. However, we have found a way to convert the data into a "JSON" file by simply copying and pasting. The drawback is that users need to manually input the information before running the program.
 
 
-## طريقة تحضرير البيانات الجامعة
+## تحضرير بيانات الجامعة
 ![UI1](dm/13.jpg)
 ![UI1](dm/12.png)
 في البداية وقبل أن نبدأ بأي شيء يجب الـتأكد من اعدادات العرض للشاشة "1600x900" 
