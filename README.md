@@ -41,12 +41,14 @@ The program encounters a few challenges, including the inability to automaticall
 #### - لا يعمل على الويب أو على أجهزة الموبايل
 #### - لا تتوفر طريقة تلقائية لاستخراج المعلومات من موقع ريتاج بل عن طريق برنامج يعمل على ترتيب معين في حال تم تغيير طريقة عرض المعلومات في موقع ريتاج ولو تغيير بسيط سيتوقف البرنامج عن العمل
 #### - برنامج العرض GUI يعمل فقط عبى لأجهزة الحاسوب وان كان عرض دقة الشاشة resoluation مختلف عن 1600x900 سيظهر البرنامج بشكل سيء
-## تحضرير بيانات الجامعة
+
 
 ### Future Challenges to Address
 #### - Lack of compatibility with web browsers and mobile devices.
 #### - The absence of an automated information extraction method from the Ritaj University website. The program relies on a specific format, and any minor changes to the presentation of information on the website may disrupt its functionality.
 #### - The graphical user interface (GUI) of the program only works on computers, and if the screen resolution differs from 1600x900, the program may display poorly.
+
+## تحضرير بيانات الجامعة
 
 ## University Data Preparation
 ![UI1](dm/13.jpg)
