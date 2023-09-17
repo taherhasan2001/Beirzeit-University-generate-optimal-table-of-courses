@@ -29,6 +29,10 @@
 
 يواجه البرنامج عدة مشاكل أهمها عدم القدرة على أخذ المعلومات من موقع صفحة الجامعة لوجود نظام حماية قوي إضافة إلى المعلومات المشفرة 
 
+
+
+
+
 ومع ذلك وجدنا طريقة لتحويل المعلومات إلى ملف بصيغة "جسون" عن طريق فقط النسخ واللصق وبهذا يكون عيبه ان المعلومات يتم أخذها بشكل يدوي من قبل المستخدم قبل التشغيل  
 ## Goal
 This program aims to assist Birzeit University students in creating an optimized class schedule for the semester. The program not only saves students time and effort but also ensures they have the best possible study timetable.
@@ -47,6 +51,14 @@ The program encounters a few challenges, including the inability to automaticall
 #### - Lack of compatibility with web browsers and mobile devices.
 #### - The absence of an automated information extraction method from the Ritaj University website. The program relies on a specific format, and any minor changes to the presentation of information on the website may disrupt its functionality.
 #### - The graphical user interface (GUI) of the program only works on computers, and if the screen resolution differs from 1600x900, the program may display poorly.
+
+
+
+
+
+
+
+
 
 ![UI1](dm/13.jpg)
 ![UI1](dm/12.png)
@@ -121,8 +133,26 @@ Then, we select the specifications we want, at the end we will press 'x'.
 
 This way, we have multiple sets available to choose from, as shown in the image, with 1,489 sets of non-conflicting classes that can be registered for.
 
+
+
+
+
 ![UI1](dm/18.png)
 
 ومع اختيارنا لتقليل عدد الايام وغيرها من المواصفات التي تحسن من الجدول الدراسي تبقى لنا 6 مجموعات كأفضل مجموعة شعب تتوافق مع بعضها البعض 
 
 By choosing to reduce the number of days and other specifications to improve the class schedule, we are left with the top 6 sets of class schedules that are compatible with each other.
+
+
+
+https://github.com/TaherHasan94/Beirzeit-University-generate-optimal-table-of-courses/assets/112001968/937b472c-68bc-43ec-8f50-405a58f28cd4
+
+
+
+
+
+
+
+https://github.com/TaherHasan94/Beirzeit-University-generate-optimal-table-of-courses/assets/112001968/9be2c7f8-9116-4281-991c-0848a685a07f
+
+
